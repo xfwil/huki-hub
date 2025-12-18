@@ -386,9 +386,10 @@
     "Zombie Fruit",
     "Zucchini"
   ],
+  "variants": ["Gold", "Normal", "Rainbow", "Silver"],
   "metadata": {
     "gameName": "Ugc",
-    "timestamp": "2025-12-18 11:53:13",
+    "timestamp": "2025-12-18 11:57:24",
     "username": "otarouparker",
     "placeId": 126884695634066
   },
