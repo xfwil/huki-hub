@@ -78,53 +78,56 @@
       "FilterWeight": 4,
       "Trash": [
         "Kiwi",
-        "Silver Piggy",
-        "Cocoa Cat",
-        "T-Rex",
-        "Turtle Dove",
-        "Snow Bunny",
-        "Lemon Lion",
-        "Penguin",
-        "Grey Mouse",
-        "Kodama",
-        "Rainbow Zebra",
-        "Festive Reindeer",
-        "GIANT Snowman Builder",
-        "Yeti",
-        "Festive Turtle Dove",
+        "Smithing Dog",
         "Rainbow Dilophosaurus",
         "Krampus",
-        "Smithing Dog",
+        "Festive Reindeer",
+        "Festive Turtle Dove",
+        "Kodama",
+        "Rainbow Zebra",
+        "T-Rex",
+        "Cocoa Cat",
         "Festive Yeti",
-        "Red Giant Ant",
-        "Camel",
-        "Geode Turtle",
-        "Stegosaurus",
-        "GIANT Firefly",
-        "Wolf",
-        "Amethyst Beetle",
-        "Emerald Snake",
-        "Topaz Snail",
-        "Snowman Builder",
-        "Sunny-Side Chicken",
-        "Petal Bee",
-        "Bald Eagle",
-        "Messenger Pigeon",
-        "Goblin Miner",
-        "Rooster",
-        "Clam",
-        "Magpie",
-        "Ghostly Bone Dog",
         "Pine Beetle",
+        "Partridge",
+        "Woodpecker",
+        "GIANT Snowman Builder",
+        "Festive Nutcracker",
+        "Capybara",
         "Dairy Cow",
+        "Yeti",
+        "Tiger",
+        "Silver Piggy",
+        "Lemon Lion",
+        "Petal Bee",
+        "Magpie",
+        "Messenger Pigeon",
+        "Clam",
+        "GIANT Firefly",
+        "Sunny-Side Chicken",
+        "Stegosaurus",
+        "Reindeer",
+        "Rooster",
+        "Camel",
+        "Snow Bunny",
+        "Turtle Dove",
+        "Bald Eagle",
+        "Penguin",
+        "Grey Mouse",
+        "Red Giant Ant",
+        "Snowman Builder",
+        "Geode Turtle",
+        "Mizuchi",
+        "Spaghetti Sloth",
+        "Green Bean",
         "Dark Spriggan",
         "Seedling",
         "Peacock",
         "Junkbot",
-        "Summer Kiwi",
         "Brown Mouse",
-        "Ruby Squid",
-        "Orange Tabby",
+        "Tsuchinoko",
+        "Red Dragon",
+        "Glass Dog",
         "Marmot",
         "Moth",
         "Turtle",
@@ -134,48 +137,50 @@
         "Pumpkin Rat",
         "Wisp",
         "Rainbow Hotdog Daschund",
-        "Capybara",
-        "Tanchozuru",
-        "Green Bean",
-        "Partridge",
-        "Mizuchi",
-        "Spaghetti Sloth",
-        "Tiger",
-        "Reindeer",
-        "Woodpecker",
-        "Festive Nutcracker",
-        "Rainbow Fortune Squirrel",
         "Wendigo",
-        "Rainbow Idol Chipmunk",
-        "Scarlet Macaw",
-        "Red Dragon",
-        "Christmas Spirit",
+        "Wind Wyvern",
+        "Ruby Squid",
+        "Mummy",
         "Phoenix",
+        "Scarlet Macaw",
         "Ghostly Scarab",
-        "Glass Dog",
+        "Ghostly Dark Spriggan",
+        "Rainbow Idol Chipmunk",
+        "Christmas Spirit",
+        "Summer Kiwi",
+        "New Year's Chimp",
+        "Rainbow Fortune Squirrel",
+        "Tanchozuru",
+        "Orange Tabby",
+        "Angora Goat",
+        "Blue Whale",
+        "German Shepherd",
+        "White Tiger",
+        "Ghostly Bone Dog",
         "Mistletoad",
-        "Hippo",
-        "Apple Gazelle",
-        "Rainbow Spinosaurus",
+        "Wolf",
+        "Amethyst Beetle",
         "Peach Wasp",
         "Rainbow Parasaurolophus",
+        "Rainbow Lobster Thermidor",
+        "Cockatrice",
+        "Rainbow Spinosaurus",
+        "Rainbow Cardinal",
         "Rainbow Phoenix",
         "Glimmering Sprite",
-        "Rainbow Cardinal",
         "Pixie",
-        "Ladybug",
-        "Rainbow Lobster Thermidor",
         "Barn Owl",
-        "Tree Frog",
-        "Badger",
-        "Cockatrice",
-        "Rainbow Swan",
         "Rainbow Robin",
-        "Bagel Bunny",
-        "Swan",
         "Hummingbird",
-        "Black Bunny",
-        "Mantis Shrimp",
+        "Scarab",
+        "Swan",
+        "Badger",
+        "Rainbow Swan",
+        "Tree Frog",
+        "Bagel Bunny",
+        "Stag Beetle",
+        "Ladybug",
+        "Griffin",
         "Tarantula Hawk",
         "Sand Snake",
         "Hamster",
@@ -183,64 +188,69 @@
         "Rainbow Frost Dragon",
         "Red Fox",
         "Blood Owl",
-        "Griffin",
+        "Black Bunny",
         "Pachycephalosaurus",
         "Rainbow Iguanodon",
-        "Spriggan",
         "Elk",
+        "Mantis Shrimp",
         "Spinosaurus",
+        "Spriggan",
+        "Spider",
         "Jackalope",
         "Raiju",
-        "Spider",
-        "Hyena",
-        "Scarab",
+        "Emerald Snake",
         "GIANT Silver Dragonfly",
+        "Kappa",
+        "Mandrake",
+        "Zebra",
+        "Idol Chipmunk",
+        "Ice Golem",
+        "Frost Squirrel",
         "Ghostly Tomb Marmot",
         "Specter",
-        "Frost Squirrel",
-        "Mummy",
-        "Tomb Marmot",
+        "Firework Sprite",
         "Flamingo",
-        "Blue Jay",
-        "Moon Cat",
-        "Mandrake",
-        "Idol Chipmunk",
-        "Rainbow Elephant",
-        "Gecko",
-        "Zebra",
-        "Rainbow Rhino",
-        "Ice Golem",
         "Raccoon",
-        "Stag Beetle",
-        "Owl",
-        "Ghostly Dark Spriggan",
-        "Rainbow Farmer Chipmunk",
-        "Fortune Squirrel",
-        "Sushi Bear",
-        "Elephant",
-        "Kappa",
-        "Praying Mantis",
+        "Rainbow Elephant",
+        "Flame Bee",
+        "Topaz Snail",
+        "Rainbow Rhino",
+        "Hippo",
+        "Apple Gazelle",
+        "Hyena",
+        "Gecko",
         "Caterpillar",
-        "Rainbow Ankylosaurus",
+        "Tomb Marmot",
+        "Moon Cat",
+        "Sushi Bear",
         "Lion",
+        "Space Squirrel",
+        "Fortune Squirrel",
+        "Elephant",
+        "Rainbow Farmer Chipmunk",
+        "Praying Mantis",
+        "Blue Jay",
         "Ghostly Spider",
+        "Ghostly Headless Horseman",
+        "Rainbow Ankylosaurus",
+        "Owl",
+        "Cooked Owl",
+        "New Year's Bird",
         "Goblin",
         "Rainbow Mandrake",
-        "Space Squirrel",
         "Crow",
-        "Cooked Owl",
-        "Ghostly Headless Horseman",
         "Blood Kiwi",
         "Giant Ant",
         "Football",
+        "Eggnog Chick",
         "Gift Rat",
         "Christmas Gorilla",
         "Iguanodon",
-        "Eggnog Chick",
-        "Ghostly Bat",
         "Silver Monkey",
         "Seal",
+        "Ghostly Bat",
         "Giraffe",
+        "Giant Scorpion",
         "Cardinal",
         "Bear Bee",
         "Rainbow Corrupted Kitsune",
@@ -251,33 +261,35 @@
         "Crocodile",
         "Termite",
         "Pack Mule",
-        "Tsuchinoko",
+        "Goblin Miner",
         "Brontosaurus",
+        "Rainbow Maneki-neko",
         "Queen Bee",
         "Hydra",
-        "Corrupted Kitsune",
-        "Rainbow Maneki-neko",
-        "Toucan",
         "Crab",
         "Gorilla Chef",
+        "Toucan",
+        "Chimpanzee",
         "Chinchilla",
-        "Red-Nosed Reindeer",
-        "Rainbow Griffin",
+        "Corrupted Kitsune",
+        "Ankylosaurus",
         "Panda",
         "Fennec Fox",
-        "Ankylosaurus",
+        "Red-Nosed Reindeer",
         "Hotdog Daschund",
         "Frost Dragon",
         "Shiba Inu",
-        "Chimpanzee",
+        "Rainbow Griffin",
+        "Triceratops",
         "Mochi Mouse",
-        "Rainbow Mantis Shrimp",
+        "Star Wolf",
+        "Deer",
         "Armadillo",
         "Meerkat",
         "Festive Ice Golem",
-        "Deer",
-        "Lobster Thermidor",
         "Blood Hedgehog",
+        "Champion Beetle",
+        "Lobster Thermidor",
         "Golden Piggy",
         "Starfish",
         "Disco Bee",
@@ -292,45 +304,47 @@
         "Ghostly Mummy",
         "Rainbow Kodama",
         "Drake",
+        "Cape Buffalo",
         "Wasp",
         "Reaper",
-        "Glass Cat",
-        "Cape Buffalo",
-        "Shroomie",
         "Golden Lab",
         "Frog",
+        "Shroomie",
+        "Rainbow Mantis Shrimp",
         "Mole",
-        "Nihonzaru",
-        "Chipmunk",
+        "Glass Cat",
+        "Snail",
         "Rainbow Barn Owl",
         "Goat",
-        "Snail",
+        "Nihonzaru",
         "Gnome",
         "Tanuki",
         "Sheckling",
+        "Chipmunk",
         "Axolotl",
-        "Triceratops",
-        "Snowman Soldier",
-        "Rainbow Elk",
+        "Chubby Chipmunk",
+        "Dilophosaurus",
         "Firefly",
+        "Calico",
+        "New Year's Dragon",
         "Maneki-neko",
+        "Rainbow Elk",
+        "Hex Serpent",
         "Black Cat",
         "Monkey",
-        "Hex Serpent",
         "Squirrel",
-        "Rainbow Blue Jay",
         "Trapdoor Spider",
         "Parasaurolophus ",
-        "Chimera",
-        "Arctic Fox",
-        "Ostrich",
-        "Nutcracker",
-        "Moose",
         "Sugar Glider",
+        "Nutcracker",
+        "Ostrich",
+        "Moose",
+        "Diamond Dragonfly",
         "Mallard",
-        "Robin",
-        "Grizzly Bear",
-        "French Hen",
+        "Celebration Puppy",
+        "Chimera",
+        "Rainbow Blue Jay",
+        "Echo Frog",
         "Rainbow Oxpecker",
         "Chicken Zombie",
         "Rainbow Hydra",
@@ -338,54 +352,76 @@
         "Diamond Panther",
         "Sapphire Macaw",
         "Pack Bee",
-        "Echo Frog",
+        "Grizzly Bear",
         "Headless Horseman",
         "Rainbow Shroomie",
-        "Sea Turtle",
         "Bee",
+        "French Hen",
         "GIANT Snowman Soldier",
+        "Sea Turtle",
+        "Raptor",
         "Water Buffalo",
         "Oxpecker",
-        "Raptor",
-        "Chubby Chipmunk",
-        "Polar Bear",
-        "Golem",
-        "Orangutan",
-        "French Fry Ferret",
-        "Sea Otter",
-        "Cheetah",
+        "Snowman Soldier",
+        "Arctic Fox",
+        "Robin",
         "Cow",
         "Ghostly Black Cat",
+        "Cheetah",
+        "Orangutan",
         "Mimic Octopus",
-        "Silver Dragonfly",
-        "Rainbow Arctic Fox",
-        "Seagull",
-        "Imp",
-        "Dilophosaurus",
-        "Rainbow Grizzly Bear",
-        "Chicken",
-        "Dragonfly",
-        "Salmon",
-        "Rainbow Armadillo",
         "Rainbow Mizuchi",
+        "Silver Dragonfly",
+        "Golden Bee",
         "Red Panda",
-        "Bacon Pig",
-        "Santa Bear",
-        "Iguana",
-        "Cat",
+        "French Fry Ferret",
+        "Rainbow Arctic Fox",
+        "Chicken",
+        "Imp",
+        "Sea Otter",
+        "Salmon",
+        "Seagull",
+        "Dragonfly",
+        "Rainbow Grizzly Bear",
+        "Lioness",
+        "Dog",
+        "Hyrax",
+        "Hyacinth Macaw",
         "Rainbow Stag Beetle",
         "Bat",
-        "Hyacinth Macaw",
-        "Golden Bee",
-        "Rainbow Giraffe",
-        "Woody",
+        "Golem",
+        "Polar Bear",
+        "Rainbow Armadillo",
+        "Wind-Up Rat",
         "Rainbow Pachycephalosaurus",
-        "Dog",
-        "Night Owl",
-        "Hyrax",
+        "Cat",
+        "Santa Bear",
         "Pancake Mole",
         "Koi",
+        "Bacon Pig",
+        "Woody",
+        "Rainbow Giraffe",
+        "Night Owl",
+        "Iguana",
         "Spotted Deer"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Premium New Year's Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "New Year's Bird",
+        "Firework Sprite",
+        "Celebration Puppy",
+        "New Year's Chimp",
+        "Star Wolf",
+        "Egg/Rainbow Premium New Year's Egg",
+        "New Year's Dragon"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -491,15 +527,33 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Winter Egg": {
+    "Rainbow Premium New Year's Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Partridge",
-        "Santa Bear",
-        "Moose",
-        "Frost Squirrel",
-        "Wendigo"
+        "Rainbow New Year's Bird",
+        "Rainbow Firework Sprite",
+        "Rainbow Celebration Puppy",
+        "Rainbow New Year's Chimp",
+        "Rainbow Star Wolf",
+        "Rainbow New Year's Dragon"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Night Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Hedgehog",
+        "Mole",
+        "Frog",
+        "Echo Frog",
+        "Night Owl",
+        "Raccoon"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -511,6 +565,16 @@
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": ["Starfish", "Seagull", "Crab"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Rare Summer Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": ["Flamingo", "Toucan", "Sea Turtle", "Orangutan", "Seal"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -559,10 +623,16 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Rare Summer Egg": {
+    "Premium Oasis Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Flamingo", "Toucan", "Sea Turtle", "Orangutan", "Seal"],
+      "Trash": [
+        "Meerkat",
+        "Sand Snake",
+        "Axolotl",
+        "Hyacinth Macaw",
+        "Fennec Fox"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -595,15 +665,16 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Oasis Egg": {
+    "Premium Spooky Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Meerkat",
-        "Sand Snake",
-        "Axolotl",
-        "Hyacinth Macaw",
-        "Fennec Fox"
+        "Bat",
+        "Bone Dog",
+        "Spider",
+        "Black Cat",
+        "Egg/Ghostly Premium Spooky Egg",
+        "Headless Horseman"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -611,10 +682,17 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Christmas Egg": {
+    "Premium Winter Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Turtle Dove", "Reindeer", "Nutcracker", "Yeti", "Ice Golem"],
+      "Trash": [
+        "Partridge",
+        "Santa Bear",
+        "Moose",
+        "Frost Squirrel",
+        "Egg/Festive Premium Winter Egg",
+        "Wendigo"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -648,23 +726,6 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Christmas Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Turtle Dove",
-        "Reindeer",
-        "Nutcracker",
-        "Egg/Festive Premium Christmas Egg",
-        "Yeti",
-        "Ice Golem"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
     "Gourmet Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
@@ -674,6 +735,23 @@
         "Sushi Bear",
         "Spaghetti Sloth",
         "French Fry Ferret"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "New Year's Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "New Year's Bird",
+        "Firework Sprite",
+        "Celebration Puppy",
+        "New Year's Chimp",
+        "Star Wolf",
+        "New Year's Dragon"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -825,10 +903,17 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Common Egg": {
+    "Premium Christmas Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Golden Lab", "Dog", "Bunny"],
+      "Trash": [
+        "Turtle Dove",
+        "Reindeer",
+        "Nutcracker",
+        "Egg/Festive Premium Christmas Egg",
+        "Yeti",
+        "Ice Golem"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -852,7 +937,27 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Winter Egg": {
+    "Christmas Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": ["Turtle Dove", "Reindeer", "Nutcracker", "Yeti", "Ice Golem"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Common Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": ["Golden Lab", "Dog", "Bunny"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Winter Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
@@ -860,42 +965,7 @@
         "Santa Bear",
         "Moose",
         "Frost Squirrel",
-        "Egg/Festive Premium Winter Egg",
         "Wendigo"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Night Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Hedgehog",
-        "Mole",
-        "Frog",
-        "Echo Frog",
-        "Night Owl",
-        "Raccoon"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Premium Spooky Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Bat",
-        "Bone Dog",
-        "Spider",
-        "Black Cat",
-        "Egg/Ghostly Premium Spooky Egg",
-        "Headless Horseman"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -1071,6 +1141,7 @@
     "Corrupt Staff",
     "Dig Trinket",
     "Divine Coal",
+    "Dragon's Firework",
     "Energy Chew",
     "Event Lantern",
     "Explorer's Compass",
@@ -1152,6 +1223,7 @@
     "Mutation Spray Windstruck",
     "Mystical Snow Globe",
     "Nectar Staff",
+    "New Year's Firework",
     "Night Staff",
     "Pet Lead",
     "Pet Name Reroller",
@@ -1287,6 +1359,10 @@
     "Enlightened",
     "Extraterrestrial",
     "Fall",
+    "Festive",
+    "Fiery",
+    "Fierywork",
+    "Firework",
     "Flaming",
     "Fortune",
     "FoxfireChakra",
@@ -1295,6 +1371,7 @@
     "Friendbound",
     "Frozen",
     "Galactic",
+    "Gale",
     "Geode",
     "Ghostly",
     "Gilded",
@@ -1354,6 +1431,7 @@
     "Shocked",
     "Sizzled",
     "Slashbound",
+    "Sleepy",
     "Sliced",
     "Snowtouched",
     "Snowy",
@@ -1384,6 +1462,7 @@
     "Warped",
     "Webbed",
     "Wet",
+    "Whalebound",
     "Wildfast",
     "Wilted",
     "Wiltproof",
@@ -1433,12 +1512,14 @@
     "Legendary Egg",
     "Lich Crystal",
     "Mythical Egg",
+    "New Year's Egg",
     "Night Egg",
     "Oasis Egg",
     "Paradise Egg",
     "Premium Anti Bee Egg",
     "Premium Christmas Egg",
     "Premium Fall Egg",
+    "Premium New Year's Egg",
     "Premium Night Egg",
     "Premium Oasis Egg",
     "Premium Primal Egg",
@@ -1446,6 +1527,7 @@
     "Premium Spooky Egg",
     "Premium Winter Egg",
     "Primal Egg",
+    "Rainbow Premium New Year's Egg",
     "Rainbow Premium Primal Egg",
     "Rainbow Premium Safari Egg",
     "Rare Egg",
@@ -1458,7 +1540,9 @@
     "Zen Egg"
   ],
   "petsOnlyDivine": [
+    "Albino Peacock",
     "Amethyst Beetle",
+    "Angora Goat",
     "Ankylosaurus",
     "Apple Gazelle",
     "Arctic Fox",
@@ -1479,17 +1563,21 @@
     "Blood Kiwi",
     "Blood Owl",
     "Blue Jay",
+    "Blue Whale",
     "Bone Dog",
     "Brontosaurus",
     "Brown Mouse",
     "Bunny",
     "Butterfly",
+    "Calico",
     "Camel",
     "Cape Buffalo",
     "Capybara",
     "Cardinal",
     "Cat",
     "Caterpillar",
+    "Celebration Puppy",
+    "Champion Beetle",
     "Cheetah",
     "Chicken",
     "Chicken Zombie",
@@ -1513,6 +1601,7 @@
     "Dairy Cow",
     "Dark Spriggan",
     "Deer",
+    "Diamond Dragonfly",
     "Diamond Panther",
     "Dilophosaurus",
     "Disco Bee",
@@ -1537,6 +1626,8 @@
     "Festive Wendigo",
     "Festive Yeti",
     "Firefly",
+    "Firework Sprite",
+    "Flame Bee",
     "Flamingo",
     "Football",
     "Fortune Squirrel",
@@ -1556,8 +1647,10 @@
     "GIANT Snowman Builder",
     "GIANT Snowman Soldier",
     "GIANT Swan",
+    "Galah Cockatoo",
     "Gecko",
     "Geode Turtle",
+    "German Shepherd",
     "Ghost Bear",
     "Ghostly Bat",
     "Ghostly Black Cat",
@@ -1569,6 +1662,7 @@
     "Ghostly Spider",
     "Ghostly Tomb Marmot",
     "Giant Ant",
+    "Giant Scorpion",
     "Gift Rat",
     "Giraffe",
     "Glass Cat",
@@ -1577,6 +1671,7 @@
     "Gnome",
     "Goat",
     "Goblin",
+    "Goblin Gardener",
     "Goblin Miner",
     "Golden Bee",
     "Golden Goose",
@@ -1616,6 +1711,7 @@
     "Lemon Lion",
     "Lich",
     "Lion",
+    "Lioness",
     "Lobster Thermidor",
     "Luminous Sprite",
     "Magpie",
@@ -1635,6 +1731,9 @@
     "Moose",
     "Moth",
     "Mummy",
+    "New Year's Bird",
+    "New Year's Chimp",
+    "New Year's Dragon",
     "Night Owl",
     "Nihonzaru",
     "Nutcracker",
@@ -1671,6 +1770,7 @@
     "Rainbow Bearded Dragon",
     "Rainbow Blue Jay",
     "Rainbow Cardinal",
+    "Rainbow Celebration Puppy",
     "Rainbow Chinchilla",
     "Rainbow Christmas Gorilla",
     "Rainbow Clam",
@@ -1679,6 +1779,7 @@
     "Rainbow Elephant",
     "Rainbow Elk",
     "Rainbow Farmer Chipmunk",
+    "Rainbow Firework Sprite",
     "Rainbow Fortune Squirrel",
     "Rainbow French Hen",
     "Rainbow Frost Dragon",
@@ -1696,6 +1797,9 @@
     "Rainbow Maneki-neko",
     "Rainbow Mistletoad",
     "Rainbow Mizuchi",
+    "Rainbow New Year's Bird",
+    "Rainbow New Year's Chimp",
+    "Rainbow New Year's Dragon",
     "Rainbow Oxpecker",
     "Rainbow Pachycephalosaurus",
     "Rainbow Parasaurolophus",
@@ -1705,6 +1809,7 @@
     "Rainbow Snow Bunny",
     "Rainbow Spinosaurus",
     "Rainbow Stag Beetle",
+    "Rainbow Star Wolf",
     "Rainbow Zebra",
     "Raptor",
     "Reaper",
@@ -1750,6 +1855,7 @@
     "Spriggan",
     "Squirrel",
     "Stag Beetle",
+    "Star Wolf",
     "Starfish",
     "Stegosaurus",
     "Sugar Glider",
@@ -1775,6 +1881,9 @@
     "Wasp",
     "Water Buffalo",
     "Wendigo",
+    "White Tiger",
+    "Wind Wyvern",
+    "Wind-Up Rat",
     "Wisp",
     "Wolf",
     "Woodpecker",
@@ -1860,6 +1969,8 @@
     "Coilvine",
     "Coinfruit",
     "Cold Snap Suckle",
+    "Colorpop Crop",
+    "Confetti Tula",
     "Cookie Stack",
     "Coolcool Beanbeanstalk",
     "Corn",
@@ -1926,12 +2037,14 @@
     "Filbert Nut",
     "Firefly Fern",
     "Firewell",
+    "Firework Fern",
     "Firework Flower",
     "Fissure Berry",
     "Flare Daisy",
     "Flare Melon",
     "Fossilight",
     "Foxglove",
+    "Frost Bush",
     "Frost Fern",
     "Frost Pepper",
     "Frostline Flake",
@@ -1984,6 +2097,7 @@
     "Jalapeno",
     "Java Banana",
     "Jelpod",
+    "Jungle Queen Bulb",
     "King Cabbage",
     "King Palm",
     "Kiwi",
@@ -2007,6 +2121,7 @@
     "Luna Stem",
     "Madcrown Vine",
     "Madras Thorn",
+    "Magma Pepper",
     "Mahogany",
     "Mammoth Mistletoe",
     "Mandrake",
@@ -2111,6 +2226,7 @@
     "Snowman Sprout",
     "Soft Sunshine",
     "Soul Fruit",
+    "Sparkle Slice",
     "Speargrass",
     "Spectralis",
     "Spider Vine",
@@ -2170,6 +2286,7 @@
     "Wreath Span",
     "Wyrmvine",
     "Yarrow",
+    "Yellow Core",
     "Zebrazinkle",
     "Zen Rocks",
     "Zenflare",
@@ -2442,7 +2559,8 @@
       "Trinity Fruit",
       "Cyberflare",
       "Wild Pineapple",
-      "Asteris"
+      "Asteris",
+      "Firework Fern"
     ],
     "Flower": [
       "Candy Blossom",
@@ -2480,6 +2598,7 @@
       "Stonebite",
       "Liberty Lily",
       "Firework Flower",
+      "Confetti Tula",
       "Grand Volcania",
       "Serenity",
       "Monoblooma",
@@ -2540,7 +2659,8 @@
       "Gingerbread Blossom",
       "Poinsettia",
       "Cryo Rose",
-      "Frosty Bite"
+      "Frosty Bite",
+      "Colorpop Crop"
     ],
     "Magical": [
       "Mandrake",
@@ -2693,7 +2813,9 @@
       "Peppermint Pop",
       "Christmas Cracker",
       "Reindeer Root",
-      "Candy Cane"
+      "Candy Cane",
+      "Colorpop Crop",
+      "Firework Fern"
     ],
     "Leafy": [
       "Apple",
@@ -2754,6 +2876,7 @@
       "Maple Apple",
       "Spiked Mango",
       "Sakura Bush",
+      "Frost Bush",
       "Grand Tomato",
       "Artichoke",
       "Twisted Tangle",
@@ -2840,7 +2963,9 @@
       "Frosty Bite",
       "Crimson Cranberry",
       "Reindeer Root",
-      "Christmas Tree"
+      "Christmas Tree",
+      "Firework Fern",
+      "Jungle Queen Bulb"
     ],
     "Christmas": [
       "Gingerbread Blossom",
@@ -2977,7 +3102,8 @@
       "Peppermint Pop",
       "Gumdrop",
       "Christmas Cracker",
-      "Candy Cane"
+      "Candy Cane",
+      "Sparkle Slice"
     ],
     "Root": [
       "Carrot",
@@ -3008,7 +3134,8 @@
       "Lumin Bloom",
       "Asteris",
       "Octobloom",
-      "Reindeer Root"
+      "Reindeer Root",
+      "Colorpop Crop"
     ],
     "Candy": [
       "Blue Lollipop",
@@ -3028,7 +3155,8 @@
       "Peppermint Pop",
       "Gumdrop",
       "Christmas Cracker",
-      "Candy Cane"
+      "Candy Cane",
+      "Sparkle Slice"
     ],
     "Prehistoric": [
       "Stonebite",
@@ -3114,7 +3242,8 @@
       "Faestar",
       "Lumin Bloom",
       "Luna Stem",
-      "Asteris"
+      "Asteris",
+      "Firework Fern"
     ],
     "Spicy": [
       "Cursed Fruit",
@@ -3138,7 +3267,8 @@
       "Luna Stem",
       "Asteris",
       "Peppermint Vine",
-      "Gingerbread Blossom"
+      "Gingerbread Blossom",
+      "Firework Fern"
     ],
     "Sour": [
       "Cranberry",
@@ -3281,7 +3411,8 @@
       "Mahogany",
       "Coinfruit",
       "Holly Berry",
-      "Cryoshard"
+      "Cryoshard",
+      "Sparkle Slice"
     ],
     "Tropical": [
       "Banana",
@@ -3427,6 +3558,19 @@
         "Boosts": [],
         "EnumId": "x",
         "Passives": ["Dreadbound Pet Mutation"]
+      }
+    },
+    {
+      "Mutation": "Fiery",
+      "MutationEnum": "W",
+      "MutationData": {
+        "AvaliableFromMutationMachine": false,
+        "ValueMulti": 100,
+        "Color": null,
+        "Chance": 0,
+        "Boosts": [],
+        "EnumId": "W",
+        "Passives": ["Fiery Pet Mutation"]
       }
     },
     {
@@ -3906,6 +4050,19 @@
       }
     },
     {
+      "Mutation": "Venom",
+      "MutationEnum": "X",
+      "MutationData": {
+        "AvaliableFromMutationMachine": false,
+        "ValueMulti": 100,
+        "Color": null,
+        "Chance": 0,
+        "Boosts": [{ "BoostAmount": 0.3, "BoostType": "PASSIVE_BOOST" }],
+        "EnumId": "X",
+        "Passives": ["Venom Pet Mutation"]
+      }
+    },
+    {
       "Mutation": "Windy",
       "MutationEnum": "e",
       "MutationData": {
@@ -3922,6 +4079,26 @@
   "variants": ["Diamond", "Gold", "Normal", "Rainbow", "Silver"],
   "petsFull": [
     {
+      "assetId": "76846718021958",
+      "name": "Albino Peacock",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, fans its feathers and all active pets within <Range> studs will advance cooldown for their abilities by <Amount>s and advance Cooldown by half that amount!",
+          "name": "Pure Beauty",
+          "states": {
+            "Range": { "Max": 60, "Base": 20, "Scale": 0.2 },
+            "Cooldown": {
+              "Min": 30,
+              "Formatter": "ColonTime",
+              "Base": 606,
+              "Scale": -6
+            },
+            "Amount": { "Max": 150, "Base": 65, "Scale": 0.6 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "130513014364203",
       "name": "Amethyst Beetle",
       "passives": [
@@ -3934,6 +4111,24 @@
               "Formatter": "ColonTime",
               "Base": 360,
               "Scale": -2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "100606520889487",
+      "name": "Angora Goat",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, goes to a random player and rams them, knocking and launching them away!",
+          "name": "Ram",
+          "states": {
+            "Cooldown": {
+              "Min": 261,
+              "Formatter": "ColonTime",
+              "Base": 522,
+              "Scale": -3.2
             }
           }
         }
@@ -4292,6 +4487,25 @@
       ]
     },
     {
+      "assetId": "136116661388682",
+      "name": "Blue Whale",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, eats a fruit that is atleast <FruitWeight>kg and summons the Whale Waters weather! Ignores favorited fruit.",
+          "name": "Whale Waters",
+          "states": {
+            "Cooldown": {
+              "Min": 600,
+              "Formatter": "ColonTime",
+              "Base": 1818,
+              "Scale": -18
+            },
+            "FruitWeight": { "Min": 0, "Base": 50, "Scale": 0 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "122820979496928",
       "name": "Bone Dog",
       "passives": [
@@ -4368,6 +4582,23 @@
               "Base": 1808,
               "Scale": -18
             }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "78443020890670",
+      "name": "Calico",
+      "passives": [
+        {
+          "description": "Every <Cooldown>s, naps for <Duration>s. New fruit within <Range> studs will be <Multiplier>x larger and have a <Chance>% chance to be mutated with Sleepy mutation!",
+          "name": "Calico Nap",
+          "states": {
+            "Multiplier": { "Max": 5, "Base": 1.5, "Scale": 0.15 },
+            "Chance": { "Max": 16, "Base": 8, "Scale": 0.08 },
+            "Duration": { "Max": 30, "Base": 15, "Scale": 0.15 },
+            "Cooldown": { "Min": 100, "Base": 202, "Scale": -2 },
+            "Range": { "Max": 40, "Base": 20, "Scale": 0.2 }
           }
         }
       ]
@@ -4466,6 +4697,43 @@
           "states": {
             "Range": { "Base": 25, "Scale": 0 },
             "Multiplier": { "Base": 1.45, "Scale": 0.15 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "133714720483379",
+      "name": "Celebration Puppy",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, <Chance>% chance to dig up a random New Year cosmetic!",
+          "name": "Celebration's Best Friend",
+          "states": {
+            "Cooldown": {
+              "Min": 100,
+              "Formatter": "ColonTime",
+              "Base": 200,
+              "Scale": -2
+            },
+            "Chance": { "Max": 20, "Base": 10, "Scale": 0.1 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "121855646183550",
+      "name": "Champion Beetle",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win! Champion Beetles can reward Beetle Medals which when used on a pet gains XP based on number of Beetle Trophies you have in your garden!",
+          "name": "Champion Beetle Duel",
+          "states": {
+            "Cooldown": {
+              "Min": 80,
+              "Formatter": "ColonTime",
+              "Base": 360,
+              "Scale": -2
+            }
           }
         }
       ]
@@ -4966,6 +5234,24 @@
       ]
     },
     {
+      "assetId": "115330986169620",
+      "name": "Diamond Dragonfly",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, turns one random fruit diamond!",
+          "name": "Diamond Transmutation",
+          "states": {
+            "Cooldown": {
+              "Min": 150,
+              "Formatter": "ColonTime",
+              "Base": 303,
+              "Scale": -3
+            }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "70658344427825",
       "name": "Diamond Panther",
       "passives": [
@@ -5398,6 +5684,57 @@
       ]
     },
     {
+      "assetId": "136522004917193",
+      "name": "Firework Sprite",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, grants <MinAmount> - <MaxAmount> Fireworks!",
+          "name": "Firework Fairy",
+          "states": {
+            "MaxAmount": { "Max": 10, "Base": 5, "Scale": 0.05 },
+            "Cooldown": {
+              "Min": 60,
+              "Formatter": "ColonTime",
+              "Base": 180,
+              "Scale": -1.8
+            },
+            "MinAmount": { "Max": 6, "Base": 3, "Scale": 0.05 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "137753095801777",
+      "name": "Flame Bee",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, flies to a nearby fruit and pollinates it, applying Pollinated mutation!",
+          "name": "Beeter Pollinator",
+          "states": {
+            "Cooldown": {
+              "Min": 60,
+              "Formatter": "ColonTime",
+              "Base": 1210,
+              "Scale": -12
+            }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, <Chance>% chance for a nearby fruit to become Burnt or Flaming!",
+          "name": "Hot Honey",
+          "states": {
+            "Cooldown": {
+              "Min": 15,
+              "Formatter": "ColonTime",
+              "Base": 404,
+              "Scale": -4
+            },
+            "Chance": { "Base": 15, "Scale": 0.15 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "122573642551827",
       "name": "Flamingo",
       "passives": [
@@ -5770,6 +6107,30 @@
       ]
     },
     {
+      "assetId": "71264200721724",
+      "name": "Galah Cockatoo",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, <Chance>% chance to mutate a nearby fruit, applying the Opulent mutation!",
+          "name": "Opulent Bird",
+          "states": {
+            "Cooldown": {
+              "Min": 15,
+              "Formatter": "ColonTime",
+              "Base": 486,
+              "Scale": -4
+            },
+            "Chance": { "Base": 15, "Scale": 0.5 }
+          }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
+        }
+      ]
+    },
+    {
       "assetId": "83821679353441",
       "name": "Gecko",
       "passives": [
@@ -5797,6 +6158,21 @@
               "Base": 352,
               "Scale": -3.5
             }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "77186903990685",
+      "name": "German Shepherd",
+      "passives": [
+        {
+          "description": "Every <Cooldown>s, <Chance>% chance to dig up a random seed! The dug up seed has a <GoldChance>% to be a Gold seed instead!",
+          "name": "Digging K9",
+          "states": {
+            "Chance": { "Max": 24, "Base": 12, "Scale": 0.12 },
+            "GoldChance": { "Max": 8, "Base": 4, "Scale": 0.04 },
+            "Cooldown": { "Min": 100, "Base": 200, "Scale": -2 }
           }
         }
       ]
@@ -5991,6 +6367,25 @@
       ]
     },
     {
+      "assetId": "140487183385287",
+      "name": "Giant Scorpion",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, stings a pet with the highest cooldown and refreshes its ability! There is a <Chance>% chance for the stung pet to get the Venom Pet Mutation!",
+          "name": "Scorpion Sting",
+          "states": {
+            "Cooldown": {
+              "Min": 450,
+              "Formatter": "ColonTime",
+              "Base": 909,
+              "Scale": -9
+            },
+            "Chance": { "Max": 10, "Base": 5, "Scale": 0.05 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "122502937831938",
       "name": "Gift Rat",
       "passives": [
@@ -6154,6 +6549,24 @@
       ]
     },
     {
+      "assetId": "136723866318714",
+      "name": "Goblin Gardener",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, goes to a random shop and steals an item that is in stock and gives it to you! Rarer items have rarer chance to be stolen.",
+          "name": "Garden Looter",
+          "states": {
+            "Cooldown": {
+              "Min": 180,
+              "Formatter": "ColonTime",
+              "Base": 360,
+              "Scale": -3.6
+            }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "81484303269538",
       "name": "Goblin Miner",
       "passives": [
@@ -6181,7 +6594,7 @@
           }
         },
         {
-          "description": "<Chance>% chance harvested fruit becomes Gold on harvest! Rarer crops have less chance to turn gold!",
+          "description": "<Chance>% chance harvested fruit becomes Gold on h\tarvest! Rarer crops have less chance to turn gold!",
           "name": "Golden Harvest",
           "states": { "Chance": { "Max": 35, "Base": 1, "Scale": 0.1 } }
         }
@@ -6924,6 +7337,38 @@
       ]
     },
     {
+      "assetId": "106472647876927",
+      "name": "Lioness",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, roars, calls pets in your garden to move toward it. <Amount> total cooldown advancement is shared across each pet (max <MaxAmount>s per pet).",
+          "name": "Lion Call",
+          "states": {
+            "MaxAmount": { "Max": 120, "Base": 60, "Scale": 0.6 },
+            "Cooldown": {
+              "Min": 200,
+              "Formatter": "ColonTime",
+              "Base": 800,
+              "Scale": -5
+            },
+            "Amount": { "Max": 800, "Base": 400, "Scale": 4 }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, roars and mutates fruit up to the number of Safari type pets you have in your garden with a random Safari Mutation!",
+          "name": "Queen of the Safari",
+          "states": {
+            "Cooldown": {
+              "Min": 400,
+              "Formatter": "ColonTime",
+              "Base": 1400,
+              "Scale": -14
+            }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "78602813358591",
       "name": "Lobster Thermidor",
       "passives": [
@@ -7295,6 +7740,83 @@
           "description": "As long as you have a Sarcophagus cosmetic in your garden: Pets you get from chest have a bonus 0.1 - <Amount> KG to their base weight! (Max 3.5 KG).",
           "name": "King's Sarcophagus",
           "states": { "Amount": { "Max": 0.5, "Base": 0.28, "Scale": 0.02 } }
+        }
+      ]
+    },
+    {
+      "assetId": "88609592519327",
+      "name": "New Year's Bird",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m flies around and launches fireworks everywhere to celebrate the new year!",
+          "name": "New Year's Bird",
+          "states": {
+            "Cooldown": {
+              "Min": 60,
+              "Formatter": "ColonTime",
+              "Base": 120,
+              "Scale": -1.2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "73840073084614",
+      "name": "New Year's Chimp",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, grabs a random crop from your garden and brings it to 1 of 4 different things for different bonuses! (Ignores favorited)",
+          "name": "Primate Productivity",
+          "states": {
+            "GearMaxAmount": { "Max": 6, "Base": 3, "Scale": 0.03 },
+            "PetXPAmount": { "Max": 2000, "Base": 1000, "Scale": 10 },
+            "Cooldown": {
+              "Min": 240,
+              "Formatter": "ColonTime",
+              "Base": 480,
+              "Scale": -4.2
+            },
+            "EggAdvancementAmount": { "Max": 200, "Base": 100, "Scale": 1 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "93687001559548",
+      "name": "New Year's Dragon",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m breathes fireworks on <AmountMin> - <AmountMax> random fruits in your garden and mutates them with Firework mutation!",
+          "name": "Breath of Fireworks",
+          "states": {
+            "AmountMin": { "Max": 20, "Base": 20, "Scale": 0 },
+            "Cooldown": {
+              "Min": 540,
+              "Formatter": "ColonTime",
+              "Base": 1080,
+              "Scale": -10.8
+            },
+            "AmountMax": { "Max": 26, "Base": 26, "Scale": 0 }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, consumes <Amount> fruit with the Firework mutation to give you the Dragon's Firework Gear which has positive bonuses when used! Cannot be mimicked or refreshed.",
+          "name": "Resolution",
+          "states": {
+            "Cooldown": {
+              "Min": 400,
+              "Formatter": "ColonTime",
+              "Base": 720,
+              "Scale": -7.2
+            },
+            "Amount": { "Max": 100, "Scale": 0, "Base": 100, "Min": 100 }
+          }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
         }
       ]
     },
@@ -7955,6 +8477,20 @@
       ]
     },
     {
+      "assetId": "88457829179917",
+      "name": "Rainbow Celebration Puppy",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, <Chance>% chance to dig up a random New Year cosmetic!",
+          "name": "Rainbow Celebration's Best Friend",
+          "states": {
+            "Cooldown": { "Min": 50, "Base": 100, "Scale": -1 },
+            "Chance": { "Max": 40, "Base": 20, "Scale": 0.2 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "127959624081025",
       "name": "Rainbow Chinchilla",
       "passives": [
@@ -8084,6 +8620,26 @@
           "states": {
             "Range": { "Max": 45, "Base": 45, "Scale": 0 },
             "Multiplier": { "Max": 6, "Base": 2.5, "Scale": 0.05 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "118192050125722",
+      "name": "Rainbow Firework Sprite",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, grants <MinAmount> - <MaxAmount> Fireworks!",
+          "name": "Rainbow Firework Fairy",
+          "states": {
+            "MaxAmount": { "Max": 16, "Base": 8, "Scale": 0.08 },
+            "Cooldown": {
+              "Min": 50,
+              "Formatter": "ColonTime",
+              "Base": 100,
+              "Scale": -1
+            },
+            "MinAmount": { "Max": 10, "Base": 5, "Scale": 0.08 }
           }
         }
       ]
@@ -8445,6 +9001,83 @@
       ]
     },
     {
+      "assetId": "78224195659598",
+      "name": "Rainbow New Year's Bird",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m flies around and launches fireworks everywhere to celebrate the new year!",
+          "name": "Rainbow New Year's Bird",
+          "states": {
+            "Cooldown": {
+              "Min": 30,
+              "Formatter": "ColonTime",
+              "Base": 60,
+              "Scale": -0.6
+            }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "133619465825510",
+      "name": "Rainbow New Year's Chimp",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, grabs a random crop from your garden and brings it to 1 of 4 different things for different bonuses! (Ignores favorited)",
+          "name": "Rainbow Primate Productivity",
+          "states": {
+            "GearMaxAmount": { "Max": 10, "Base": 5, "Scale": 0.05 },
+            "PetXPAmount": { "Max": 3000, "Base": 1500, "Scale": 15 },
+            "Cooldown": {
+              "Min": 120,
+              "Formatter": "ColonTime",
+              "Base": 240,
+              "Scale": -2.4
+            },
+            "EggAdvancementAmount": { "Max": 300, "Base": 150, "Scale": 1.5 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "112808642835946",
+      "name": "Rainbow New Year's Dragon",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m breathes fireworks on <AmountMin> - <AmountMax> random fruits in your garden and mutates them with Firework mutation!",
+          "name": "Rainbow Breath of Fireworks",
+          "states": {
+            "AmountMin": { "Max": 20, "Base": 20, "Scale": 0 },
+            "Cooldown": {
+              "Min": 300,
+              "Formatter": "ColonTime",
+              "Base": 600,
+              "Scale": -6.8
+            },
+            "AmountMax": { "Max": 26, "Base": 26, "Scale": 0 }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, consumes <Amount> fruit with the Firework mutation to give you the Dragon's Firework Gear which has positive bonuses when used! Cannot be mimicked or refreshed.",
+          "name": "Rainbow Resolution",
+          "states": {
+            "Cooldown": {
+              "Min": 200,
+              "Formatter": "ColonTime",
+              "Base": 400,
+              "Scale": -4
+            },
+            "Amount": { "Max": 80, "Scale": 0, "Base": 80, "Min": 80 }
+          }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
+        }
+      ]
+    },
+    {
       "assetId": "106077887555646",
       "name": "Rainbow Oxpecker",
       "passives": [
@@ -8608,6 +9241,26 @@
               "Base": 260,
               "Scale": -2
             }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "84518104728748",
+      "name": "Rainbow Star Wolf",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m consumes the energy of 5 random moonlit fruits (Ignores favorited), howls and calls forth <AmountMin> - <AmountMax> shooting stars to fall on your garden which mutate fruits into Celestial!",
+          "name": "Rainbow Celestial Howl",
+          "states": {
+            "AmountMin": { "Max": 8, "Base": 4, "Scale": 0.04 },
+            "Cooldown": {
+              "Min": 200,
+              "Formatter": "ColonTime",
+              "Base": 520,
+              "Scale": -5.2
+            },
+            "AmountMax": { "Max": 16, "Base": 8, "Scale": 0.04 }
           }
         }
       ]
@@ -9386,6 +10039,26 @@
       ]
     },
     {
+      "assetId": "131996246170050",
+      "name": "Star Wolf",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m consumes the energy of 5 random moonlit fruits (Ignores favorited), howls and calls forth <AmountMin> - <AmountMax> shooting stars to fall on your garden which mutate fruits into Celestial!",
+          "name": "Celestial Howl",
+          "states": {
+            "AmountMin": { "Max": 4, "Base": 2, "Scale": 0.04 },
+            "Cooldown": {
+              "Min": 540,
+              "Formatter": "ColonTime",
+              "Base": 1040,
+              "Scale": -10.4
+            },
+            "AmountMax": { "Max": 8, "Base": 4, "Scale": 0.04 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "120520383369074",
       "name": "Starfish",
       "passives": [
@@ -9796,7 +10469,7 @@
         {
           "description": "<Chance>% extra chance harvested plants drop seeds. Rarer plants have lower chance to duplicate.",
           "name": "Fat Snake",
-          "states": { "Chance": { "Max": 10, "Base": 5, "Scale": 0.05 } }
+          "states": { "Chance": { "Max": 30, "Base": 15, "Scale": 0.05 } }
         }
       ]
     },
@@ -9891,6 +10564,86 @@
           "description": "Loses 0.25% Hunger per second. At 30%+ Hunger, all other pets gain +<Amount> XP/s. At 60%+ Hunger, all other pets stop losing Hunger. At 90%+ Hunger, both bonuses are active simultaneously.",
           "name": "Gnawing Hunger",
           "states": { "Amount": { "Max": 60, "Base": 30, "Scale": 0.3 } }
+        }
+      ]
+    },
+    {
+      "assetId": "113554179338269",
+      "name": "White Tiger",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, the Tiger roars, calls all pets in your garden to move toward it. <Amount> total XP is shared across each pet (max 800 XP per pet).",
+          "name": "Tiger Call",
+          "states": {
+            "Cooldown": {
+              "Min": 200,
+              "Formatter": "ColonTime",
+              "Base": 780,
+              "Scale": -5
+            },
+            "Amount": { "Max": 10000, "Base": 5000, "Scale": 50 }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, roars and <Amount> random mutations from your garden will be replaced with another random mutation. Ignores favorited fruit.",
+          "name": "King of the Jungle",
+          "states": {
+            "Cooldown": {
+              "Min": 140,
+              "Formatter": "ColonTime",
+              "Base": 362,
+              "Scale": -3.6
+            },
+            "Amount": { "Max": 6, "Base": 3, "Scale": 0.3 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "121747288266448",
+      "name": "Wind Wyvern",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, converts all Windstruck mutation fruit within <Range> studs to Gale mutation. For every mutation converted: <Amount>s cooldown is advanced for all other pets in your garden. (Max 10 minutes)",
+          "name": "Gale Wyvern",
+          "states": {
+            "Range": { "Max": 60, "Base": 30, "Scale": 0.3 },
+            "Cooldown": {
+              "Min": 270,
+              "Formatter": "ColonTime",
+              "Base": 540,
+              "Scale": -6
+            },
+            "Amount": { "Max": 60, "Base": 5, "Scale": 2 }
+          }
+        },
+        {
+          "description": "When selling Fruits with Gale Mutation, <Chance>% chance a random mutation from that fruit will be applied to the fruits in your garden!",
+          "name": "Wind Diety",
+          "states": { "Chance": { "Max": 12, "Base": 6, "Scale": 0.1 } }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
+        }
+      ]
+    },
+    {
+      "assetId": "134732469596879",
+      "name": "Wind-Up Rat",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, converts a Buttercup into a random mechanical themed cosmetic! Collect all 5!",
+          "name": "Mechanical Rodent",
+          "states": {
+            "Cooldown": {
+              "Min": 120,
+              "Formatter": "ColonTime",
+              "Base": 420,
+              "Scale": -4.2
+            }
+          }
         }
       ]
     },
@@ -10102,6 +10855,7 @@
     "Corrupted",
     "Crocodile",
     "Dreadbound",
+    "Fiery",
     "Forger",
     "Fried",
     "Frozen",
@@ -10138,12 +10892,13 @@
     "Tethered",
     "Tiny",
     "Tranquil",
+    "Venom",
     "Windy"
   ],
   "petsHunger": {
     "Blood Owl": 50000,
     "Rainbow Bacon Pig": 5000,
-    "Parasaurolophus": 40000,
+    "Albino Peacock": 19000,
     "Golden Goose": 48000,
     "Red Squirrel": 15000,
     "Messenger Pigeon": 10000,
@@ -10157,8 +10912,9 @@
     "Deer": 2500,
     "Blood Hedgehog": 30000,
     "Lobster Thermidor": 50505,
+    "Champion Beetle": 25000,
     "Yeti": 300000,
-    "Starfish": 1500,
+    "Blue Whale": 500000,
     "Rainbow Kodama": 22000,
     "Mole": 50000,
     "Festive Frost Squirrel": 25000,
@@ -10178,6 +10934,7 @@
     "Rainbow Krampus": 111111,
     "Frog": 50000,
     "GIANT Swan": 56000,
+    "Star Wolf": 55000,
     "Red Dragon": 10000,
     "Mochi Mouse": 25000,
     "Rainbow Christmas Gorilla": 55000,
@@ -10196,33 +10953,36 @@
     "Gift Rat": 6000,
     "Eggnog Chick": 3400,
     "Silver Monkey": 8000,
-    "Ghostly Bat": 5000,
+    "White Tiger": 100000,
+    "Rainbow New Year's Dragon": 300000,
     "Seal": 17000,
     "Giraffe": 44000,
+    "Giant Scorpion": 150000,
     "Tsuchinoko": 28000,
     "Festive Reindeer": 24000,
     "Brontosaurus": 80000,
     "Fennec Fox": 35000,
-    "Festive Yeti": 300000,
+    "Panda": 20000,
     "Hotdog Daschund": 16000,
     "Shiba Inu": 2000,
     "Frost Dragon": 300000,
     "Rainbow Griffin": 65000,
-    "Festive Santa Bear": 67000,
+    "Ankylosaurus": 40000,
     "Red-Nosed Reindeer": 24000,
     "Corrupted Kitsune": 49999,
     "Hydra": 333333,
-    "Queen Bee": 65000,
+    "Emerald Snake": 28000,
     "Rainbow Maneki-neko": 1777,
-    "Crab": 3000,
-    "Festive Turtle Dove": 10000,
+    "Galah Cockatoo": 12000,
+    "Rainbow New Year's Chimp": 40000,
+    "Toucan": 9000,
     "Gorilla Chef": 55000,
     "Chimpanzee": 40000,
     "Triceratops": 40000,
     "Chubby Chipmunk": 50000,
     "Snowman Soldier": 23000,
     "Rainbow Mistletoad": 50000,
-    "Wendigo": 555555,
+    "Dilophosaurus": 30000,
     "Imp": 20000,
     "Chicken": 3400,
     "Salmon": 2500,
@@ -10259,17 +11019,23 @@
     "Hyacinth Macaw": 12000,
     "Golem": 32000,
     "Polar Bear": 20000,
+    "Wind-Up Rat": 26000,
     "Robin": 1500,
+    "Lioness": 100000,
     "Arctic Fox": 35000,
     "Reindeer": 24000,
     "Nutcracker": 44000,
     "Sugar Glider": 16000,
     "Moose": 55000,
-    "Mallard": 15000,
+    "Angora Goat": 60000,
+    "Diamond Dragonfly": 100000,
+    "Celebration Puppy": 2026,
     "Jackalope": 22000,
     "Ostrich": 20000,
     "Trapdoor Spider": 2000,
-    "Maneki-neko": 1777,
+    "Rainbow New Year's Bird": 2026,
+    "New Year's Dragon": 300000,
+    "Calico": 2500,
     "Firefly": 25000,
     "Rainbow Elk": 2500,
     "Black Cat": 40000,
@@ -10280,17 +11046,24 @@
     "Rainbow Blue Jay": 1500,
     "Grizzly Bear": 55000,
     "Echo Frog": 50000,
-    "French Hen": 5000,
+    "New Year's Chimp": 40000,
     "Bee": 25000,
+    "Sea Otter": 30000,
     "Sea Turtle": 22200,
+    "Grey Mouse": 15000,
+    "Red Fox": 35000,
+    "Crab": 3000,
     "Water Buffalo": 50000,
     "Raptor": 40000,
     "Oxpecker": 1500,
     "Rainbow Shroomie": 20000,
     "GIANT Snowman Soldier": 23000,
     "Headless Horseman": 77777,
+    "Moon Cat": 2400,
     "Rainbow Hydra": 333333,
+    "Tarantula Hawk": 28000,
     "Chicken Zombie": 35000,
+    "Butterfly": 26000,
     "Rainbow Oxpecker": 1500,
     "Hedgehog": 30000,
     "Sapphire Macaw": 12000,
@@ -10298,175 +11071,184 @@
     "Pack Bee": 25000,
     "Football": 870,
     "Axolotl": 22000,
+    "Sand Snake": 28000,
     "Giant Ant": 18000,
+    "Hamster": 15000,
     "Mistletoad": 50000,
     "Bearded Dragon": 45000,
-    "Turtle": 10000,
-    "Pig": 5000,
-    "Wisp": 1000,
-    "Pumpkin Rat": 6000,
-    "Rainbow Hotdog Daschund": 16000,
-    "Moth": 25000,
-    "Sea Otter": 30000,
-    "Grey Mouse": 15000,
-    "Red Fox": 35000,
-    "Toucan": 9000,
-    "Crow": 1500,
-    "Rainbow Bearded Dragon": 45000,
-    "Peacock": 19000,
-    "Seedling": 25000,
-    "Dark Spriggan": 45000,
-    "Moon Cat": 2400,
-    "Tarantula Hawk": 28000,
-    "Junkbot": 10101,
-    "Butterfly": 26000,
-    "Brown Mouse": 15000,
-    "Sand Snake": 28000,
-    "Hamster": 15000,
     "Radioactive Stegosaurus": 40000,
-    "Summer Kiwi": 50000,
-    "Ruby Squid": 60000,
-    "Orange Tabby": 1500,
-    "Tanchozuru": 40000,
     "Pachycephalosaurus": 40000,
     "Spinosaurus": 25000,
     "Rainbow Iguanodon": 40000,
     "Spider": 35000,
-    "Rainbow Fortune Squirrel": 30000,
-    "Magpie": 10000,
+    "Turtle": 10000,
+    "Pig": 5000,
+    "Rainbow Corrupted Kitsune": 49999,
+    "Wisp": 1000,
+    "Pumpkin Rat": 6000,
     "Spriggan": 45000,
+    "Rainbow Firework Sprite": 20260,
+    "Moth": 25000,
+    "Green Bean": 23825,
+    "Ghostly Mummy": 88000,
+    "Mandrake": 10000,
+    "Black Bunny": 1300,
+    "Pterodactyl": 40000,
+    "Marmot": 38000,
+    "Peacock": 19000,
+    "Seedling": 25000,
+    "Dark Spriggan": 45000,
+    "Griffin": 65000,
+    "Ladybug": 1200,
+    "Junkbot": 10101,
+    "Pixie": 500,
+    "Brown Mouse": 15000,
+    "Glimmering Sprite": 25000,
+    "Luminous Sprite": 25000,
+    "Rainbow Bearded Dragon": 45000,
+    "Summer Kiwi": 50000,
+    "Ruby Squid": 60000,
+    "Orange Tabby": 1500,
+    "Tanchozuru": 40000,
+    "Penguin": 12000,
+    "Festive Moose": 55000,
+    "Starfish": 1500,
+    "Golden Piggy": 24000,
+    "Rainbow Fortune Squirrel": 30000,
+    "Rainbow Cardinal": 1500,
+    "Rainbow Phoenix": 65000,
     "Scarlet Macaw": 12000,
     "Phoenix": 65000,
-    "Green Bean": 23825,
+    "Barn Owl": 50000,
     "Ghostly Scarab": 2000,
     "Rainbow Idol Chipmunk": 30000,
-    "Silver Piggy": 24000,
-    "Mandrake": 10000,
+    "Maneki-neko": 1777,
+    "Swan": 56000,
     "Spaghetti Sloth": 18000,
-    "Black Bunny": 1300,
-    "Griffin": 65000,
+    "GIANT Robin": 1500,
+    "Parasaurolophus": 40000,
     "Tiger": 100000,
     "Woodpecker": 5000,
-    "Ladybug": 1200,
+    "GIANT Grizzly Bear": 55000,
     "Festive Nutcracker": 44000,
     "Dairy Cow": 9000,
     "Capybara": 30000,
-    "Pixie": 500,
-    "Glimmering Sprite": 25000,
+    "Amethyst Beetle": 25000,
+    "Rainbow Star Wolf": 55000,
     "GIANT Snowman Builder": 23000,
-    "Luminous Sprite": 25000,
-    "Emerald Snake": 28000,
+    "Magpie": 10000,
+    "Hummingbird": 8000,
     "Krampus": 111111,
     "Rainbow Dilophosaurus": 30000,
     "Smithing Dog": 1500,
-    "Petal Bee": 25000,
-    "Topaz Snail": 12000,
+    "Caterpillar": 25000,
+    "Clam": 500,
     "Kodama": 22000,
     "T-Rex": 60000,
     "Cocoa Cat": 40000,
     "Lich": 100000,
-    "Pterodactyl": 40000,
+    "Silver Piggy": 24000,
     "Lemon Lion": 50000,
-    "Golden Piggy": 24000,
-    "Rainbow Cardinal": 1500,
-    "Rainbow Phoenix": 65000,
+    "Elephant": 111000,
+    "Mizuchi": 70000,
+    "GIANT Silver Dragonfly": 50000,
     "Red Giant Ant": 15000,
-    "Barn Owl": 50000,
-    "Rainbow Elephant": 111000,
+    "Farmer Chipmunk": 15000,
+    "Hippo": 120000,
     "Honey Bee": 25000,
     "Bald Eagle": 15000,
     "Rooster": 4000,
-    "Swan": 56000,
+    "Rainbow Celebration Puppy": 2026,
     "Rainbow Clam": 500,
     "Christmas Spirit": 12321,
-    "GIANT Robin": 1500,
+    "Hyena": 25000,
     "Sunny-Side Chicken": 3400,
     "GIANT Firefly": 25000,
     "Stegosaurus": 40000,
-    "Corrupted Kodama": 22000,
+    "Rainbow Farmer Chipmunk": 15000,
     "Wolf": 55000,
-    "GIANT Grizzly Bear": 55000,
-    "Chimera": 123123,
-    "Zebra": 33000,
-    "Hummingbird": 8000,
-    "Caterpillar": 25000,
-    "Kiwi": 50000,
+    "Rainbow Rhino": 66000,
+    "Rainbow Zebra": 33000,
+    "Fortune Squirrel": 30000,
+    "Flame Bee": 25000,
+    "Raiju": 42000,
+    "Elk": 2500,
     "Apple Gazelle": 25000,
-    "Festive Moose": 55000,
     "Specter": 44444,
-    "Mizuchi": 70000,
+    "Ghostly Tomb Marmot": 38000,
+    "Mummy": 88000,
     "Raccoon": 45000,
     "Ice Golem": 250000,
-    "GIANT Silver Dragonfly": 50000,
-    "Farmer Chipmunk": 15000,
-    "Goblin": 38000,
+    "Blood Kiwi": 45000,
+    "Ghostly Spider": 35000,
+    "Ghostly Headless Horseman": 77777,
     "Frost Squirrel": 25000,
     "Flamingo": 14000,
-    "Rainbow Farmer Chipmunk": 15000,
     "Rainbow Snow Bunny": 1500,
+    "Firework Sprite": 20260,
     "Snowman Builder": 23000,
-    "Ghostly Spider": 35000,
-    "Blood Kiwi": 45000,
+    "Goblin": 38000,
+    "Sushi Bear": 20000,
     "Idol Chipmunk": 30000,
     "Owl": 50000,
     "Rainbow Ankylosaurus": 40000,
-    "Fortune Squirrel": 30000,
+    "New Year's Bird": 2026,
     "Rainbow Mandrake": 10000,
-    "Raiju": 42000,
-    "Amethyst Beetle": 25000,
+    "Zebra": 33000,
+    "Blue Jay": 1500,
     "GIANT Badger": 15000,
     "Cooked Owl": 50000,
-    "Ghostly Headless Horseman": 77777,
+    "Gecko": 1500,
     "Space Squirrel": 25000,
     "Lion": 100000,
-    "Sushi Bear": 20000,
-    "Mummy": 88000,
-    "Ghostly Tomb Marmot": 38000,
-    "Elephant": 111000,
+    "Topaz Snail": 12000,
+    "Petal Bee": 25000,
+    "Geode Turtle": 22200,
+    "Goblin Gardener": 38000,
     "Praying Mantis": 55000,
     "Kappa": 40000,
     "Partridge": 25000,
-    "Elk": 2500,
+    "Kiwi": 50000,
     "Stag Beetle": 25000,
     "Scarab": 2000,
-    "Blue Jay": 1500,
+    "Chimera": 123123,
     "Badger": 15000,
-    "Rainbow Zebra": 33000,
-    "Rainbow Rhino": 66000,
+    "Mallard": 15000,
+    "Corrupted Kodama": 22000,
     "Bagel Bunny": 1200,
-    "Gecko": 1500,
-    "Hyena": 25000,
-    "Hippo": 120000,
+    "Rainbow Magpie": 10000,
+    "Festive Santa Bear": 67000,
+    "Camel": 55000,
     "Cockatrice": 66000,
     "Rainbow Lobster Thermidor": 50505,
     "Rainbow Parasaurolophus": 40000,
     "Peach Wasp": 2500,
     "Rainbow Spinosaurus": 25000,
+    "French Hen": 5000,
+    "Wind Wyvern": 300000,
+    "Pine Beetle": 25000,
     "Reaper": 67000,
     "Cape Buffalo": 50000,
-    "Shroomie": 20000,
-    "Ghostly Mummy": 88000,
-    "Geode Turtle": 22200,
     "Tomb Marmot": 38000,
-    "Pack Mule": 70000,
+    "Shroomie": 20000,
     "Mantis Shrimp": 40000,
-    "Rainbow Corrupted Kitsune": 49999,
-    "Clam": 500,
+    "Rainbow French Hen": 5000,
+    "Pack Mule": 70000,
     "GIANT Barn Owl": 50000,
     "Ghostly Bone Dog": 15000,
-    "Marmot": 38000,
-    "Rainbow Magpie": 10000,
+    "Festive Turtle Dove": 10000,
+    "Ghostly Bat": 5000,
     "Goblin Miner": 38000,
-    "Camel": 55000,
     "Chinchilla": 50000,
-    "Penguin": 12000,
-    "Panda": 20000,
-    "Ankylosaurus": 40000,
-    "Rainbow French Hen": 5000,
-    "Rainbow Frost Dragon": 300000,
-    "Dilophosaurus": 30000,
     "Tree Frog": 16000,
-    "Pine Beetle": 25000
+    "Crow": 1500,
+    "Festive Yeti": 300000,
+    "Wendigo": 555555,
+    "Queen Bee": 65000,
+    "Rainbow Frost Dragon": 300000,
+    "Rainbow Hotdog Daschund": 16000,
+    "Rainbow Elephant": 111000,
+    "German Shepherd": 2500
   },
   "craftingRecipes": {
     "RecipiesSortedByMachineType": {
@@ -16305,7 +17087,9 @@
     }
   },
   "petsNames": [
+    "Albino Peacock",
     "Amethyst Beetle",
+    "Angora Goat",
     "Ankylosaurus",
     "Apple Gazelle",
     "Arctic Fox",
@@ -16326,17 +17110,21 @@
     "Blood Kiwi",
     "Blood Owl",
     "Blue Jay",
+    "Blue Whale",
     "Bone Dog",
     "Brontosaurus",
     "Brown Mouse",
     "Bunny",
     "Butterfly",
+    "Calico",
     "Camel",
     "Cape Buffalo",
     "Capybara",
     "Cardinal",
     "Cat",
     "Caterpillar",
+    "Celebration Puppy",
+    "Champion Beetle",
     "Cheetah",
     "Chicken",
     "Chicken Zombie",
@@ -16360,6 +17148,7 @@
     "Dairy Cow",
     "Dark Spriggan",
     "Deer",
+    "Diamond Dragonfly",
     "Diamond Panther",
     "Dilophosaurus",
     "Disco Bee",
@@ -16384,6 +17173,8 @@
     "Festive Wendigo",
     "Festive Yeti",
     "Firefly",
+    "Firework Sprite",
+    "Flame Bee",
     "Flamingo",
     "Football",
     "Fortune Squirrel",
@@ -16403,8 +17194,10 @@
     "GIANT Snowman Builder",
     "GIANT Snowman Soldier",
     "GIANT Swan",
+    "Galah Cockatoo",
     "Gecko",
     "Geode Turtle",
+    "German Shepherd",
     "Ghost Bear",
     "Ghostly Bat",
     "Ghostly Black Cat",
@@ -16416,6 +17209,7 @@
     "Ghostly Spider",
     "Ghostly Tomb Marmot",
     "Giant Ant",
+    "Giant Scorpion",
     "Gift Rat",
     "Giraffe",
     "Glass Cat",
@@ -16424,6 +17218,7 @@
     "Gnome",
     "Goat",
     "Goblin",
+    "Goblin Gardener",
     "Goblin Miner",
     "Golden Bee",
     "Golden Goose",
@@ -16464,6 +17259,7 @@
     "Lemon Lion",
     "Lich",
     "Lion",
+    "Lioness",
     "Lobster Thermidor",
     "Luminous Sprite",
     "Magpie",
@@ -16484,6 +17280,9 @@
     "Moose",
     "Moth",
     "Mummy",
+    "New Year's Bird",
+    "New Year's Chimp",
+    "New Year's Dragon",
     "Night Owl",
     "Nihonzaru",
     "Nutcracker",
@@ -16521,6 +17320,7 @@
     "Rainbow Bearded Dragon",
     "Rainbow Blue Jay",
     "Rainbow Cardinal",
+    "Rainbow Celebration Puppy",
     "Rainbow Chinchilla",
     "Rainbow Christmas Gorilla",
     "Rainbow Clam",
@@ -16529,6 +17329,7 @@
     "Rainbow Elephant",
     "Rainbow Elk",
     "Rainbow Farmer Chipmunk",
+    "Rainbow Firework Sprite",
     "Rainbow Fortune Squirrel",
     "Rainbow French Hen",
     "Rainbow Frost Dragon",
@@ -16546,6 +17347,9 @@
     "Rainbow Maneki-neko",
     "Rainbow Mistletoad",
     "Rainbow Mizuchi",
+    "Rainbow New Year's Bird",
+    "Rainbow New Year's Chimp",
+    "Rainbow New Year's Dragon",
     "Rainbow Oxpecker",
     "Rainbow Pachycephalosaurus",
     "Rainbow Parasaurolophus",
@@ -16555,6 +17359,7 @@
     "Rainbow Snow Bunny",
     "Rainbow Spinosaurus",
     "Rainbow Stag Beetle",
+    "Rainbow Star Wolf",
     "Rainbow Zebra",
     "Raptor",
     "Reaper",
@@ -16600,6 +17405,7 @@
     "Spriggan",
     "Squirrel",
     "Stag Beetle",
+    "Star Wolf",
     "Starfish",
     "Stegosaurus",
     "Sugar Glider",
@@ -16625,6 +17431,9 @@
     "Wasp",
     "Water Buffalo",
     "Wendigo",
+    "White Tiger",
+    "Wind Wyvern",
+    "Wind-Up Rat",
     "Wisp",
     "Wolf",
     "Woodpecker",
