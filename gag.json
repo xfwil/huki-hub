@@ -7347,7 +7347,7 @@
         {
           "description": "When hatching eggs there is a <Chance>% chance to get the egg back! Cannot recover Premium/Exotic/Rainbow Eggs. This bonus is capped at 50% per egg hatched.",
           "name": "Fish of Fortune",
-          "states": { "Chance": { "Max": 8, "Base": 1, "Scale": 0.22 } }
+          "states": { "Chance": { "Max": 50, "Base": 1, "Scale": 0.22 } }
         }
       ]
     },
@@ -9906,9 +9906,9 @@
       "name": "Seal",
       "passives": [
         {
-          "description": "Selling pets have a <Chance>% chance to get the pet back as its egg equivalent! Cannot get Premium/Exotic/Rainbow Eggs back. This bonus is capped at 15% per pet sold.",
+          "description": "Selling pets have a <Chance>% chance to get the pet back as its egg equivalent! Cannot get Premium/Exotic/Rainbow Eggs back. This bonus is capped at 50% per pet sold.",
           "name": "Seal the Deal",
-          "states": { "Chance": { "Max": 6, "Base": 1, "Scale": 0.05 } }
+          "states": { "Chance": { "Max": 50, "Base": 1, "Scale": 0.05 } }
         }
       ]
     },
