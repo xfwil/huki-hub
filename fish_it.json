@@ -1,5 +1,6 @@
 {
   "rodsNames": [
+    "",
     "1x1x1x1 Ban Hammer",
     "Abyssal Chroma",
     "Abyssfire",
@@ -137,6 +138,7 @@
     "Xmas Tree Rod"
   ],
   "boatsNames": [
+    "",
     "Alpha Floaty",
     "Ancient Ship",
     "Aura Boat",
@@ -178,6 +180,7 @@
     "Speed Boat"
   ],
   "fishesNames": [
+    "",
     "1x1x1x1 Comet Shark",
     "1x1x1x1 Shark",
     "Abyshorn Fish",
@@ -629,6 +632,7 @@
     "Zoster Butterfly"
   ],
   "baitsNames": [
+    "",
     "1x1x1x1 Bait",
     "Aether Bait",
     "Anchor Bait",
