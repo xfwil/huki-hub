@@ -10,10 +10,10 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Common Summer Egg": {
+    "Legendary Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Starfish", "Seagull", "Crab"],
+      "Trash": ["Silver Monkey", "Cow", "Sea Otter", "Polar Bear", "Turtle"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -67,6 +67,108 @@
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": ["Tree Frog", "Hummingbird", "Iguana", "Chimpanzee", "Tiger"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Premium Fall Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Robin",
+        "Badger",
+        "Grizzly Bear",
+        "Barn Owl",
+        "Swan",
+        "Egg/GIANT Premium Fall Egg"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Premium New Year's Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "New Year's Bird",
+        "Firework Sprite",
+        "Celebration Puppy",
+        "New Year's Chimp",
+        "Star Wolf",
+        "Egg/Rainbow Premium New Year's Egg",
+        "New Year's Dragon"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Premium Carnival Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Unicycle Monkey",
+        "Performer Seal",
+        "Bear on Bike",
+        "Show Pony",
+        "Egg/Rainbow Premium Carnival Egg",
+        "Carnival Elephant"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Rainbow Premium Bird Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Rainbow Black Bird",
+        "Rainbow Cuckoo",
+        "Rainbow Brown Owl",
+        "Rainbow Gold Finch",
+        "Rainbow Birb"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Primal Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Parasaurolophus",
+        "Iguanodon",
+        "Pachycephalosaurus",
+        "Dilophosaurus",
+        "Ankylosaurus",
+        "Spinosaurus"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Premium Safari Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Oxpecker",
+        "Zebra",
+        "Giraffe",
+        "Rhino",
+        "Egg/Rainbow Premium Safari Egg",
+        "Elephant"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -421,85 +523,6 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium New Year's Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "New Year's Bird",
-        "Firework Sprite",
-        "Celebration Puppy",
-        "New Year's Chimp",
-        "Star Wolf",
-        "Egg/Rainbow Premium New Year's Egg",
-        "New Year's Dragon"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Premium Carnival Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Unicycle Monkey",
-        "Performer Seal",
-        "Bear on Bike",
-        "Show Pony",
-        "Egg/Rainbow Premium Carnival Egg",
-        "Carnival Elephant"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Spooky Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": ["Bat", "Bone Dog", "Spider", "Black Cat", "Headless Horseman"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Primal Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Parasaurolophus",
-        "Iguanodon",
-        "Pachycephalosaurus",
-        "Dilophosaurus",
-        "Ankylosaurus",
-        "Spinosaurus"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Premium Safari Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Oxpecker",
-        "Zebra",
-        "Giraffe",
-        "Rhino",
-        "Egg/Rainbow Premium Safari Egg",
-        "Elephant"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
     "Premium Primal Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
@@ -512,6 +535,32 @@
         "Egg/Rainbow Premium Primal Egg",
         "Spinosaurus"
       ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Carnival Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Unicycle Monkey",
+        "Performer Seal",
+        "Bear on Bike",
+        "Show Pony",
+        "Carnival Elephant"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Common Summer Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": ["Starfish", "Seagull", "Crab"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -571,43 +620,20 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Carnival Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Unicycle Monkey",
-        "Performer Seal",
-        "Bear on Bike",
-        "Show Pony",
-        "Carnival Elephant"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Night Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Hedgehog",
-        "Mole",
-        "Frog",
-        "Echo Frog",
-        "Night Owl",
-        "Raccoon"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
     "Rare Summer Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": ["Flamingo", "Toucan", "Sea Turtle", "Orangutan", "Seal"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Common Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": ["Golden Lab", "Dog", "Bunny"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -630,10 +656,34 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Legendary Egg": {
+    "Premium Christmas Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Silver Monkey", "Cow", "Sea Otter", "Polar Bear", "Turtle"],
+      "Trash": [
+        "Turtle Dove",
+        "Reindeer",
+        "Nutcracker",
+        "Egg/Festive Premium Christmas Egg",
+        "Yeti",
+        "Ice Golem"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Premium Night Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": [
+        "Hedgehog",
+        "Mole",
+        "Frog",
+        "Echo Frog",
+        "Night Owl",
+        "Raccoon"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -672,10 +722,16 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Safari Egg": {
+    "Winter Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Oxpecker", "Zebra", "Giraffe", "Rhino", "Elephant"],
+      "Trash": [
+        "Partridge",
+        "Santa Bear",
+        "Moose",
+        "Frost Squirrel",
+        "Wendigo"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -724,16 +780,16 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Spooky Egg": {
+    "Premium Bird Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Bat",
-        "Bone Dog",
-        "Spider",
-        "Black Cat",
-        "Egg/Ghostly Premium Spooky Egg",
-        "Headless Horseman"
+        "Black Bird",
+        "Cuckoo",
+        "Brown Owl",
+        "Gold Finch",
+        "Egg/Rainbow Premium Bird Egg",
+        "Birb"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -785,16 +841,15 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Night Egg": {
+    "Bug Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Hedgehog",
-        "Mole",
-        "Frog",
-        "Echo Frog",
-        "Night Owl",
-        "Raccoon"
+        "Caterpillar",
+        "Snail",
+        "Giant Ant",
+        "Praying Mantis",
+        "Dragonfly"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -819,15 +874,16 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Ghostly Premium Spooky Egg": {
+    "Premium Spooky Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Ghostly Bat",
-        "Ghostly Bone Dog",
-        "Ghostly Spider",
-        "Ghostly Black Cat",
-        "Ghostly Headless Horseman"
+        "Bat",
+        "Bone Dog",
+        "Spider",
+        "Black Cat",
+        "Egg/Ghostly Premium Spooky Egg",
+        "Headless Horseman"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -835,33 +891,10 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Fall Egg": {
+    "Spooky Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": [
-        "Robin",
-        "Badger",
-        "Grizzly Bear",
-        "Barn Owl",
-        "Swan",
-        "Egg/GIANT Premium Fall Egg"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistHatch": [],
-      "WhitelistSell": [],
-      "FilterPetTarget": []
-    },
-    "Bug Egg": {
-      "TresholdModeSell": "Below",
-      "FilterWeight": 4,
-      "Trash": [
-        "Caterpillar",
-        "Snail",
-        "Giant Ant",
-        "Praying Mantis",
-        "Dragonfly"
-      ],
+      "Trash": ["Bat", "Bone Dog", "Spider", "Black Cat", "Headless Horseman"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -872,6 +905,16 @@
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": ["Wasp", "Tarantula Hawk", "Moth", "Butterfly", "Disco Bee"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistHatch": [],
+      "WhitelistSell": [],
+      "FilterPetTarget": []
+    },
+    "Bird Egg": {
+      "TresholdModeSell": "Below",
+      "FilterWeight": 4,
+      "Trash": ["Black Bird", "Cuckoo", "Brown Owl", "Gold Finch", "Birb"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -894,15 +937,15 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Rainbow Premium Safari Egg": {
+    "Ghostly Premium Spooky Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Rainbow Oxpecker",
-        "Rainbow Zebra",
-        "Rainbow Giraffe",
-        "Rainbow Rhino",
-        "Rainbow Elephant"
+        "Ghostly Bat",
+        "Ghostly Bone Dog",
+        "Ghostly Spider",
+        "Ghostly Black Cat",
+        "Ghostly Headless Horseman"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -920,16 +963,15 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Premium Christmas Egg": {
+    "Rainbow Premium Safari Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
       "Trash": [
-        "Turtle Dove",
-        "Reindeer",
-        "Nutcracker",
-        "Egg/Festive Premium Christmas Egg",
-        "Yeti",
-        "Ice Golem"
+        "Rainbow Oxpecker",
+        "Rainbow Zebra",
+        "Rainbow Giraffe",
+        "Rainbow Rhino",
+        "Rainbow Elephant"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -963,16 +1005,10 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Winter Egg": {
+    "Christmas Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": [
-        "Partridge",
-        "Santa Bear",
-        "Moose",
-        "Frost Squirrel",
-        "Wendigo"
-      ],
+      "Trash": ["Turtle Dove", "Reindeer", "Nutcracker", "Yeti", "Ice Golem"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -996,20 +1032,27 @@
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Common Egg": {
+    "Safari Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Golden Lab", "Dog", "Bunny"],
+      "Trash": ["Oxpecker", "Zebra", "Giraffe", "Rhino", "Elephant"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
       "WhitelistSell": [],
       "FilterPetTarget": []
     },
-    "Christmas Egg": {
+    "Night Egg": {
       "TresholdModeSell": "Below",
       "FilterWeight": 4,
-      "Trash": ["Turtle Dove", "Reindeer", "Nutcracker", "Yeti", "Ice Golem"],
+      "Trash": [
+        "Hedgehog",
+        "Mole",
+        "Frog",
+        "Echo Frog",
+        "Night Owl",
+        "Raccoon"
+      ],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistHatch": [],
@@ -1441,6 +1484,7 @@
     "Gloom",
     "Glossy",
     "Gnomed",
+    "Goldsparkle",
     "Gourmet",
     "Graceful",
     "Grim",
@@ -1554,6 +1598,7 @@
   "eggs": [
     "Anti Bee Egg",
     "Bee Egg",
+    "Bird Egg",
     "Bug Egg",
     "Carnival Egg",
     "Christmas Egg",
@@ -1579,6 +1624,7 @@
     "Oasis Egg",
     "Paradise Egg",
     "Premium Anti Bee Egg",
+    "Premium Bird Egg",
     "Premium Carnival Egg",
     "Premium Christmas Egg",
     "Premium Fall Egg",
@@ -1590,6 +1636,7 @@
     "Premium Spooky Egg",
     "Premium Winter Egg",
     "Primal Egg",
+    "Rainbow Premium Bird Egg",
     "Rainbow Premium Carnival Egg",
     "Rainbow Premium New Year's Egg",
     "Rainbow Premium Primal Egg",
@@ -1622,6 +1669,8 @@
     "Bear on Bike",
     "Bearded Dragon",
     "Bee",
+    "Birb",
+    "Black Bird",
     "Black Bunny",
     "Black Cat",
     "Blood Hedgehog",
@@ -1632,6 +1681,7 @@
     "Bone Dog",
     "Brontosaurus",
     "Brown Mouse",
+    "Brown Owl",
     "Bunny",
     "Butterfly",
     "Calico",
@@ -1664,6 +1714,7 @@
     "Crab",
     "Crocodile",
     "Crow",
+    "Cuckoo",
     "Dairy Cow",
     "Dark Spriggan",
     "Deer",
@@ -1739,6 +1790,7 @@
     "Goblin",
     "Goblin Gardener",
     "Goblin Miner",
+    "Gold Finch",
     "Golden Bee",
     "Golden Goose",
     "Golden Lab",
@@ -1836,7 +1888,10 @@
     "Rainbow Bacon Pig",
     "Rainbow Bear on Bike",
     "Rainbow Bearded Dragon",
+    "Rainbow Birb",
+    "Rainbow Black Bird",
     "Rainbow Blue Jay",
+    "Rainbow Brown Owl",
     "Rainbow Cardinal",
     "Rainbow Carnival Elephant",
     "Rainbow Celebration Puppy",
@@ -1844,6 +1899,7 @@
     "Rainbow Christmas Gorilla",
     "Rainbow Clam",
     "Rainbow Corrupted Kitsune",
+    "Rainbow Cuckoo",
     "Rainbow Dilophosaurus",
     "Rainbow Elephant",
     "Rainbow Elk",
@@ -1853,6 +1909,7 @@
     "Rainbow French Hen",
     "Rainbow Frost Dragon",
     "Rainbow Giraffe",
+    "Rainbow Gold Finch",
     "Rainbow Griffin",
     "Rainbow Hotdog Daschund",
     "Rainbow Hydra",
@@ -4521,6 +4578,38 @@
       ]
     },
     {
+      "assetId": "134498368665412",
+      "name": "Birb",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, can use its cuteness to hatch eggs faster. All eggs advanced their hatch time by <Amount>s! There's a <Chance>% chance for the time advance to be multiplied by <Multiplier>.",
+          "name": "Birbegg",
+          "states": {
+            "Chance": { "Max": 30, "Base": 30, "Scale": 0 },
+            "Multiplier": { "Base": 2.5, "Scale": 0.15 },
+            "Cooldown": {
+              "Min": 300,
+              "Formatter": "ColonTime",
+              "Base": 300,
+              "Scale": 0
+            },
+            "Amount": { "Max": 150, "Base": 150, "Scale": 0 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "99505677375702",
+      "name": "Black Bird",
+      "passives": [
+        {
+          "description": "Pets hatched from eggs have a bonus 1 - <Chance> age to their age value!",
+          "name": "Dark Chirp",
+          "states": { "Chance": { "Max": 15, "Base": 3, "Scale": 0.1 } }
+        }
+      ]
+    },
+    {
       "assetId": "86614624778104",
       "name": "Black Bunny",
       "passives": [
@@ -4696,6 +4785,17 @@
           "description": "Grants additional <Chance>% increase to player jump height!",
           "name": "Cheese Hop",
           "states": { "Chance": { "Base": 12, "Scale": 0.1 } }
+        }
+      ]
+    },
+    {
+      "assetId": "92950668164703",
+      "name": "Brown Owl",
+      "passives": [
+        {
+          "description": "All active pets gain an additional <Chance> XP/s!",
+          "name": "Big Eyes",
+          "states": { "Chance": { "Base": 0.1, "Scale": 0.07 } }
         }
       ]
     },
@@ -5335,6 +5435,17 @@
           "description": " ",
           "name": "Movement Variation",
           "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
+        }
+      ]
+    },
+    {
+      "assetId": "77179595684693",
+      "name": "Cuckoo",
+      "passives": [
+        {
+          "description": "When you get a Lucky Harvest: There is a <Chance>% chance to get triple seeds! (stacked chance capped at 12%)",
+          "name": "Cuckoo Luck",
+          "states": { "Chance": { "Max": 6, "Base": 2, "Scale": 0.25 } }
         }
       ]
     },
@@ -6730,6 +6841,25 @@
           "description": "Every 5 minutes on the clock has a <Chance>% chance to grant a dig!",
           "name": "Miner",
           "states": { "Chance": { "Max": 5, "Base": 2, "Scale": 0.05 } }
+        }
+      ]
+    },
+    {
+      "assetId": "105107204201591",
+      "name": "Gold Finch",
+      "passives": [
+        {
+          "description": "Every <Cooldown>, has a <Chance>% chance to apply the goldsparkle mutation to a nearby fruit!",
+          "name": "Sparkle Squack",
+          "states": {
+            "Cooldown": {
+              "Min": 1000,
+              "Formatter": "ColonTime",
+              "Base": 3000,
+              "Scale": -7.5
+            },
+            "Chance": { "Min": 5, "Base": 15, "Scale": 0.5 }
+          }
         }
       ]
     },
@@ -8638,6 +8768,38 @@
       ]
     },
     {
+      "assetId": "118779191208883",
+      "name": "Rainbow Birb",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, can use its cuteness to hatch eggs faster. All eggs advanced their hatch time by <Amount>s! There's a <Chance>% chance for the time advance to be multiplied by <Multiplier>.",
+          "name": "Rainbow Birbegg",
+          "states": {
+            "Chance": { "Max": 50, "Base": 50, "Scale": 0 },
+            "Multiplier": { "Base": 5, "Scale": 0.25 },
+            "Cooldown": {
+              "Min": 150,
+              "Formatter": "ColonTime",
+              "Base": 150,
+              "Scale": 0
+            },
+            "Amount": { "Max": 300, "Base": 300, "Scale": 0 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "136868842872711",
+      "name": "Rainbow Black Bird",
+      "passives": [
+        {
+          "description": "Pets hatched from eggs have a bonus 1 - <Chance> age to their age value!",
+          "name": "Rainbow Dark Chirp",
+          "states": { "Chance": { "Max": 17, "Base": 4, "Scale": 0.125 } }
+        }
+      ]
+    },
+    {
       "assetId": "133585552724823",
       "name": "Rainbow Blue Jay",
       "passives": [
@@ -8653,6 +8815,17 @@
           "description": " ",
           "name": "Movement Variation",
           "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
+        }
+      ]
+    },
+    {
+      "assetId": "90230829697431",
+      "name": "Rainbow Brown Owl",
+      "passives": [
+        {
+          "description": "All active pets gain an additional <Chance> XP/s!",
+          "name": "Rainbow Big Eyes",
+          "states": { "Chance": { "Base": 0.2, "Scale": 0.14 } }
         }
       ]
     },
@@ -8760,6 +8933,17 @@
             },
             "Chance": { "Max": 50, "Base": 25, "Scale": 0.2 }
           }
+        }
+      ]
+    },
+    {
+      "assetId": "116224746950823",
+      "name": "Rainbow Cuckoo",
+      "passives": [
+        {
+          "description": "When you get a Lucky Harvest: There is a <Chance>% chance to get x4 seeds! (stacked chance capped at 12%)",
+          "name": "Rainbow Cuckoo Luck",
+          "states": { "Chance": { "Max": 6, "Base": 2, "Scale": 0.25 } }
         }
       ]
     },
@@ -8933,6 +9117,25 @@
               "Base": 4990,
               "Scale": 40
             }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "110126972290359",
+      "name": "Rainbow Gold Finch",
+      "passives": [
+        {
+          "description": "Every <Cooldown>, has a <Chance>% chance to apply the goldsparkle mutation to a nearby fruit!",
+          "name": "Rainbow Sparkle Squack",
+          "states": {
+            "Cooldown": {
+              "Min": 500,
+              "Formatter": "ColonTime",
+              "Base": 1500,
+              "Scale": -15
+            },
+            "Chance": { "Min": 10, "Base": 35, "Scale": 1.5 }
           }
         }
       ]
@@ -11178,6 +11381,7 @@
     "Festive Ice Golem": 250000,
     "Meerkat": 22000,
     "Armadillo": 20000,
+    "Rainbow Birb": 49999,
     "Deer": 2500,
     "Blood Hedgehog": 30000,
     "Lobster Thermidor": 50505,
@@ -11191,12 +11395,12 @@
     "Goat": 60000,
     "Gnome": 25000,
     "Sheckling": 25000,
-    "Hummingbird": 8000,
+    "Tanuki": 15000,
     "Chipmunk": 15000,
     "Snail": 12000,
     "Nihonzaru": 8000,
     "Glass Cat": 1400,
-    "Snow Bunny": 1500,
+    "Reaper": 67000,
     "Wasp": 28000,
     "Cape Buffalo": 50000,
     "Bear on Bike": 150000,
@@ -11235,20 +11439,21 @@
     "Fennec Fox": 35000,
     "Rainbow Performer Seal": 32000,
     "Hotdog Daschund": 16000,
-    "Shiba Inu": 2000,
+    "GIANT Silver Dragonfly": 50000,
     "Frost Dragon": 300000,
     "Rainbow Griffin": 65000,
-    "Ankylosaurus": 40000,
+    "Festive Santa Bear": 67000,
     "Red-Nosed Reindeer": 24000,
     "Corrupted Kitsune": 49999,
     "Hydra": 333333,
-    "Emerald Snake": 28000,
+    "Queen Bee": 65000,
     "Rainbow Maneki-neko": 1777,
     "Galah Cockatoo": 12000,
     "Rainbow New Year's Chimp": 40000,
     "Toucan": 9000,
     "Gorilla Chef": 55000,
     "Chimpanzee": 40000,
+    "Rainbow Gold Finch": 49999,
     "Rainbow Bear on Bike": 150000,
     "Chubby Chipmunk": 50000,
     "Snowman Soldier": 23000,
@@ -11269,7 +11474,7 @@
     "Ghostly Black Cat": 40000,
     "Cow": 9500,
     "Mimic Octopus": 25000,
-    "Silver Dragonfly": 50000,
+    "German Shepherd": 2500,
     "Rainbow Mizuchi": 70000,
     "Golden Bee": 25000,
     "Red Panda": 30000,
@@ -11296,7 +11501,7 @@
     "Arctic Fox": 35000,
     "Reindeer": 24000,
     "Nutcracker": 44000,
-    "Sugar Glider": 16000,
+    "Rainbow Farmer Chipmunk": 15000,
     "Moose": 55000,
     "Angora Goat": 60000,
     "Diamond Dragonfly": 100000,
@@ -11307,42 +11512,50 @@
     "Rainbow New Year's Bird": 2026,
     "New Year's Dragon": 300000,
     "Calico": 2500,
+    "Sea Otter": 30000,
     "Firefly": 25000,
+    "Grey Mouse": 15000,
     "Rainbow Elk": 2500,
+    "Red Fox": 35000,
+    "Triceratops": 40000,
     "Black Cat": 40000,
+    "Moon Cat": 2400,
     "Hex Serpent": 66666,
     "Monkey": 7400,
+    "Rainbow Hotdog Daschund": 16000,
     "Squirrel": 15000,
-    "GIANT Mantis Shrimp": 40000,
-    "Sea Otter": 30000,
-    "Grey Mouse": 15000,
-    "Red Fox": 35000,
-    "Crab": 3000,
-    "Moon Cat": 2400,
     "Tarantula Hawk": 28000,
-    "Rainbow Blue Jay": 1500,
+    "GIANT Mantis Shrimp": 40000,
     "Butterfly": 26000,
+    "Shiba Inu": 2000,
+    "Rainbow Cuckoo": 3500,
+    "Black Bird": 20000,
+    "Rainbow Black Bird": 20000,
     "Sand Snake": 28000,
+    "Spider": 35000,
+    "Rainbow Blue Jay": 1500,
+    "Ghostly Bat": 5000,
+    "Pachycephalosaurus": 40000,
     "Grizzly Bear": 55000,
     "Echo Frog": 50000,
     "New Year's Chimp": 40000,
     "Bee": 25000,
-    "Hamster": 15000,
-    "Sea Turtle": 22200,
-    "Radioactive Stegosaurus": 40000,
-    "Pachycephalosaurus": 40000,
     "Spinosaurus": 25000,
+    "Sea Turtle": 22200,
+    "Goblin": 38000,
+    "Birb": 49999,
+    "Black Bunny": 1300,
     "Water Buffalo": 50000,
     "Raptor": 40000,
     "Oxpecker": 1500,
     "Rainbow Shroomie": 20000,
-    "GIANT Snowman Soldier": 23000,
+    "Rainbow French Hen": 5000,
     "Headless Horseman": 77777,
-    "Rainbow Iguanodon": 40000,
+    "Raiju": 42000,
     "Rainbow Hydra": 333333,
-    "Spider": 35000,
+    "Sushi Bear": 20000,
     "Chicken Zombie": 35000,
-    "Summer Kiwi": 50000,
+    "Spriggan": 45000,
     "Rainbow Oxpecker": 1500,
     "Hedgehog": 30000,
     "Sapphire Macaw": 12000,
@@ -11350,139 +11563,139 @@
     "Pack Bee": 25000,
     "Football": 870,
     "Axolotl": 22000,
-    "Spriggan": 45000,
+    "Ghostly Mummy": 88000,
     "Giant Ant": 18000,
-    "Green Bean": 23825,
+    "Elk": 2500,
     "Mistletoad": 50000,
     "Bearded Dragon": 45000,
-    "Festive Turtle Dove": 10000,
-    "Mandrake": 10000,
-    "Black Bunny": 1300,
-    "Griffin": 65000,
-    "Ladybug": 1200,
+    "Turtle Dove": 10000,
+    "Rainbow Krampus": 111111,
+    "Rainbow Parasaurolophus": 40000,
+    "Wind Wyvern": 300000,
+    "Rainbow Christmas Gorilla": 55000,
     "Turtle": 10000,
     "Pig": 5000,
-    "Pixie": 500,
+    "Griffin": 65000,
     "Wisp": 1000,
     "Pumpkin Rat": 6000,
-    "Golden Lab": 1200,
+    "Ladybug": 1200,
     "Rainbow Firework Sprite": 20260,
     "Moth": 25000,
-    "Luminous Sprite": 25000,
-    "Wind Wyvern": 300000,
-    "Tanuki": 15000,
-    "Rainbow Parasaurolophus": 40000,
-    "Crow": 1500,
-    "Rainbow Bearded Dragon": 45000,
-    "Peacock": 19000,
+    "Pixie": 500,
+    "Snow Bunny": 1500,
     "Glimmering Sprite": 25000,
+    "Mandrake": 10000,
+    "Pterodactyl": 40000,
+    "Marmot": 38000,
+    "Peacock": 19000,
+    "Seedling": 25000,
     "Dark Spriggan": 45000,
-    "Festive Santa Bear": 67000,
-    "French Hen": 5000,
-    "Junkbot": 10101,
+    "Penguin": 12000,
     "Rainbow Cardinal": 1500,
+    "Junkbot": 10101,
+    "Maneki-neko": 1777,
     "Brown Mouse": 15000,
-    "Rainbow Phoenix": 65000,
-    "Barn Owl": 50000,
-    "Starfish": 1500,
-    "Festive Moose": 55000,
+    "Mallard": 15000,
+    "Parasaurolophus": 40000,
+    "Caterpillar": 25000,
+    "Summer Kiwi": 50000,
     "Ruby Squid": 60000,
     "Orange Tabby": 1500,
     "Tanchozuru": 40000,
-    "Swan": 56000,
+    "Sugar Glider": 16000,
+    "Chimera": 123123,
+    "Elephant": 111000,
     "GIANT Robin": 1500,
-    "Penguin": 12000,
-    "GIANT Grizzly Bear": 55000,
     "Rainbow Fortune Squirrel": 30000,
-    "Mallard": 15000,
-    "Parasaurolophus": 40000,
+    "GIANT Grizzly Bear": 55000,
+    "Radioactive Stegosaurus": 40000,
     "Unicycle Monkey": 35000,
     "Phoenix": 65000,
-    "Chimera": 123123,
+    "Messenger Pigeon": 10000,
     "Ghostly Scarab": 2000,
     "Rainbow Idol Chipmunk": 30000,
-    "Caterpillar": 25000,
-    "Pterodactyl": 40000,
+    "Rainbow Elephant": 111000,
+    "Brown Owl": 50000,
     "Spaghetti Sloth": 18000,
-    "Kiwi": 50000,
-    "Elephant": 111000,
+    "Hummingbird": 8000,
+    "Lich": 100000,
     "Tiger": 100000,
     "Woodpecker": 5000,
-    "Mizuchi": 70000,
+    "Emerald Snake": 28000,
     "Festive Nutcracker": 44000,
-    "Dairy Cow": 9000,
+    "Luminous Sprite": 25000,
     "Capybara": 30000,
-    "GIANT Silver Dragonfly": 50000,
+    "Blue Jay": 1500,
     "Rainbow Star Wolf": 55000,
     "GIANT Snowman Builder": 23000,
-    "Farmer Chipmunk": 15000,
-    "Amethyst Beetle": 25000,
+    "Mizuchi": 70000,
+    "Gold Finch": 49999,
     "Krampus": 111111,
     "Rainbow Dilophosaurus": 30000,
     "Smithing Dog": 1500,
-    "Magpie": 10000,
-    "Rainbow Farmer Chipmunk": 15000,
+    "Rainbow Mandrake": 10000,
+    "Tree Frog": 16000,
     "Kodama": 22000,
     "T-Rex": 60000,
     "Cocoa Cat": 40000,
-    "Lich": 100000,
     "Silver Piggy": 24000,
-    "Lemon Lion": 50000,
-    "Geode Turtle": 22200,
-    "Fortune Squirrel": 30000,
-    "Raiju": 42000,
-    "Red Giant Ant": 15000,
-    "Rainbow Mandrake": 10000,
     "Hippo": 120000,
+    "Lemon Lion": 50000,
+    "Owl": 50000,
+    "Blood Kiwi": 45000,
+    "Farmer Chipmunk": 15000,
+    "Red Giant Ant": 15000,
+    "Hyena": 25000,
+    "Flamingo": 14000,
     "Honey Bee": 25000,
     "Bald Eagle": 15000,
     "Rooster": 4000,
     "Rainbow Celebration Puppy": 2026,
     "Rainbow Clam": 500,
     "Christmas Spirit": 12321,
-    "Hyena": 25000,
+    "Rainbow Snow Bunny": 1500,
     "Sunny-Side Chicken": 3400,
     "GIANT Firefly": 25000,
     "Stegosaurus": 40000,
-    "Gecko": 1500,
-    "Wolf": 55000,
-    "Blood Kiwi": 45000,
+    "Fortune Squirrel": 30000,
+    "Rainbow Rhino": 66000,
+    "Hamster": 15000,
+    "Zebra": 33000,
     "Ghostly Spider": 35000,
-    "Ghostly Headless Horseman": 77777,
     "Flame Bee": 25000,
-    "Flamingo": 14000,
-    "Rainbow Snow Bunny": 1500,
-    "Apple Gazelle": 25000,
-    "Goblin": 38000,
-    "Sushi Bear": 20000,
-    "Elk": 2500,
+    "Ghostly Headless Horseman": 77777,
+    "Crow": 1500,
+    "Specter": 44444,
+    "Mummy": 88000,
+    "Tomb Marmot": 38000,
+    "Rainbow Phoenix": 65000,
     "Raccoon": 45000,
     "Ice Golem": 250000,
-    "Mummy": 88000,
+    "Apple Gazelle": 25000,
     "Ghostly Tomb Marmot": 38000,
-    "Specter": 44444,
+    "Rainbow Iguanodon": 40000,
     "Frost Squirrel": 25000,
-    "Zebra": 33000,
-    "Blue Jay": 1500,
+    "Swan": 56000,
+    "Wolf": 55000,
     "Firework Sprite": 20260,
-    "Snowman Builder": 23000,
+    "Green Bean": 23825,
     "Rainbow Zebra": 33000,
-    "Rainbow Rhino": 66000,
+    "Petal Bee": 25000,
     "Idol Chipmunk": 30000,
-    "Owl": 50000,
+    "Barn Owl": 50000,
     "Rainbow Ankylosaurus": 40000,
     "New Year's Bird": 2026,
     "Show Pony": 88000,
     "Topaz Snail": 12000,
-    "Petal Bee": 25000,
+    "Amethyst Beetle": 25000,
     "GIANT Badger": 15000,
     "Cooked Owl": 50000,
     "Clam": 500,
     "Space Squirrel": 25000,
     "Lion": 100000,
-    "Rainbow Magpie": 10000,
-    "Messenger Pigeon": 10000,
-    "Camel": 55000,
+    "Dairy Cow": 9000,
+    "Kiwi": 50000,
+    "Snowman Builder": 23000,
     "Goblin Gardener": 38000,
     "Praying Mantis": 55000,
     "Kappa": 40000,
@@ -11490,44 +11703,44 @@
     "Rainbow Carnival Elephant": 133000,
     "Stag Beetle": 25000,
     "Scarab": 2000,
-    "Maneki-neko": 1777,
+    "Rainbow Magpie": 10000,
     "Badger": 15000,
-    "Turtle Dove": 10000,
     "Golden Piggy": 24000,
+    "Starfish": 1500,
     "Bagel Bunny": 1200,
-    "Rainbow French Hen": 5000,
-    "Rainbow Christmas Gorilla": 55000,
-    "Rainbow Krampus": 111111,
+    "Scarlet Macaw": 12000,
+    "Magpie": 10000,
+    "French Hen": 5000,
     "Cockatrice": 66000,
     "Rainbow Lobster Thermidor": 50505,
     "Performer Seal": 32000,
     "Peach Wasp": 2500,
     "Rainbow Spinosaurus": 25000,
-    "Reaper": 67000,
+    "Golden Lab": 1200,
     "Carnival Elephant": 133000,
-    "Ghostly Mummy": 88000,
     "Rainbow Corrupted Kitsune": 49999,
-    "Scarlet Macaw": 12000,
-    "Tomb Marmot": 38000,
-    "Tree Frog": 16000,
+    "Camel": 55000,
+    "Festive Moose": 55000,
+    "Pine Beetle": 25000,
+    "Rainbow Bearded Dragon": 45000,
     "Mantis Shrimp": 40000,
-    "Marmot": 38000,
-    "Festive Yeti": 300000,
+    "Festive Turtle Dove": 10000,
+    "Festive Reindeer": 24000,
     "GIANT Barn Owl": 50000,
     "Ghostly Bone Dog": 15000,
-    "Ghostly Bat": 5000,
-    "Pine Beetle": 25000,
+    "Festive Yeti": 300000,
     "Goblin Miner": 38000,
-    "Festive Reindeer": 24000,
-    "Wendigo": 555555,
-    "German Shepherd": 2500,
+    "Geode Turtle": 22200,
     "Panda": 20000,
-    "Seedling": 25000,
-    "Queen Bee": 65000,
+    "Cuckoo": 3500,
+    "Ankylosaurus": 40000,
+    "Wendigo": 555555,
+    "Rainbow Brown Owl": 50000,
+    "Crab": 3000,
     "Rainbow Frost Dragon": 300000,
-    "Rainbow Hotdog Daschund": 16000,
-    "Triceratops": 40000,
-    "Rainbow Elephant": 111000
+    "Gecko": 1500,
+    "GIANT Snowman Soldier": 23000,
+    "Silver Dragonfly": 50000
   },
   "craftingRecipes": {
     "RecipiesSortedByMachineType": {
@@ -17384,6 +17597,8 @@
     "Bear on Bike",
     "Bearded Dragon",
     "Bee",
+    "Birb",
+    "Black Bird",
     "Black Bunny",
     "Black Cat",
     "Blood Hedgehog",
@@ -17394,6 +17609,7 @@
     "Bone Dog",
     "Brontosaurus",
     "Brown Mouse",
+    "Brown Owl",
     "Bunny",
     "Butterfly",
     "Calico",
@@ -17426,6 +17642,7 @@
     "Crab",
     "Crocodile",
     "Crow",
+    "Cuckoo",
     "Dairy Cow",
     "Dark Spriggan",
     "Deer",
@@ -17501,6 +17718,7 @@
     "Goblin",
     "Goblin Gardener",
     "Goblin Miner",
+    "Gold Finch",
     "Golden Bee",
     "Golden Goose",
     "Golden Lab",
@@ -17601,7 +17819,10 @@
     "Rainbow Bacon Pig",
     "Rainbow Bear on Bike",
     "Rainbow Bearded Dragon",
+    "Rainbow Birb",
+    "Rainbow Black Bird",
     "Rainbow Blue Jay",
+    "Rainbow Brown Owl",
     "Rainbow Cardinal",
     "Rainbow Carnival Elephant",
     "Rainbow Celebration Puppy",
@@ -17609,6 +17830,7 @@
     "Rainbow Christmas Gorilla",
     "Rainbow Clam",
     "Rainbow Corrupted Kitsune",
+    "Rainbow Cuckoo",
     "Rainbow Dilophosaurus",
     "Rainbow Elephant",
     "Rainbow Elk",
@@ -17618,6 +17840,7 @@
     "Rainbow French Hen",
     "Rainbow Frost Dragon",
     "Rainbow Giraffe",
+    "Rainbow Gold Finch",
     "Rainbow Griffin",
     "Rainbow Hotdog Daschund",
     "Rainbow Hydra",
