@@ -350,6 +350,24 @@
       }
     ]
   },
+  "portals": {
+    "Jungle": [{ "price": "50B", "world": 1 }],
+    "Atlantis": [{ "price": "3.50QI", "world": 1 }],
+    "Candy": [{ "price": "100QD", "world": 1 }],
+    "Kryo": [{ "price": "125SX", "world": 2 }],
+    "Heaven": [{ "price": "2.50T", "world": 1 }],
+    "Winter": [{ "price": "50M", "world": 1 }],
+    "Celestial": [{ "price": "15SP", "world": 2 }],
+    "Forest": [{ "price": "1M", "world": 1 }],
+    "Dojo": [{ "price": "75.50T", "world": 1 }],
+    "Holographic": [{ "price": "125SP", "world": 2 }],
+    "Cyberpunk": [{ "price": "9.50OC", "world": 2 }],
+    "Desert": [{ "price": "1B", "world": 1 }],
+    "Space": [{ "price": "125QI", "world": 1 }],
+    "Volcano": [{ "price": "2.50QD", "world": 1 }],
+    "Magma": [{ "price": "1.65SP", "world": 2 }],
+    "Lunar": [{ "price": "1.15OC", "world": 2 }]
+  },
   "mutations": ["Electric", "Void"],
   "tiers": ["Galaxy", "Golden", "Rainbow"],
   "rarities": [
