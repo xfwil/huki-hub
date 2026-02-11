@@ -1,0 +1,928 @@
+{
+  "pets": [
+    "Fire Slime",
+    "Sphinx",
+    "Darkmatter Leviathan",
+    "Neon Cat",
+    "Ninja Demon",
+    "Blood Ghoul",
+    "Divine Guard",
+    "Zebra",
+    "Bunny",
+    "Trophy Guardian",
+    "UFO Alien",
+    "Surge Dragon",
+    "Ember Inkling",
+    "Mummy",
+    "Blue Luckyblock",
+    "Party Puppy",
+    "Lightning Wyvern",
+    "Yeti",
+    "Starfish",
+    "Void Bunny",
+    "Lucky Fairy",
+    "Serpent God",
+    "Future Cat",
+    "Eclipse Fox",
+    "Goat",
+    "Techno Dragon",
+    "Overcharged Robot",
+    "Bladekaiser",
+    "Serapha",
+    "Ice Crystal Demon",
+    "Lion God",
+    "Doggy",
+    "Magma Wyvern",
+    "Nebula Cyborg",
+    "Frog",
+    "Sharkie",
+    "Empyrean Sovereign",
+    "Space Spirit",
+    "Frost Spirit",
+    "Gilded Pegasus",
+    "Moon Explorer",
+    "Royal Cat",
+    "Ornament",
+    "Nebula Star",
+    "Lynx",
+    "Tigerclaw",
+    "Aether Lamb",
+    "Token Mimic",
+    "Meteoric Fossil",
+    "Googly Alien",
+    "Frosty Snowman",
+    "Walrus",
+    "Bone Bull",
+    "Royal Puppy",
+    "Infernal Phoenix",
+    "Dual Shock",
+    "Frost Golem",
+    "Void Eyes",
+    "40M Void Burst",
+    "Lunar Bloom",
+    "Panda",
+    "King Crab",
+    "Cactus Raider",
+    "Caramel Bunny",
+    "Bear Bender",
+    "Nebula Cluster",
+    "Crimson Flare",
+    "Serenity",
+    "Queen Bee",
+    "Cottontail",
+    "Glitched TV",
+    "Blink",
+    "Divine Dragon",
+    "Mouse",
+    "JACKPOT",
+    "Karate Lynx",
+    "Archangel",
+    "Festive Cat",
+    "Mistletoe Wyvern",
+    "Gingerbread Dragon",
+    "Chicken",
+    "Electrical Glitch",
+    "Lava Dragon",
+    "Aether Koi",
+    "2026 Overlord",
+    "Nemo",
+    "Abyssal Raven",
+    "Silver Emperor",
+    "Sensei Panda",
+    "Infernal Seraphim",
+    "5M Frost Monarch",
+    "King Kraken",
+    "Reigning Taco",
+    "Cow",
+    "Hamster",
+    "Bloodborne Ruler",
+    "Void Fox",
+    "Sprinkler Bunny",
+    "Dusty Wolf",
+    "Firework",
+    "Infernal Ravager",
+    "Santa Bear",
+    "Cat",
+    "Sakura Nymph",
+    "Mr Sprinkler",
+    "2026 Star",
+    "Frostwing Seraph",
+    "Eclipse Hydra",
+    "Stellar Eye",
+    "Christmas Tree",
+    "40M Oblivion Shard",
+    "Treant",
+    "Polar Bear",
+    "Mammoth",
+    "Festive Owl",
+    "Nutcracker",
+    "Virtual Cuboid",
+    "Moose",
+    "Snow Thief",
+    "Blueberry Taffy",
+    "Emberagon",
+    "Alien",
+    "Magmawrath",
+    "Fortunate Calico",
+    "Monkey",
+    "Universal Manipulator",
+    "Aurelin",
+    "Rocket Scientist",
+    "Cardinal Hydra",
+    "Reality Overide",
+    "Starlight Deity",
+    "Divine Celestia",
+    "Tri-Phoenix",
+    "Bee",
+    "Sparky",
+    "Luminary Star",
+    "Festive Penguin",
+    "Grand Ice Wizard",
+    "Sheep",
+    "Bubblegum Chaos",
+    "Penguin",
+    "Camel",
+    "Orca Dominator",
+    "Party Cat",
+    "Bear",
+    "Evil Snowman",
+    "Pig",
+    "Magma Imp",
+    "Festive Dog",
+    "Venom Dominus",
+    "Holographic Hybrid",
+    "Frost Archangel",
+    "Sakura Dominator",
+    "Forest Wyvern",
+    "Magmasaur",
+    "Paradox",
+    "Ashfiend",
+    "Snow Emperor",
+    "Shadow Spider",
+    "Frost Angel",
+    "Puppy",
+    "Storm Terror",
+    "Supreme Mech",
+    "Neo Prototype",
+    "Operating System",
+    "Prismatic Luckyblock",
+    "Cyber Angel",
+    "Samuwai",
+    "Phoenix",
+    "Tri-Yeti",
+    "Tundra God",
+    "Mechanical Eye",
+    "Galactic Angel",
+    "Starry Antlers",
+    "Evil Future Cat",
+    "Cyber Deer",
+    "Cyber Bear",
+    "Snowman",
+    "Water Beast",
+    "Tesla Bot",
+    "Samureye",
+    "Lucky Angel",
+    "Orbital Demigod",
+    "Festive Bunny",
+    "Eternal Moon",
+    "Lunar Alien",
+    "Jungle Hydra",
+    "404_ERROR",
+    "Krampus",
+    "Holo Dragon",
+    "Halo Chicken",
+    "Gilded Seraphim",
+    "SUPER Luckyblock",
+    "Social Dragon",
+    "Magmatic Punk",
+    "Holo Crab",
+    "Rudolph",
+    "Aetherfin",
+    "Skybound Relic",
+    "Frost Wolf",
+    "Fire Bat",
+    "Candy God",
+    "Wind Elemental",
+    "Dolphin",
+    "Cloudling",
+    "Infernal Lord",
+    "New Year Dragon",
+    "Ninja Tri-Demon",
+    "All Seeing Eye",
+    "Fire Imp",
+    "Star Goob",
+    "Yellow Luckyblock",
+    "2026 Balloons",
+    "Cosmic Chaos",
+    "Space Snowflake",
+    "Cryo UFO",
+    "Cosmic Robot",
+    "Lava God",
+    "Cryo Pup",
+    "Crimson Incarnate",
+    "Voidling",
+    "Ninja Pup",
+    "Cryo Kitty",
+    "Comet Star",
+    "Space Jelly",
+    "Blurple",
+    "40M Abyss Serpent",
+    "Alien Mushroom",
+    "Spaceflower",
+    "Vesperyx",
+    "Frozen Specter",
+    "Tri-Eyed Alien",
+    "Bone Cat",
+    "Starshine Warrior",
+    "Royal Jelly",
+    "Hooded Krampus",
+    "Chocolate Marauder",
+    "Stormcloud Kitsune",
+    "Molten Coffee Dragon",
+    "Waffle Knight",
+    "Owl",
+    "Cotton Candy Pop",
+    "Mummified Wyvern",
+    "King Emblazed",
+    "Hydra Magma Empyreus",
+    "Magma Empyreus",
+    "Astronaut Dog",
+    "Ash Dog",
+    "Bonsai Monster",
+    "Moon Warden",
+    "Lion",
+    "Silent Assassin",
+    "Seraphlux",
+    "Monkey Warrior",
+    "Elephant",
+    "Fire Ninja",
+    "Snowboo",
+    "Sakura Queen",
+    "Amethyst Hawk",
+    "Magmatic Jester",
+    "Raging Claw",
+    "Weeping Angel",
+    "Tree Of Life",
+    "Reindeer Emperor",
+    "Holo Dove",
+    "Holy Squirrel",
+    "Holographic Prism",
+    "Chronos",
+    "Royal Crown",
+    "Gorilla",
+    "Fox",
+    "Shiny Neon Cat",
+    "Eclipse Sovereign",
+    "Charged Dino",
+    "Vanilla Pluff",
+    "Dune Dog",
+    "Frost Queen",
+    "Disco Lord",
+    "Boar",
+    "5M Snowglobe",
+    "Panther",
+    "Gift Mimic",
+    "Arid Goat",
+    "Christmas Goat",
+    "Kairos",
+    "Spider",
+    "Frozen Yeti",
+    "Frost Warrior",
+    "Bloodfrost",
+    "5M North Star",
+    "Voltgryph",
+    "40M Darkest Knight",
+    "Sproutling",
+    "Magmatic Angel",
+    "Celestial Candycane",
+    "Celestelle Unicorn",
+    "Seraphyne",
+    "Jack IN the Box",
+    "Electric Slime"
+  ],
+  "enchants": {
+    "Taps I": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+5%</font> more <font color=\"#00cfff\">Taps</font>"
+      }
+    ],
+    "Secret Hunter": [{ "description": "+4% Secret Hatch Chance (Max 12%)" }],
+    "Luck I": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+5%</font> more <font color=\"#00ff00\">Luck</font>"
+      }
+    ],
+    "Rainbow Hunter": [{ "description": "1% Chance to hatch Rainbow Pets" }],
+    "Rebirths II": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+10%</font> more <font color=\"#9932cc\">Rebirths</font>"
+      }
+    ],
+    "Rebirths I": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+5%</font> more <font color=\"#9932cc\">Rebirths</font>"
+      }
+    ],
+    "Taps II": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+10%</font> more <font color=\"#00cfff\">Taps</font>"
+      }
+    ],
+    "Luck II": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+10%</font> more <font color=\"#00ff00\">Luck</font>"
+      }
+    ],
+    "Luck III": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+20%</font> more <font color=\"#00ff00\">Luck</font>"
+      }
+    ],
+    "Gems II": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+10%</font> more <font color=\"#0389ff\">Gems</font>"
+      }
+    ],
+    "Golden Hunter": [{ "description": "2% Chance to hatch Golden Pets" }],
+    "Gems I": [
+      {
+        "description": "Earn <font color=\"#00ff00\">+5%</font> more <font color=\"#0389ff\">Gems</font>"
+      }
+    ]
+  },
+  "mutations": ["Electric", "Void"],
+  "tiers": ["Galaxy", "Golden", "Rainbow"],
+  "rarities": [
+    "Basic",
+    "Common",
+    "Epic",
+    "Exclusive",
+    "Godly",
+    "Leaderboard",
+    "Legendary",
+    "Mythical",
+    "Rare",
+    "Secret I",
+    "Secret II",
+    "Secret III",
+    "Secret X"
+  ],
+  "eggs": {
+    "Lightning Event": [
+      {
+        "pets": {
+          "Tesla Bot": 10,
+          "Sparky": 37,
+          "Electrical Glitch": 1,
+          "Lightning Wyvern": 0.002,
+          "Charged Dino": 20,
+          "Electric Slime": 32
+        },
+        "price": "500B",
+        "secrets": {
+          "Dual Shock": 1000000,
+          "Overcharged Robot": 4500000,
+          "Surge Dragon": 500000
+        }
+      }
+    ],
+    "Holographic": [
+      {
+        "pets": {
+          "Glitched TV": 3,
+          "Virtual Cuboid": 35,
+          "404_ERROR": 0.005,
+          "Holographic Hybrid": 2,
+          "Holo Crab": 35,
+          "Holo Dragon": 6,
+          "Holo Dove": 16
+        },
+        "price": "125SP",
+        "secrets": { "Reality Overide": 1000000, "Holographic Prism": 250000 }
+      }
+    ],
+    "Poison": [
+      {
+        "pets": {
+          "Treant": 0.05,
+          "Jungle Hydra": 2.84,
+          "Frog": 33,
+          "Venom Dominus": 0.11,
+          "Monkey": 25,
+          "Gorilla": 12,
+          "Panda": 9,
+          "Spider": 18
+        },
+        "price": "20B",
+        "secrets": []
+      }
+    ],
+    "Snowman": [
+      {
+        "pets": {
+          "Moose": 40,
+          "Yeti": 10,
+          "Tri-Yeti": 5.9,
+          "Frost Golem": 0.1,
+          "Snowman": 13,
+          "Mammoth": 30
+        },
+        "price": "30M",
+        "secrets": { "Frost Queen": 250000 }
+      }
+    ],
+    "Divine": [
+      {
+        "pets": {
+          "Gilded Pegasus": 3,
+          "Wind Elemental": 35,
+          "Stormcloud Kitsune": 2,
+          "Aether Lamb": 16,
+          "Aether Koi": 6,
+          "Storm Terror": 0.005,
+          "Cloudling": 35
+        },
+        "price": "15SP",
+        "secrets": { "Empyrean Sovereign": 1000000, "Skybound Relic": 250000 }
+      }
+    ],
+    "Evil Xmas Egg": [
+      {
+        "pets": {
+          "Gift Mimic": 28,
+          "Krampus": 0.1,
+          "Christmas Goat": 30,
+          "Snow Thief": 20,
+          "Evil Snowman": 15
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Basic": [
+      {
+        "pets": {
+          "Cat": 25,
+          "Bunny": 15,
+          "Puppy": 30,
+          "Panther": 5,
+          "Bear": 10
+        },
+        "price": "250",
+        "secrets": []
+      }
+    ],
+    "Elemental": [
+      {
+        "pets": {
+          "Samureye": 0.01,
+          "Bear Bender": 12,
+          "Monkey Warrior": 18,
+          "Sensei Panda": 30,
+          "Fire Ninja": 38,
+          "Silent Assassin": 2,
+          "Water Beast": 0.15
+        },
+        "price": "500T",
+        "secrets": { "Raging Claw": 1000000, "Divine Dragon": 500000 }
+      }
+    ],
+    "Cyborg Egg": [
+      {
+        "pets": {
+          "Techno Dragon": 0.1,
+          "Galactic Angel": 28,
+          "Universal Manipulator": 15,
+          "Void Eyes": 30,
+          "Meteoric Fossil": 20
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Forest": [
+      {
+        "pets": {
+          "Pig": 30,
+          "Cow": 10,
+          "Fox": 5,
+          "Goat": 13,
+          "Queen Bee": 0.5,
+          "Bee": 2,
+          "Cottontail": 38.5
+        },
+        "price": "2M",
+        "secrets": []
+      }
+    ],
+    "Chronos Egg": [
+      {
+        "pets": { "Kairos": 80, "Chronos": 0.1, "Paradox": 19.9 },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Royal Egg": [
+      {
+        "pets": {
+          "Token Mimic": 20,
+          "Royal Crown": 0.1,
+          "All Seeing Eye": 15,
+          "Royal Puppy": 30,
+          "Royal Cat": 28
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Tropical": [
+      {
+        "pets": {
+          "Voltgryph": 5,
+          "Sproutling": 45,
+          "Tigerclaw": 35,
+          "Emberagon": 15
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Frozen": [
+      {
+        "pets": {
+          "Frost Wolf": 35,
+          "Ice Crystal Demon": 15,
+          "Tundra God": 5,
+          "Frozen Yeti": 45
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Angelic": [
+      {
+        "pets": { "Serapha": 45, "Voidling": 35, "Aetherfin": 5, "Blink": 15 },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Safari": [
+      {
+        "pets": {
+          "Boar": 33,
+          "Elephant": 6,
+          "Goat": 20,
+          "Cardinal Hydra": 0.5,
+          "Lynx": 2,
+          "Lion": 5
+        },
+        "price": "300K",
+        "secrets": []
+      }
+    ],
+    "Infernal": [
+      {
+        "pets": {
+          "Fire Slime": 35,
+          "Magmatic Jester": 0.005,
+          "Infernal Phoenix": 2,
+          "Fire Imp": 35,
+          "Fire Bat": 16,
+          "Lava Dragon": 3,
+          "Magmatic Punk": 6
+        },
+        "price": "1.75SP",
+        "secrets": { "Infernal Seraphim": 1000000, "Infernal Lord": 250000 }
+      }
+    ],
+    "Volcanic": [
+      {
+        "pets": {
+          "Magmatic Angel": 35,
+          "Magma Wyvern": 15,
+          "Lava God": 5,
+          "Magma Imp": 45
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Christmas Event": [
+      {
+        "pets": {
+          "Santa Bear": 28,
+          "Rudolph": 20,
+          "Nutcracker": 0.01,
+          "Snowboo": 30,
+          "Festive Owl": 15,
+          "Ornament": 5
+        },
+        "price": "2.50B",
+        "secrets": {
+          "Frost Spirit": 200000,
+          "Gilded Seraphim": 1750000,
+          "Christmas Tree": 500000
+        }
+      }
+    ],
+    "Space": [
+      {
+        "pets": {
+          "UFO Alien": 0.01,
+          "Astronaut Dog": 35,
+          "Stellar Eye": 0.1,
+          "Tri-Eyed Alien": 4,
+          "Rocket Scientist": 35,
+          "Alien": 16
+        },
+        "price": "65QI",
+        "secrets": { "Luminary Star": 250000, "Cosmic Chaos": 1000000 }
+      }
+    ],
+    "Samurai": [
+      {
+        "pets": {
+          "Samuwai": 45,
+          "Ashfiend": 15,
+          "Bloodfrost": 35,
+          "Bladekaiser": 5
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Magma": [
+      {
+        "pets": {
+          "Bone Cat": 2,
+          "King Emblazed": 0.01,
+          "Ash Dog": 38,
+          "Hydra Magma Empyreus": 0.05,
+          "Magma Empyreus": 0.1,
+          "Bone Bull": 30,
+          "Magmawrath": 12,
+          "Ember Inkling": 18
+        },
+        "price": "5QD",
+        "secrets": { "Magmasaur": 500000 }
+      }
+    ],
+    "Lunar": [
+      {
+        "pets": {
+          "Eclipse Fox": 36,
+          "Eclipse Hydra": 6,
+          "Lunar Alien": 36,
+          "Orbital Demigod": 0.005,
+          "Eternal Moon": 3,
+          "Moon Explorer": 16
+        },
+        "price": "1OC",
+        "secrets": { "Starlight Deity": 250000, "Moon Warden": 1000000 }
+      }
+    ],
+    "Holy": [
+      {
+        "pets": {
+          "Halo Chicken": 28,
+          "Archangel": 0.01,
+          "Divine Guard": 0.49,
+          "Holy Squirrel": 35,
+          "Phoenix": 19,
+          "Tri-Phoenix": 14,
+          "Tree Of Life": 3.5
+        },
+        "price": "500B",
+        "secrets": { "Weeping Angel": 333333 }
+      }
+    ],
+    "Sakura": [
+      {
+        "pets": {
+          "Bonsai Monster": 14,
+          "Ninja Pup": 35,
+          "Sakura Nymph": 19,
+          "Karate Lynx": 28,
+          "Sakura Queen": 0.01,
+          "Ninja Demon": 3.5,
+          "Ninja Tri-Demon": 0.49
+        },
+        "price": "10T",
+        "secrets": { "Sakura Dominator": 333333 }
+      }
+    ],
+    "New Years Event": [
+      {
+        "pets": {
+          "Party Cat": 32,
+          "Party Puppy": 37,
+          "Firework": 10,
+          "Mr Sprinkler": 1,
+          "Starshine Warrior": 0.002,
+          "Sprinkler Bunny": 20
+        },
+        "price": "25B",
+        "secrets": {
+          "2026 Balloons": 500000,
+          "2026 Overlord": 2500000,
+          "New Year Dragon": 1000000
+        }
+      }
+    ],
+    "Crimson Egg": [
+      {
+        "pets": {
+          "Crimson Incarnate": 28,
+          "Vesperyx": 30,
+          "Crimson Flare": 20,
+          "Bloodborne Ruler": 0.1,
+          "Blood Ghoul": 15
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "5M Event": [
+      {
+        "pets": {
+          "Festive Cat": 28,
+          "Festive Dog": 30,
+          "Festive Bunny": 20,
+          "Festive Penguin": 15,
+          "Gingerbread Dragon": 0.01,
+          "5M Snowglobe": 5
+        },
+        "price": "1B",
+        "secrets": {
+          "5M Frost Monarch": 1500000,
+          "Frosty Snowman": 150000,
+          "5M North Star": 500000
+        }
+      }
+    ],
+    "Candy": [
+      {
+        "pets": {
+          "Cotton Candy Pop": 12,
+          "Blueberry Taffy": 4,
+          "Caramel Bunny": 35,
+          "Waffle Knight": 0.1,
+          "Molten Coffee Dragon": 0.05,
+          "Bubblegum Chaos": 0.01,
+          "Vanilla Pluff": 35
+        },
+        "price": "150QD",
+        "secrets": { "Chocolate Marauder": 1000000, "Candy God": 250000 }
+      }
+    ],
+    "Void Event": [
+      {
+        "pets": {
+          "40M Void Burst": 1,
+          "Abyssal Raven": 10,
+          "Void Bunny": 32,
+          "Darkmatter Leviathan": 0.002,
+          "Void Fox": 37,
+          "Shadow Spider": 20
+        },
+        "price": "100B",
+        "secrets": {
+          "40M Darkest Knight": 3500000,
+          "40M Oblivion Shard": 1000000,
+          "40M Abyss Serpent": 500000
+        }
+      }
+    ],
+    "Cactus": [
+      {
+        "pets": {
+          "Mummy": 30,
+          "Camel": 25,
+          "Serpent God": 0.1,
+          "Dune Dog": 33,
+          "Cactus Raider": 0.5,
+          "Sphinx": 3,
+          "Mummified Wyvern": 8
+        },
+        "price": "450M",
+        "secrets": []
+      }
+    ],
+    "Starry": [
+      {
+        "pets": {
+          "Nebula Cluster": 0.01,
+          "Starry Antlers": 35,
+          "Cosmic Robot": 4,
+          "Comet Star": 16,
+          "Nebula Star": 0.1,
+          "Star Goob": 35
+        },
+        "price": "5SX",
+        "secrets": []
+      }
+    ],
+    "Cyberpunk": [
+      {
+        "pets": {
+          "Future Cat": 16,
+          "Operating System": 0.005,
+          "Cyber Deer": 35,
+          "Cyber Bear": 35,
+          "Evil Future Cat": 6,
+          "Mechanical Eye": 3,
+          "Cyber Angel": 2
+        },
+        "price": "12.00OC",
+        "secrets": { "Supreme Mech": 1000000, "Neo Prototype": 250000 }
+      }
+    ],
+    "Lucky Event": [
+      {
+        "pets": {
+          "Yellow Luckyblock": 37,
+          "Blue Luckyblock": 32,
+          "Prismatic Luckyblock": 0.002,
+          "Lucky Fairy": 20,
+          "Lucky Angel": 10,
+          "Jack IN the Box": 0.5
+        },
+        "price": "750B",
+        "secrets": {
+          "Fortunate Calico": 1500000,
+          "SUPER Luckyblock": 500000,
+          "JACKPOT": 5000000
+        }
+      }
+    ],
+    "Cryo": [
+      {
+        "pets": {
+          "Googly Alien": 16,
+          "Space Snowflake": 4,
+          "Cryo Kitty": 35,
+          "Frozen Specter": 0.008,
+          "Cryo Pup": 35,
+          "Space Spirit": 3,
+          "Cryo UFO": 6
+        },
+        "price": "150SX",
+        "secrets": { "Grand Ice Wizard": 250000 }
+      }
+    ],
+    "Moonflower": [
+      {
+        "pets": {
+          "Spaceflower": 35,
+          "Blurple": 16,
+          "Lunar Bloom": 0.1,
+          "Space Jelly": 4,
+          "Alien Mushroom": 35
+        },
+        "price": "750QI",
+        "secrets": []
+      }
+    ],
+    "Acorn": [
+      {
+        "pets": {
+          "Hamster": 35,
+          "Sheep": 13,
+          "Owl": 2.5,
+          "Mouse": 25,
+          "Doggy": 7,
+          "Chicken": 20
+        },
+        "price": "2.70K",
+        "secrets": []
+      }
+    ],
+    "Temple": [
+      {
+        "pets": {
+          "Arid Goat": 35,
+          "Seraphlux": 5,
+          "Aurelin": 15,
+          "Dusty Wolf": 45
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Atlantis": [
+      {
+        "pets": {
+          "Dolphin": 12,
+          "Royal Jelly": 0.1,
+          "Sharkie": 0.01,
+          "Nemo": 35,
+          "Walrus": 35,
+          "Starfish": 6,
+          "King Crab": 6
+        },
+        "price": "2.50QI",
+        "secrets": { "King Kraken": 1000000, "Orca Dominator": 250000 }
+      }
+    ]
+  }
+}
