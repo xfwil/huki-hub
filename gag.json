@@ -2226,6 +2226,7 @@
     "Gumdrop",
     "Halloween Super",
     "Hazelnut",
+    "Heart Blossom",
     "Heart Gem",
     "Helenium",
     "Hexberry",
@@ -3472,6 +3473,7 @@
       "Asteris",
       "Peppermint Vine",
       "Gingerbread Blossom",
+      "Heart Blossom",
       "Firework Fern",
       "Frost Pepper",
       "Magma Pepper"
@@ -7460,7 +7462,7 @@
       "name": "Kitsune",
       "passives": [
         {
-          "description": "Every <Cooldown>m, goes to another player's crop, mutates it with <font color=\"rgb(255, 80, 65)\">Chakra</font> then steals (duplicate) and gives it to you! Very rare chance to mutate with <font color=\"rgb(255, 0, 0)\">Foxfire Chakra</font> mutation instead!",
+          "description": "Every <Cooldown>m, goes to another player's crop, mutates it with <font color=\"rgb(255, 80, 65)\">Chakra</font> then steals and gives it to you! Very rare chance to mutate with <font color=\"rgb(255, 0, 0)\">Foxfire Chakra</font> mutation instead!",
           "name": "Nine-Tailed Myth",
           "states": {
             "Cooldown": {
@@ -8699,7 +8701,7 @@
       "name": "Raccoon",
       "passives": [
         {
-          "description": "Every <Cooldown>m, goes to another player's plot and steals (duplicate) a random crop and gives it to you!",
+          "description": "Every <Cooldown>m, goes to another player's plot and steals a random crop and gives it to you!",
           "name": "Rascal",
           "states": {
             "Cooldown": {
@@ -9899,13 +9901,13 @@
       "name": "Red Rose Fox",
       "passives": [
         {
-          "description": "Every <Cooldown>m, goes to another player's crop, mutates it with <font color=\"rgb(255, 80, 65)\">Cute</font> then steals (duplicate) and gives it to you! Very rare chance to mutate with <font color=\"rgb(255, 0, 0)\">Heartbound</font> mutation instead!",
+          "description": "Every <Cooldown>m, goes to another player's crop, mutates it with <font color=\"rgb(255, 80, 65)\">Cute</font> then steals and gives it to you! Very rare chance to mutate with <font color=\"rgb(255, 0, 0)\">Heartbound</font> mutation instead!",
           "name": "Tough Love",
           "states": {
             "Cooldown": {
               "Min": 60,
               "Formatter": "ColonTime",
-              "Base": 1344.5,
+              "Base": 3000,
               "Scale": -6
             }
           }
