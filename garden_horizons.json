@@ -1,5 +1,160 @@
 {
   "wateringCanNames": ["Watering Can"],
+  "seedShopData": [],
+  "tiers": [
+    { "Name": "GetStars", "Data": null },
+    { "Name": "GetTier", "Data": null },
+    { "Name": "GetImage", "Data": null },
+    { "Name": "GetColor", "Data": null }
+  ],
+  "rarities": [
+    {
+      "Name": "Common",
+      "Data": {
+        "Id": "Common",
+        "Image": "rbxassetid://114037657912448",
+        "Stars": { "Number": 1, "Color": "Bronze" },
+        "Color": "#A7A7A7"
+      }
+    },
+    {
+      "Name": "Uncommon",
+      "Data": {
+        "Id": "Uncommon",
+        "Image": "rbxassetid://82807667238724",
+        "Stars": { "Number": 2, "Color": "Bronze" },
+        "Color": "#34D034"
+      }
+    },
+    {
+      "Name": "Rare",
+      "Data": {
+        "Id": "Rare",
+        "Image": "rbxassetid://139210607597073",
+        "Stars": { "Number": 3, "Color": "Bronze" },
+        "Color": "#0066FF"
+      }
+    },
+    {
+      "Name": "Legendary",
+      "Data": {
+        "Id": "Legendary",
+        "Image": "rbxassetid://108307213649542",
+        "Stars": { "Number": 2, "Color": "Silver" },
+        "Color": "#FFDC2F"
+      }
+    },
+    { "Name": "Eternal", "Data": { "Id": "Eternal", "Color": "#FFFFFF" } },
+    {
+      "Name": "Transcendent",
+      "Data": { "Id": "Transcendent", "Color": "#FFFFFF" }
+    },
+    {
+      "Name": "Epic",
+      "Data": {
+        "Id": "Epic",
+        "Image": "rbxassetid://117042561273806",
+        "Stars": { "Number": 1, "Color": "Silver" },
+        "Color": "#8A1EC8"
+      }
+    },
+    {
+      "Name": "Celestial",
+      "Data": {
+        "Id": "Celestial",
+        "gradient": ["#FF9D13", "#AC1DFF", "#0004FF", "#FF9D13"]
+      }
+    },
+    { "Name": "Divine", "Data": { "Id": "Divine", "Color": "#FF9830" } },
+    {
+      "Name": "Mythical",
+      "Data": { "Id": "Mythical", "Image": "", "Color": "#8647E5" }
+    }
+  ],
+  "plantDataNames": [
+    "Amberpine",
+    "Apple",
+    "Bamboo",
+    "Banana",
+    "Beetroot",
+    "Bellpepper",
+    "Biohazard Melon",
+    "Birch",
+    "Cabbage",
+    "Carrot",
+    "Cherry",
+    "Corn",
+    "Dandelion",
+    "Dawnblossom",
+    "Dawnfruit",
+    "Emberwood",
+    "Goldenberry",
+    "Lablush Berry",
+    "Mango",
+    "Mushroom",
+    "Octobranch",
+    "Olive",
+    "Onion",
+    "Orange",
+    "Plum",
+    "Pomaganit",
+    "Potato",
+    "Radiant Petal",
+    "Rose",
+    "Starvine",
+    "Strawberry",
+    "Sunpetal",
+    "Tomato",
+    "Wheat"
+  ],
+  "raritiesNames": [
+    "Celestial",
+    "Common",
+    "Divine",
+    "Epic",
+    "Eternal",
+    "Legendary",
+    "Mythical",
+    "Rare",
+    "Transcendent",
+    "Uncommon"
+  ],
+  "gearShopData": [],
+  "sprinklers": [
+    {
+      "Name": "Basic Sprinkler",
+      "Data": {
+        "Range": 8,
+        "Model": "Basic Sprinkler",
+        "Duration": 300,
+        "FruitSizeMultiplier": 1.2,
+        "GrowthSpeedMultiplier": 1.3,
+        "PlantSizeMultiplier": 1
+      }
+    },
+    {
+      "Name": "Turbo Sprinkler",
+      "Data": {
+        "Range": 12,
+        "Model": "Turbo Sprinkler",
+        "Duration": 600,
+        "FruitSizeMultiplier": 1.5,
+        "GrowthSpeedMultiplier": 1.6,
+        "PlantSizeMultiplier": 1
+      }
+    },
+    {
+      "Name": "Super Sprinkler",
+      "Data": {
+        "Range": 16,
+        "Model": "Super Sprinkler",
+        "Duration": 900,
+        "FruitSizeMultiplier": 2,
+        "GrowthSpeedMultiplier": 2,
+        "PlantSizeMultiplier": 1
+      }
+    }
+  ],
   "plantMutations": [
     {
       "Name": "Muddy",
@@ -145,48 +300,6 @@
         "IconAssetId": "rbxassetid://106389545671502"
       }
     }
-  ],
-  "plantDataNames": [
-    "Amberpine",
-    "Apple",
-    "Bamboo",
-    "Banana",
-    "Beetroot",
-    "Bellpepper",
-    "Biohazard Melon",
-    "Birch",
-    "Cabbage",
-    "Carrot",
-    "Cherry",
-    "Corn",
-    "Dandelion",
-    "Dawnblossom",
-    "Dawnfruit",
-    "Emberwood",
-    "Goldenberry",
-    "Lablush Berry",
-    "Mango",
-    "Mushroom",
-    "Octobranch",
-    "Olive",
-    "Onion",
-    "Orange",
-    "Plum",
-    "Pomaganit",
-    "Potato",
-    "Radiant Petal",
-    "Rose",
-    "Starvine",
-    "Strawberry",
-    "Sunpetal",
-    "Tomato",
-    "Wheat"
-  ],
-  "tiers": [
-    { "Name": "GetStars", "Data": null },
-    { "Name": "GetTier", "Data": null },
-    { "Name": "GetImage", "Data": null },
-    { "Name": "GetColor", "Data": null }
   ],
   "sprinklerNames": ["Basic Sprinkler", "Super Sprinkler", "Turbo Sprinkler"],
   "plantData": [
@@ -1095,70 +1208,6 @@
       }
     }
   ],
-  "rarities": [
-    {
-      "Name": "Common",
-      "Data": {
-        "Id": "Common",
-        "Image": "rbxassetid://114037657912448",
-        "Stars": { "Number": 1, "Color": "Bronze" },
-        "Color": "#A7A7A7"
-      }
-    },
-    {
-      "Name": "Uncommon",
-      "Data": {
-        "Id": "Uncommon",
-        "Image": "rbxassetid://82807667238724",
-        "Stars": { "Number": 2, "Color": "Bronze" },
-        "Color": "#34D034"
-      }
-    },
-    {
-      "Name": "Rare",
-      "Data": {
-        "Id": "Rare",
-        "Image": "rbxassetid://139210607597073",
-        "Stars": { "Number": 3, "Color": "Bronze" },
-        "Color": "#0066FF"
-      }
-    },
-    {
-      "Name": "Legendary",
-      "Data": {
-        "Id": "Legendary",
-        "Image": "rbxassetid://108307213649542",
-        "Stars": { "Number": 2, "Color": "Silver" },
-        "Color": "#FFDC2F"
-      }
-    },
-    { "Name": "Eternal", "Data": { "Id": "Eternal", "Color": "#FFFFFF" } },
-    {
-      "Name": "Transcendent",
-      "Data": { "Id": "Transcendent", "Color": "#FFFFFF" }
-    },
-    {
-      "Name": "Epic",
-      "Data": {
-        "Id": "Epic",
-        "Image": "rbxassetid://117042561273806",
-        "Stars": { "Number": 1, "Color": "Silver" },
-        "Color": "#8A1EC8"
-      }
-    },
-    {
-      "Name": "Celestial",
-      "Data": {
-        "Id": "Celestial",
-        "gradient": ["#FF9D13", "#AC1DFF", "#0004FF", "#FF9D13"]
-      }
-    },
-    { "Name": "Divine", "Data": { "Id": "Divine", "Color": "#FF9830" } },
-    {
-      "Name": "Mythical",
-      "Data": { "Id": "Mythical", "Image": "", "Color": "#8647E5" }
-    }
-  ],
   "plantMutationsNames": [
     "Banned",
     "Chilled",
@@ -1176,18 +1225,6 @@
     "Soaked",
     "Starstruck",
     "Tidal"
-  ],
-  "raritiesNames": [
-    "Celestial",
-    "Common",
-    "Divine",
-    "Epic",
-    "Eternal",
-    "Legendary",
-    "Mythical",
-    "Rare",
-    "Transcendent",
-    "Uncommon"
   ],
   "wateringCans": [
     {
@@ -1208,41 +1245,6 @@
     "Premium Dawn Seed Pack",
     "Premium Gardener Seed Pack",
     "Premium IGMA Seed Pack"
-  ],
-  "sprinklers": [
-    {
-      "Name": "Basic Sprinkler",
-      "Data": {
-        "Range": 8,
-        "Model": "Basic Sprinkler",
-        "Duration": 300,
-        "FruitSizeMultiplier": 1.2,
-        "GrowthSpeedMultiplier": 1.3,
-        "PlantSizeMultiplier": 1
-      }
-    },
-    {
-      "Name": "Turbo Sprinkler",
-      "Data": {
-        "Range": 12,
-        "Model": "Turbo Sprinkler",
-        "Duration": 600,
-        "FruitSizeMultiplier": 1.5,
-        "GrowthSpeedMultiplier": 1.6,
-        "PlantSizeMultiplier": 1
-      }
-    },
-    {
-      "Name": "Super Sprinkler",
-      "Data": {
-        "Range": 16,
-        "Model": "Super Sprinkler",
-        "Duration": 900,
-        "FruitSizeMultiplier": 2,
-        "GrowthSpeedMultiplier": 2,
-        "PlantSizeMultiplier": 1
-      }
-    }
   ],
   "gearsNames": [
     "Basic Sprinkler",
