@@ -1,6 +1,24 @@
 {
   "wateringCanNames": ["Watering Can"],
-  "seedShopData": [],
+  "seedShopData": [
+    "Rose Seed",
+    "Bamboo Seed",
+    "Mushroom Seed",
+    "Beetroot Seed",
+    "Tomato Seed",
+    "Cabbage Seed",
+    "Plum Seed",
+    "Apple Seed",
+    "Corn Seed",
+    "Onion Seed",
+    "Cherry Seed",
+    "Carrot Seed",
+    "Mango Seed",
+    "Strawberry Seed",
+    "Wheat Seed",
+    "Potato Seed",
+    "Banana Seed"
+  ],
   "tiers": [
     { "Name": "GetStars", "Data": null },
     { "Name": "GetTier", "Data": null },
@@ -119,7 +137,15 @@
     "Transcendent",
     "Uncommon"
   ],
-  "gearShopData": [],
+  "gearShopData": [
+    "Trowel",
+    "Turbo Sprinkler",
+    "Super Sprinkler",
+    "Watering Can",
+    "Favorite Tool",
+    "Basic Sprinkler",
+    "Harvest Bell"
+  ],
   "sprinklers": [
     {
       "Name": "Basic Sprinkler",
