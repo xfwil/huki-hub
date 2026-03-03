@@ -1,0 +1,1256 @@
+{
+  "wateringCanNames": ["Watering Can"],
+  "plantMutations": [
+    {
+      "Name": "Muddy",
+      "Data": { "id": "Muddy", "color": "#8B6914", "priceMultiplier": 5 }
+    },
+    {
+      "Name": "Mossy",
+      "Data": { "id": "Mossy", "color": "#4A6741", "priceMultiplier": 3.5 }
+    },
+    {
+      "Name": "Salad",
+      "Data": { "id": "Salad", "color": "#E3FFA1", "priceMultiplier": 20 }
+    },
+    {
+      "Name": "Meteoric",
+      "Data": { "id": "Meteoric", "color": "#8B0000", "priceMultiplier": 10 }
+    },
+    {
+      "Name": "Nova",
+      "Data": { "id": "Nova", "color": "#FF6B6B", "priceMultiplier": 6.5 }
+    },
+    {
+      "Name": "Sandy",
+      "Data": { "id": "Sandy", "color": "#F7D341", "priceMultiplier": 2.5 }
+    },
+    {
+      "Name": "Starstruck",
+      "Data": { "id": "Starstruck", "color": "#9B59B6", "priceMultiplier": 6.5 }
+    },
+    {
+      "Name": "Tidal",
+      "Data": { "id": "Tidal", "color": "#D6EAEA", "priceMultiplier": 2 }
+    },
+    {
+      "Name": "Chilled",
+      "Data": { "id": "Chilled", "color": "#B0E0E6", "priceMultiplier": 1.5 }
+    },
+    {
+      "Name": "Frostbit",
+      "Data": { "id": "Frostbit", "color": "#E0FFFF", "priceMultiplier": 3.5 }
+    },
+    {
+      "Name": "Soaked",
+      "Data": { "id": "Soaked", "color": "#4A90D9", "priceMultiplier": 1.25 }
+    },
+    {
+      "Name": "Snowy",
+      "Data": { "id": "Snowy", "color": "#A5F2F3", "priceMultiplier": 2 }
+    },
+    {
+      "Name": "Flooded",
+      "Data": { "id": "Flooded", "color": "#2E5CB8", "priceMultiplier": 1.75 }
+    },
+    {
+      "Name": "Banned",
+      "Data": { "id": "Banned", "color": "#750203", "priceMultiplier": 20 }
+    },
+    {
+      "Name": "Foggy",
+      "Data": { "id": "Foggy", "color": "#C0C0C0", "priceMultiplier": 1.25 }
+    },
+    {
+      "Name": "Shocked",
+      "Data": { "id": "Shocked", "color": "#FFFF00", "priceMultiplier": 4.5 }
+    }
+  ],
+  "tiersNames": ["GetColor", "GetImage", "GetStars", "GetTier"],
+  "gears": [
+    {
+      "Name": "Trowel",
+      "Data": {
+        "GearType": "Trowel",
+        "Rarity": "Legendary",
+        "GearDescription": "Move your plants to a new spot on your plot!",
+        "DevProductId": 3546252850,
+        "GiftId": 3546252997,
+        "IconAssetId": "rbxassetid://129322041278272"
+      }
+    },
+    {
+      "Name": "Turbo Sprinkler",
+      "Data": {
+        "GearType": "Sprinkler",
+        "Rarity": "Epic",
+        "GearDescription": "Increases crop growth and fruit size solidly. Lasts 10 minutes",
+        "DevProductId": 3532386842,
+        "GiftId": 3532386978,
+        "IconAssetId": "rbxassetid://77329190870557"
+      }
+    },
+    {
+      "Name": "Super Sprinkler",
+      "Data": {
+        "GearType": "Sprinkler",
+        "Rarity": "Legendary",
+        "GearDescription": "Massively increases crop growth and fruit size. Lasts 15 minutes",
+        "DevProductId": 3532387222,
+        "GiftId": 3532387303,
+        "IconAssetId": "rbxassetid://127282811611134"
+      }
+    },
+    {
+      "Name": "Watering Can",
+      "Data": {
+        "GearType": "WateringCan",
+        "Rarity": "Common",
+        "GearDescription": "Water your plants and make them grow faster! Has 5 uses",
+        "DevProductId": 3532385179,
+        "GiftId": 3532385457,
+        "IconAssetId": "rbxassetid://83458479318200"
+      }
+    },
+    {
+      "Name": "Favorite Tool",
+      "Data": {
+        "GearType": "FavoriteTool",
+        "Rarity": "Epic",
+        "GearDescription": "Favorites your fruit to prevent collecting. Use wisely!",
+        "DevProductId": 3532387401,
+        "GiftId": 3532387518,
+        "IconAssetId": "rbxassetid://118284196066337"
+      }
+    },
+    {
+      "Name": "Basic Sprinkler",
+      "Data": {
+        "GearType": "Sprinkler",
+        "Rarity": "Uncommon",
+        "GearDescription": "Boosts crop growth and fruit size decently. Lasts 5 minutes",
+        "DevProductId": 3532386445,
+        "GiftId": 3532386637,
+        "IconAssetId": "rbxassetid://113392906910165"
+      }
+    },
+    {
+      "Name": "Harvest Bell",
+      "Data": {
+        "GearType": "HarvestBell",
+        "Rarity": "Rare",
+        "GearDescription": "Harvest all fruits from a plant at once!",
+        "DevProductId": 3532386067,
+        "GiftId": 3532386180,
+        "IconAssetId": "rbxassetid://106389545671502"
+      }
+    }
+  ],
+  "plantDataNames": [
+    "Amberpine",
+    "Apple",
+    "Bamboo",
+    "Banana",
+    "Beetroot",
+    "Bellpepper",
+    "Biohazard Melon",
+    "Birch",
+    "Cabbage",
+    "Carrot",
+    "Cherry",
+    "Corn",
+    "Dandelion",
+    "Dawnblossom",
+    "Dawnfruit",
+    "Emberwood",
+    "Goldenberry",
+    "Lablush Berry",
+    "Mango",
+    "Mushroom",
+    "Octobranch",
+    "Olive",
+    "Onion",
+    "Orange",
+    "Plum",
+    "Pomaganit",
+    "Potato",
+    "Radiant Petal",
+    "Rose",
+    "Starvine",
+    "Strawberry",
+    "Sunpetal",
+    "Tomato",
+    "Wheat"
+  ],
+  "tiers": [
+    { "Name": "GetStars", "Data": null },
+    { "Name": "GetTier", "Data": null },
+    { "Name": "GetImage", "Data": null },
+    { "Name": "GetColor", "Data": null }
+  ],
+  "sprinklerNames": ["Basic Sprinkler", "Super Sprinkler", "Turbo Sprinkler"],
+  "plantData": [
+    {
+      "Name": "Wheat",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.03,
+        "Rarity": "Epic",
+        "minRotation": null,
+        "sproutTime": 2,
+        "giantScaleMultiplier": 2,
+        "growthTime": 750,
+        "GiftId": 3522647464,
+        "SeedAssetId": "rbxassetid://76543631535748",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://94374814483091",
+        "DevProductId": 3522647435,
+        "PlantBaseValue": 7200,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Pomaganit",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 1,
+        "fruitSproutTime": 2,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 12,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 1080,
+        "giantScaleMultiplier": 2,
+        "growthTime": 5400,
+        "SeedAssetId": "rbxassetid://120447944162306",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.28,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://74375779920534"
+      }
+    },
+    {
+      "Name": "Beetroot",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.09,
+        "Rarity": "Rare",
+        "minRotation": null,
+        "sproutTime": 2,
+        "giantScaleMultiplier": 2,
+        "growthTime": 150,
+        "GiftId": 3526834597,
+        "SeedAssetId": "rbxassetid://127129643594022",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://130272628198002",
+        "DevProductId": 3526834578,
+        "PlantBaseValue": 2000,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Tomato",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 120,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3522647522,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 40,
+        "giantScaleMultiplier": 2,
+        "growthTime": 320,
+        "SeedAssetId": "rbxassetid://132069336424074",
+        "Rarity": "Rare",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.15,
+        "DevProductId": 3522647496,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://108244540324982"
+      }
+    },
+    {
+      "Name": "Dawnfruit",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 600,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 150,
+        "giantScaleMultiplier": 2,
+        "growthTime": 660,
+        "SeedAssetId": "rbxassetid://92567364454964",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.06,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://119933304655863"
+      }
+    },
+    {
+      "Name": "Apple",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 270,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3526834674,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 150,
+        "giantScaleMultiplier": 2,
+        "growthTime": 1200,
+        "SeedAssetId": "rbxassetid://140651642727915",
+        "Rarity": "Rare",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.19,
+        "DevProductId": 3526834657,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://70603450757221"
+      }
+    },
+    {
+      "Name": "Dandelion",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.03,
+        "Rarity": "Common",
+        "minRotation": null,
+        "sproutTime": 2,
+        "giantScaleMultiplier": 2,
+        "growthTime": 8,
+        "GiftId": 0,
+        "SeedAssetId": "rbxassetid://104295534270531",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0",
+        "DevProductId": 0,
+        "PlantBaseValue": 45,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Cherry",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 8000,
+        "fruitSproutTime": 0.8,
+        "fruitOffset": null,
+        "GiftId": 3522647781,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 8,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 1380,
+        "giantScaleMultiplier": 2,
+        "growthTime": 11040,
+        "SeedAssetId": "rbxassetid://139552734821864",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.01,
+        "DevProductId": 3522647754,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://114520745019705"
+      }
+    },
+    {
+      "Name": "Dawnblossom",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 11000,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 6,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 1600,
+        "giantScaleMultiplier": 2,
+        "growthTime": 8000,
+        "SeedAssetId": "rbxassetid://81194790705797",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.12,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://101583535149006"
+      }
+    },
+    {
+      "Name": "Amberpine",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 400,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 84,
+        "giantScaleMultiplier": 2,
+        "growthTime": 420,
+        "SeedAssetId": "rbxassetid://134824647196768",
+        "Rarity": "Rare",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.08,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Strawberry",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 32,
+        "fruitSproutTime": 2,
+        "fruitOffset": null,
+        "GiftId": 3522647403,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 12,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 18,
+        "giantScaleMultiplier": 2,
+        "growthTime": 144,
+        "SeedAssetId": "rbxassetid://94820160151689",
+        "Rarity": "Uncommon",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.02,
+        "DevProductId": 3522647375,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://82236626760117"
+      }
+    },
+    {
+      "Name": "Potato",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 1500,
+        "fruitSproutTime": 2,
+        "fruitOffset": null,
+        "GiftId": 3522647725,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 12,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 310,
+        "giantScaleMultiplier": 2,
+        "growthTime": 2480,
+        "SeedAssetId": "rbxassetid://96727567939144",
+        "Rarity": "Epic",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.17,
+        "DevProductId": 3522647699,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://106216850202840"
+      }
+    },
+    {
+      "Name": "Banana",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 750,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3526834707,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 180,
+        "giantScaleMultiplier": 2,
+        "growthTime": 1440,
+        "SeedAssetId": "rbxassetid://98183550890725",
+        "Rarity": "Epic",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.12,
+        "DevProductId": 3526834693,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://116338697310150"
+      }
+    },
+    {
+      "Name": "Rose",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 320,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3522647632,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 70,
+        "giantScaleMultiplier": 2,
+        "growthTime": 560,
+        "SeedAssetId": "rbxassetid://120146225135476",
+        "Rarity": "Rare",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.04,
+        "DevProductId": 3522647611,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://139590821976392"
+      }
+    },
+    {
+      "Name": "Mushroom",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 40,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3522647584,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 12,
+        "giantScaleMultiplier": 2,
+        "growthTime": 96,
+        "SeedAssetId": "rbxassetid://77343511380578",
+        "Rarity": "Uncommon",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.03,
+        "DevProductId": 3522647555,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://78385103367197"
+      }
+    },
+    {
+      "Name": "Cabbage",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 1.1,
+        "Rarity": "Legendary",
+        "minRotation": null,
+        "sproutTime": 5,
+        "giantScaleMultiplier": 2,
+        "growthTime": 3000,
+        "GiftId": 3522647681,
+        "SeedAssetId": "rbxassetid://95495055060810",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://135953091355431",
+        "DevProductId": 3522647660,
+        "PlantBaseValue": 60000,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Sunpetal",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.04,
+        "Rarity": "Common",
+        "minRotation": null,
+        "sproutTime": 2,
+        "giantScaleMultiplier": 2,
+        "growthTime": 10,
+        "GiftId": 0,
+        "SeedAssetId": "rbxassetid://133913600557858",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0",
+        "DevProductId": 0,
+        "PlantBaseValue": 60,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Plum",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 1000,
+        "fruitSproutTime": 1.2,
+        "fruitOffset": null,
+        "GiftId": 3526834746,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 10,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 450,
+        "giantScaleMultiplier": 2,
+        "growthTime": 3600,
+        "SeedAssetId": "rbxassetid://71071488957239",
+        "Rarity": "Epic",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.07,
+        "DevProductId": 3526834728,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://104959407343506"
+      }
+    },
+    {
+      "Name": "Orange",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 1800,
+        "fruitSproutTime": 1.5,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 8,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 360,
+        "giantScaleMultiplier": 2,
+        "growthTime": 1800,
+        "SeedAssetId": "rbxassetid://110264064306940",
+        "Rarity": "Epic",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.21,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Corn",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 15,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3522647358,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 10,
+        "giantScaleMultiplier": 2,
+        "growthTime": 50,
+        "SeedAssetId": "rbxassetid://135608493652339",
+        "Rarity": "Common",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.09,
+        "DevProductId": 3522647330,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://87446460544177"
+      }
+    },
+    {
+      "Name": "Onion",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.13,
+        "Rarity": "Uncommon",
+        "minRotation": null,
+        "sproutTime": 2,
+        "giantScaleMultiplier": 2,
+        "growthTime": 30,
+        "GiftId": 3526834636,
+        "SeedAssetId": "rbxassetid://117865091417426",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://131419330326457",
+        "DevProductId": 3526834613,
+        "PlantBaseValue": 220,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Goldenberry",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 65,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 22,
+        "giantScaleMultiplier": 2,
+        "growthTime": 110,
+        "SeedAssetId": "rbxassetid://115241717689309",
+        "Rarity": "Uncommon",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.02,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Radiant Petal",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 5000,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 200,
+        "giantScaleMultiplier": 2,
+        "growthTime": 4000,
+        "SeedAssetId": "rbxassetid://86723951463948",
+        "Rarity": "Epic",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.01,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Octobranch",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 6000,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 400,
+        "giantScaleMultiplier": 2,
+        "growthTime": 3200,
+        "SeedAssetId": "rbxassetid://113454251919306",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.2,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Lablush Berry",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 55,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 25,
+        "giantScaleMultiplier": 2,
+        "growthTime": 200,
+        "SeedAssetId": "rbxassetid://106997733278944",
+        "Rarity": "Uncommon",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.02,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Biohazard Melon",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 28,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 20,
+        "giantScaleMultiplier": 2,
+        "growthTime": 160,
+        "SeedAssetId": "rbxassetid://98769282000992",
+        "Rarity": "Common",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.2,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Carrot",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.07,
+        "Rarity": "Common",
+        "minRotation": null,
+        "sproutTime": 2,
+        "giantScaleMultiplier": 2,
+        "growthTime": 8,
+        "GiftId": 3522647298,
+        "SeedAssetId": "rbxassetid://93505627136716",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://137095481966356",
+        "DevProductId": 3522647276,
+        "PlantBaseValue": 30,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Mango",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 10000,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 3546253532,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 2400,
+        "giantScaleMultiplier": 2,
+        "growthTime": 19200,
+        "SeedAssetId": "rbxassetid://94872512031936",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.25,
+        "DevProductId": 3546253409,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://108386897079172"
+      }
+    },
+    {
+      "Name": "Bamboo",
+      "Data": {
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "toolRotationOffset": null,
+        "PlantBaseWeight": 0.12,
+        "Rarity": "Legendary",
+        "minRotation": null,
+        "sproutTime": 3,
+        "giantScaleMultiplier": 2,
+        "growthTime": 3200,
+        "GiftId": 3546253822,
+        "SeedAssetId": "rbxassetid://71908915291072",
+        "treeGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://104582986681470",
+        "DevProductId": 3546253674,
+        "PlantBaseValue": 70000,
+        "isSingleHarvest": true
+      }
+    },
+    {
+      "Name": "Olive",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 9000,
+        "fruitSproutTime": 2,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 10,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 2160,
+        "giantScaleMultiplier": 2,
+        "growthTime": 10800,
+        "SeedAssetId": "rbxassetid://134275377510028",
+        "Rarity": "Legendary",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.06,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Emberwood",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 2200,
+        "fruitSproutTime": 1.2,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 10,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 440,
+        "giantScaleMultiplier": 2,
+        "growthTime": 2200,
+        "SeedAssetId": "rbxassetid://120523696345167",
+        "Rarity": "Epic",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.15,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://104682718721275"
+      }
+    },
+    {
+      "Name": "Birch",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 500,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 110,
+        "giantScaleMultiplier": 2,
+        "growthTime": 550,
+        "SeedAssetId": "rbxassetid://95141793634250",
+        "Rarity": "Rare",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.06,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Bellpepper",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 50,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 2,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 17,
+        "giantScaleMultiplier": 2,
+        "growthTime": 85,
+        "SeedAssetId": "rbxassetid://136105383867326",
+        "Rarity": "Uncommon",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.14,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    },
+    {
+      "Name": "Starvine",
+      "Data": {
+        "fruitGrowthDelay": 10,
+        "fruitsSpawnDelay": 10,
+        "toolGripOffset": null,
+        "growthDelay": 10,
+        "maxRotation": null,
+        "FruitBaseValue": 360,
+        "fruitSproutTime": 1,
+        "fruitOffset": null,
+        "GiftId": 0,
+        "fruitRandomOffset": 0,
+        "minRotation": null,
+        "sproutTime": 3,
+        "toolRotationOffset": null,
+        "fruitBaseGrowthTime": 80,
+        "giantScaleMultiplier": 2,
+        "growthTime": 640,
+        "SeedAssetId": "rbxassetid://120890203415182",
+        "Rarity": "Rare",
+        "treeGiantChance": 0.005,
+        "FruitBaseWeight": 0.05,
+        "DevProductId": 0,
+        "fruitGiantChance": 0.005,
+        "ProduceAssetId": "rbxassetid://0"
+      }
+    }
+  ],
+  "rarities": [
+    {
+      "Name": "Common",
+      "Data": {
+        "Id": "Common",
+        "Image": "rbxassetid://114037657912448",
+        "Stars": { "Number": 1, "Color": "Bronze" },
+        "Color": "#A7A7A7"
+      }
+    },
+    {
+      "Name": "Uncommon",
+      "Data": {
+        "Id": "Uncommon",
+        "Image": "rbxassetid://82807667238724",
+        "Stars": { "Number": 2, "Color": "Bronze" },
+        "Color": "#34D034"
+      }
+    },
+    {
+      "Name": "Rare",
+      "Data": {
+        "Id": "Rare",
+        "Image": "rbxassetid://139210607597073",
+        "Stars": { "Number": 3, "Color": "Bronze" },
+        "Color": "#0066FF"
+      }
+    },
+    {
+      "Name": "Legendary",
+      "Data": {
+        "Id": "Legendary",
+        "Image": "rbxassetid://108307213649542",
+        "Stars": { "Number": 2, "Color": "Silver" },
+        "Color": "#FFDC2F"
+      }
+    },
+    { "Name": "Eternal", "Data": { "Id": "Eternal", "Color": "#FFFFFF" } },
+    {
+      "Name": "Transcendent",
+      "Data": { "Id": "Transcendent", "Color": "#FFFFFF" }
+    },
+    {
+      "Name": "Epic",
+      "Data": {
+        "Id": "Epic",
+        "Image": "rbxassetid://117042561273806",
+        "Stars": { "Number": 1, "Color": "Silver" },
+        "Color": "#8A1EC8"
+      }
+    },
+    {
+      "Name": "Celestial",
+      "Data": {
+        "Id": "Celestial",
+        "gradient": ["#FF9D13", "#AC1DFF", "#0004FF", "#FF9D13"]
+      }
+    },
+    { "Name": "Divine", "Data": { "Id": "Divine", "Color": "#FF9830" } },
+    {
+      "Name": "Mythical",
+      "Data": { "Id": "Mythical", "Image": "", "Color": "#8647E5" }
+    }
+  ],
+  "plantMutationsNames": [
+    "Banned",
+    "Chilled",
+    "Flooded",
+    "Foggy",
+    "Frostbit",
+    "Meteoric",
+    "Mossy",
+    "Muddy",
+    "Nova",
+    "Salad",
+    "Sandy",
+    "Shocked",
+    "Snowy",
+    "Soaked",
+    "Starstruck",
+    "Tidal"
+  ],
+  "raritiesNames": [
+    "Celestial",
+    "Common",
+    "Divine",
+    "Epic",
+    "Eternal",
+    "Legendary",
+    "Mythical",
+    "Rare",
+    "Transcendent",
+    "Uncommon"
+  ],
+  "wateringCans": [
+    {
+      "Name": "Watering Can",
+      "Data": {
+        "PuddleModel": "NormalPuddle",
+        "Range": 4,
+        "FruitSizeMultiplier": 1,
+        "GrowthSpeedMultiplier": 2,
+        "Duration": 30
+      }
+    }
+  ],
+  "seedPacksNames": [
+    "Dawn Seed Pack",
+    "Gardener Seed Pack",
+    "IGMA Seed Pack",
+    "Premium Dawn Seed Pack",
+    "Premium Gardener Seed Pack",
+    "Premium IGMA Seed Pack"
+  ],
+  "sprinklers": [
+    {
+      "Name": "Basic Sprinkler",
+      "Data": {
+        "Range": 8,
+        "Model": "Basic Sprinkler",
+        "Duration": 300,
+        "FruitSizeMultiplier": 1.2,
+        "GrowthSpeedMultiplier": 1.3,
+        "PlantSizeMultiplier": 1
+      }
+    },
+    {
+      "Name": "Turbo Sprinkler",
+      "Data": {
+        "Range": 12,
+        "Model": "Turbo Sprinkler",
+        "Duration": 600,
+        "FruitSizeMultiplier": 1.5,
+        "GrowthSpeedMultiplier": 1.6,
+        "PlantSizeMultiplier": 1
+      }
+    },
+    {
+      "Name": "Super Sprinkler",
+      "Data": {
+        "Range": 16,
+        "Model": "Super Sprinkler",
+        "Duration": 900,
+        "FruitSizeMultiplier": 2,
+        "GrowthSpeedMultiplier": 2,
+        "PlantSizeMultiplier": 1
+      }
+    }
+  ],
+  "gearsNames": [
+    "Basic Sprinkler",
+    "Favorite Tool",
+    "Harvest Bell",
+    "Super Sprinkler",
+    "Trowel",
+    "Turbo Sprinkler",
+    "Watering Can"
+  ]
+}
