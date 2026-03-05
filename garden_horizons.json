@@ -1,6 +1,150 @@
 {
   "wateringCanNames": ["Watering Can"],
   "seedShopData": [
+    {
+      "LayoutOrder": 90,
+      "Name": "Rose Seed",
+      "StockAmount": [1, 2],
+      "Price": 10000,
+      "DisplayInShop": true,
+      "StockChance": 14
+    },
+    {
+      "LayoutOrder": 160,
+      "Name": "Bamboo Seed",
+      "StockAmount": [1, 3],
+      "Price": 175000,
+      "DisplayInShop": true,
+      "StockChance": 90
+    },
+    {
+      "LayoutOrder": 50,
+      "Name": "Mushroom Seed",
+      "StockAmount": [1, 3],
+      "Price": 1500,
+      "DisplayInShop": true,
+      "StockChance": 7
+    },
+    {
+      "LayoutOrder": 60,
+      "Name": "Beetroot Seed",
+      "StockAmount": [3, 8],
+      "Price": 2500,
+      "DisplayInShop": true,
+      "StockChance": 8
+    },
+    {
+      "LayoutOrder": 70,
+      "Name": "Tomato Seed",
+      "StockAmount": [1, 3],
+      "Price": 4000,
+      "DisplayInShop": true,
+      "StockChance": 10
+    },
+    {
+      "LayoutOrder": 140,
+      "Name": "Cabbage Seed",
+      "StockAmount": [2, 4],
+      "Price": 150000,
+      "DisplayInShop": true,
+      "StockChance": 80
+    },
+    {
+      "LayoutOrder": 120,
+      "Name": "Plum Seed",
+      "StockAmount": [1, 2],
+      "Price": 60000,
+      "DisplayInShop": true,
+      "StockChance": 45
+    },
+    {
+      "LayoutOrder": 80,
+      "Name": "Apple Seed",
+      "StockAmount": [1, 2],
+      "Price": 7000,
+      "DisplayInShop": true,
+      "StockChance": 12
+    },
+    {
+      "LayoutOrder": 20,
+      "Name": "Corn Seed",
+      "StockAmount": [1, 3],
+      "Price": 100,
+      "DisplayInShop": true,
+      "StockChance": 1
+    },
+    {
+      "LayoutOrder": 30,
+      "Name": "Onion Seed",
+      "StockAmount": [4, 10],
+      "Price": 200,
+      "DisplayInShop": true,
+      "StockChance": 3
+    },
+    {
+      "LayoutOrder": 150,
+      "Name": "Cherry Seed",
+      "StockAmount": [1, 1],
+      "Price": 1000000,
+      "DisplayInShop": true,
+      "StockChance": 120
+    },
+    {
+      "LayoutOrder": 10,
+      "Name": "Carrot Seed",
+      "StockAmount": [7, 23],
+      "Price": 20,
+      "DisplayInShop": true,
+      "StockChance": 1
+    },
+    {
+      "LayoutOrder": 170,
+      "Name": "Mango Seed",
+      "StockAmount": [1, 1],
+      "Price": 10000000,
+      "DisplayInShop": true,
+      "StockChance": 180
+    },
+    {
+      "LayoutOrder": 40,
+      "Name": "Strawberry Seed",
+      "StockAmount": [2, 3],
+      "Price": 800,
+      "DisplayInShop": true,
+      "StockChance": 5
+    },
+    {
+      "LayoutOrder": 100,
+      "Name": "Wheat Seed",
+      "StockAmount": [3, 8],
+      "Price": 12000,
+      "DisplayInShop": true,
+      "StockChance": 18
+    },
+    {
+      "LayoutOrder": 130,
+      "Name": "Potato Seed",
+      "StockAmount": [1, 2],
+      "Price": 100000,
+      "DisplayInShop": true,
+      "StockChance": 65
+    },
+    {
+      "LayoutOrder": 110,
+      "Name": "Banana Seed",
+      "StockAmount": [1, 2],
+      "Price": 30000,
+      "DisplayInShop": true,
+      "StockChance": 25
+    }
+  ],
+  "tiers": [
+    { "Name": "GetStars", "Data": null },
+    { "Name": "GetTier", "Data": null },
+    { "Name": "GetImage", "Data": null },
+    { "Name": "GetColor", "Data": null }
+  ],
+  "seedShopDataNames": [
     "Apple Seed",
     "Bamboo Seed",
     "Banana Seed",
@@ -18,12 +162,6 @@
     "Strawberry Seed",
     "Tomato Seed",
     "Wheat Seed"
-  ],
-  "tiers": [
-    { "Name": "GetStars", "Data": null },
-    { "Name": "GetTier", "Data": null },
-    { "Name": "GetImage", "Data": null },
-    { "Name": "GetColor", "Data": null }
   ],
   "rarities": [
     {
@@ -931,7 +1069,7 @@
         "SeedAssetId": "rbxassetid://86723951463948",
         "Rarity": "Epic",
         "treeGiantChance": 0.005,
-        "FruitBaseWeight": 0.01,
+        "FruitBaseWeight": 0.4,
         "DevProductId": 0,
         "fruitGiantChance": 0.005,
         "ProduceAssetId": "rbxassetid://0"
