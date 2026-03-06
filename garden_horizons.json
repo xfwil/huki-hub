@@ -526,6 +526,10 @@
       }
     }
   ],
+  "variantDataDefinitions": [
+    { "id": "Silver", "color": "#C0C0C0", "chance": 5, "priceMultiplier": 2 },
+    { "id": "Gold", "color": "#FFD700", "chance": 2, "priceMultiplier": 5 }
+  ],
   "sprinklerNames": ["Basic Sprinkler", "Super Sprinkler", "Turbo Sprinkler"],
   "plantData": [
     {
@@ -1463,6 +1467,7 @@
       }
     }
   ],
+  "variantDataDefinitionsNames": ["Gold", "Silver"],
   "seedPacksNames": [
     "Dawn Seed Pack",
     "Gardener Seed Pack",
