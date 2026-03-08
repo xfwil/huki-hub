@@ -12,18 +12,24 @@
     "Secret",
     "Uncommon"
   ],
-  "brainrotsClassNames": [
-    "Celestial",
-    "Common",
-    "Cosmic",
-    "Divine",
-    "Epic",
-    "Infinity",
-    "Legendary",
-    "Mythical",
-    "Rare",
-    "Secret",
-    "Uncommon"
+  "mutationsNames": [
+    "Admin",
+    "Blood",
+    "Candy",
+    "Diamond",
+    "Doom",
+    "Electric",
+    "Emerald",
+    "Fire",
+    "Gamer",
+    "Gold",
+    "Hacker",
+    "Ice",
+    "Lucky",
+    "Money",
+    "Phantom",
+    "Radioactive",
+    "UFO"
   ],
   "brainrotsNames": [
     "67",
