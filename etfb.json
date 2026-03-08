@@ -1,0 +1,1127 @@
+{
+  "rarities": [
+    "Celestial",
+    "Common",
+    "Cosmic",
+    "Divine",
+    "Epic",
+    "Infinity",
+    "Legendary",
+    "Mythical",
+    "Rare",
+    "Secret",
+    "Uncommon"
+  ],
+  "brainrotsClassNames": [
+    "Celestial",
+    "Common",
+    "Cosmic",
+    "Divine",
+    "Epic",
+    "Infinity",
+    "Legendary",
+    "Mythical",
+    "Rare",
+    "Secret",
+    "Uncommon"
+  ],
+  "brainrotsNames": [
+    "67",
+    "Agarrini la Palini",
+    "Alessio",
+    "Anububu",
+    "Aura Farma",
+    "Avocadini Antilopini",
+    "Avocadini Guffo",
+    "Avocadorilla",
+    "Ballerina Cappuccina",
+    "Ballerino Lololo",
+    "Bambini Crostini",
+    "Bambooini Bombini",
+    "Bananita Dolphinita",
+    "Biscotti Macarotti",
+    "Biscottino Scheletrino",
+    "Bisonte Giuppitere",
+    "Blueberrinni Octopussini",
+    "Bobrito Bandito",
+    "Bombardiro Crocodilo",
+    "Bombombini Gusini",
+    "Boneca Ambalabu",
+    "Brr Brr Patapim",
+    "Bulbito Bandito Traktorito",
+    "Burbaloni Luliloli",
+    "Burgerini Bearini",
+    "Burrascano Spettro Marinaro",
+    "Cacto Hipopotamo",
+    "Caffe Trinity",
+    "Candelabra Spettacabra",
+    "Cappuccino Assassino",
+    "Capuccino Policia",
+    "Capybara Monitora",
+    "Cavallo Virtuoso",
+    "Chef Crabracadabra",
+    "Chicleteira Bicicleteira",
+    "Chimpanzini Bananini",
+    "Chimpanzini Spiderini",
+    "Cioccolatone Draghettone",
+    "Cocofanto Elefanto",
+    "Cocosini Mama",
+    "Cornettino Fuaco",
+    "Crostina Gelifio",
+    "Cupitron Consoletron",
+    "Darlungini Pandanneli",
+    "Diamantusa",
+    "Din Din Vaultero",
+    "Don Magmito",
+    "Doomini Tiktookini",
+    "Draculini Meowlini",
+    "Dragon Cannelloni",
+    "Dug Dug Dug",
+    "Dutchmello Velerino",
+    "Eaglucci Cocosucci",
+    "Eek Eek Eek Sahur",
+    "Esok Sekolah",
+    "Espresso Signora",
+    "Explodini Cataclismi",
+    "Fantasmelli Pipistrelli",
+    "Fragola La La La",
+    "Freezeti Cobretti",
+    "Frigo Camelo",
+    "Frulli Frulla",
+    "Galactio Fantasma",
+    "Ganganzelli Trulala",
+    "Gangster Footera",
+    "Garama and Madundung",
+    "Gatattino Donutino",
+    "Gattatino Neonino",
+    "Gatti Marshmallini",
+    "Gelato Pinguino",
+    "Giraffa Celeste",
+    "Glacierello Infernetti",
+    "Glorbo Fruttodrillo",
+    "Gorillo Watermelondrillo",
+    "Graipuss Medussi",
+    "Grappellino D'Oro",
+    "Guesto Angelic",
+    "Job Job Job Sahur",
+    "Ketupastro Infernetto",
+    "Kissarini Heartini",
+    "La Bruma Celta",
+    "La Grande Combinasion",
+    "La Malita",
+    "La Vaca Nebulosa Frostina",
+    "La Vacca Black Hole Goat",
+    "La Vacca Saturno Saturnita",
+    "Las Tralaleritas",
+    "Las Vaquitas Saturnitas",
+    "Lionel Cactuseli",
+    "Lirili Larila",
+    "Los Combinasionas",
+    "Los Crocodillitos",
+    "Los Orcaleritos",
+    "Los Tralaleritos",
+    "Los Tungtungtungcitos",
+    "Magmew",
+    "Marietti Frigo",
+    "Martino Gravitino",
+    "Mastodontico Telepiedone",
+    "Matteo",
+    "Meta Technetta",
+    "Money Elephant",
+    "Noobini Cakenini",
+    "Noobini Infeeny",
+    "Nuclearo Dinossauro",
+    "Onionello Penguini",
+    "Orangutini Ananasini",
+    "Orcalero Orcala",
+    "Pandaccini Bananini",
+    "Pastapot Infernotto",
+    "Patatino Astronauta",
+    "Patito Dinerito",
+    "Penguino Cocosino",
+    "Perochello Lemonchello",
+    "Pi Pi Watermelon",
+    "Piccione Macchina",
+    "Pipi Avocado",
+    "Pipi Corni",
+    "Pipi Kiwi",
+    "Polpo Semaforini",
+    "Pot Hotspot",
+    "Rainbow 67",
+    "Rattini Machini",
+    "Rhino Toasterino",
+    "Rubichetto Cubini",
+    "Salamino Penguino",
+    "Sausaggini Sanitario",
+    "Scaldarino Derpino",
+    "Sigma Boy",
+    "Spioniro Golubiro",
+    "Statutino Libertino",
+    "Strawberrelli Flamingelli",
+    "Strawberry Elephant",
+    "Svinino Bombondino",
+    "Ta Ta Ta Sahur",
+    "Talpa Di Fero",
+    "Tartarughi Attrezzini",
+    "Ti Ti Ti Sahur",
+    "Tigrilini Watermelini",
+    "Tigroligre Frutonni",
+    "Tim Cheese",
+    "Torrtuginni Dragonfrutini",
+    "Tostino Flambante",
+    "Tractoro Dinosauro",
+    "Tralalero Tralala",
+    "Trenostruzzo Turbo 3000",
+    "Tric Tric Baraboom",
+    "Trippi Troppi",
+    "Trippi Troppi Troppa Trippa",
+    "Trulimero Trulicina",
+    "Tukanno Bananno",
+    "Udin Din Din Dun",
+    "Unclito Samito",
+    "Vroosh Boosh",
+    "Zibra Zubra Zibralini",
+    "Zung Zung Zung Lazur"
+  ],
+  "luckyBlocks": [
+    {
+      "Id": "Radioactive",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 10 },
+        { "Name": "Strawberry Elephant", "Weight": 0.01 }
+      ],
+      "Name": "Radioactive Lucky Block",
+      "Data": {
+        "Products": [],
+        "GuaranteedMutation": "Radioactive",
+        "MutationRoll": "GuaranteedMutation",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 10 },
+          { "Name": "Strawberry Elephant", "Weight": 0.01 }
+        ],
+        "Icon": "rbxassetid://110387195129141",
+        "DisplayName": "Radioactive Lucky Block"
+      }
+    },
+    {
+      "Id": "FireAndIce",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Name": "Tostino Flambante", "Weight": 3 },
+        { "Name": "Cornettino Fuaco", "Weight": 0.02 },
+        {
+          "WeightFFlag": {
+            "Value": 0.1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Frostspire.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Frostspire",
+          "Name": "Frostspire Base Skin",
+          "Weight": 0.1
+        },
+        {
+          "WeightFFlag": {
+            "Value": 0.1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Solarflare.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Solarflare",
+          "Name": "Solarflare Base Skin",
+          "Weight": 0.1
+        }
+      ],
+      "Name": "Fire & Ice Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Fire", "Weight": 10 },
+          { "Name": "Ice", "Weight": 10 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Name": "Tostino Flambante", "Weight": 3 },
+          { "Name": "Cornettino Fuaco", "Weight": 0.02 },
+          {
+            "WeightFFlag": {
+              "Value": 0.1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Frostspire.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Frostspire",
+            "Name": "Frostspire Base Skin",
+            "Weight": 0.1
+          },
+          {
+            "WeightFFlag": {
+              "Value": 0.1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Solarflare.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Solarflare",
+            "Name": "Solarflare Base Skin",
+            "Weight": 0.1
+          }
+        ],
+        "Icon": "rbxassetid://114260268183910",
+        "DisplayName": "Fire & Ice Lucky Block"
+      }
+    },
+    {
+      "Id": "Phantom",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 60 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 30 },
+        { "Name": "Fantasmelli Pipistrelli", "Weight": 3 },
+        { "Name": "Burrascano Spettro Marinaro", "Weight": 0.02 },
+        {
+          "WeightFFlag": {
+            "Value": 0.1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Phantom.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Wraith",
+          "Name": "Wraith Base Skin",
+          "Weight": 0.1
+        },
+        { "BoothSkin": "Spirit", "Name": "Spirit Booth Skin", "Weight": 0.05 }
+      ],
+      "Name": "Phantom Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Phantom", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 60 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 30 },
+          { "Name": "Fantasmelli Pipistrelli", "Weight": 3 },
+          { "Name": "Burrascano Spettro Marinaro", "Weight": 0.02 },
+          {
+            "WeightFFlag": {
+              "Value": 0.1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Phantom.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Wraith",
+            "Name": "Wraith Base Skin",
+            "Weight": 0.1
+          },
+          { "BoothSkin": "Spirit", "Name": "Spirit Booth Skin", "Weight": 0.05 }
+        ],
+        "Icon": "rbxassetid://130836493998529",
+        "DisplayName": "Phantom Lucky Block"
+      }
+    },
+    {
+      "Id": "Frostfire",
+      "Rewards": [
+        { "Name": "Tostino Flambante", "Weight": 55 },
+        { "Name": "La Vaca Nebulosa Frostina", "Weight": 20 },
+        { "Name": "La Bruma Celta", "Weight": 15 },
+        { "Name": "Gelato Pinguino", "Weight": 10 },
+        { "Name": "Cornettino Fuaco", "Weight": 3 },
+        { "Name": "Crostina Gelifio", "Weight": 0.33 },
+        {
+          "LuckyBlock": "Infinity",
+          "Name": "Infinity Lucky Block",
+          "Weight": 0.01
+        }
+      ],
+      "Name": "Frostfire Lucky Block",
+      "Data": {
+        "Products": { "3546298755": 10, "3546298749": 1, "3546298750": 3 },
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Fire", "Weight": 10 },
+          { "Name": "Ice", "Weight": 10 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Tostino Flambante", "Weight": 55 },
+          { "Name": "La Vaca Nebulosa Frostina", "Weight": 20 },
+          { "Name": "La Bruma Celta", "Weight": 15 },
+          { "Name": "Gelato Pinguino", "Weight": 10 },
+          { "Name": "Cornettino Fuaco", "Weight": 3 },
+          { "Name": "Crostina Gelifio", "Weight": 0.33 },
+          {
+            "LuckyBlock": "Infinity",
+            "Name": "Infinity Lucky Block",
+            "Weight": 0.01
+          }
+        ],
+        "Icon": "rbxassetid://94256820865459",
+        "DisplayName": "Frostfire Lucky Block"
+      }
+    },
+    {
+      "Id": "Celestial",
+      "Rewards": [{ "Class": "Celestial", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Celestial Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Celestial", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Celestial Lucky Block"
+      }
+    },
+    {
+      "Id": "Volcanic",
+      "Rewards": [
+        { "Name": "Scaldarino Derpino", "Weight": 60 },
+        { "Name": "Ketupastro Infernetto", "Weight": 20 },
+        { "Name": "Explodini Cataclismi", "Weight": 5 },
+        { "Name": "Pastapot Infernotto", "Weight": 1.5 },
+        { "Name": "Draculini Meowlini", "Weight": 0.33 },
+        {
+          "LuckyBlock": "Infinity",
+          "Name": "Infinity Lucky Block",
+          "Weight": 0.01
+        }
+      ],
+      "Name": "Volcanic Lucky Block",
+      "Data": {
+        "Products": { "3541166337": 10, "3541166442": 3, "3541166533": 1 },
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Doom", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Scaldarino Derpino", "Weight": 60 },
+          { "Name": "Ketupastro Infernetto", "Weight": 20 },
+          { "Name": "Explodini Cataclismi", "Weight": 5 },
+          { "Name": "Pastapot Infernotto", "Weight": 1.5 },
+          { "Name": "Draculini Meowlini", "Weight": 0.33 },
+          {
+            "LuckyBlock": "Infinity",
+            "Name": "Infinity Lucky Block",
+            "Weight": 0.01
+          }
+        ],
+        "Icon": "rbxassetid://111579601380020",
+        "DisplayName": "Volcanic Lucky Block"
+      }
+    },
+    {
+      "Id": "Infinity",
+      "Rewards": [{ "Class": "Infinity", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Infinity Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Infinity", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Infinity Lucky Block"
+      }
+    },
+    {
+      "Id": "Doom",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Name": "Scaldarino Derpino", "Weight": 3 },
+        { "Name": "Explodini Cataclismi", "Weight": 0.02 },
+        {
+          "WeightFFlag": {
+            "Value": 0.1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Doom.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Bastion",
+          "Name": "Doom Base Skin",
+          "Weight": 0.1
+        }
+      ],
+      "Name": "Doom Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Doom", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Name": "Scaldarino Derpino", "Weight": 3 },
+          { "Name": "Explodini Cataclismi", "Weight": 0.02 },
+          {
+            "WeightFFlag": {
+              "Value": 0.1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Doom.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Bastion",
+            "Name": "Doom Base Skin",
+            "Weight": 0.1
+          }
+        ],
+        "Icon": "rbxassetid://75072285456318",
+        "DisplayName": "Doom Lucky Block"
+      }
+    },
+    {
+      "Id": "Divine",
+      "Rewards": [{ "Class": "Divine", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Divine Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Divine", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Divine Lucky Block"
+      }
+    },
+    {
+      "Id": "Secret",
+      "Rewards": [{ "Class": "Secret", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Secret Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Secret", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Secret Lucky Block"
+      }
+    },
+    {
+      "Id": "Cosmic",
+      "Rewards": [{ "Class": "Cosmic", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Cosmic Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Cosmic", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Cosmic Lucky Block"
+      }
+    },
+    {
+      "Id": "Gamer",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Name": "Sausaggini Sanitario", "Weight": 3 },
+        { "Name": "Marietti Frigo", "Weight": 2 },
+        { "Name": "Glacierello Infernetti", "Weight": 0.02 },
+        {
+          "WeightFFlag": {
+            "Value": 0.1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Gamer.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Gamer",
+          "Name": "Gamer Base Skin",
+          "Weight": 0.1
+        }
+      ],
+      "Name": "Gamer Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Gamer", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Name": "Sausaggini Sanitario", "Weight": 3 },
+          { "Name": "Marietti Frigo", "Weight": 2 },
+          { "Name": "Glacierello Infernetti", "Weight": 0.02 },
+          {
+            "WeightFFlag": {
+              "Value": 0.1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Gamer.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Gamer",
+            "Name": "Gamer Base Skin",
+            "Weight": 0.1
+          }
+        ],
+        "Icon": "rbxassetid://110080483322372",
+        "DisplayName": "Gamer Lucky Block"
+      }
+    },
+    {
+      "Id": "Mythical",
+      "Rewards": [{ "Class": "Mythical", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Mythical Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Mythical", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Mythical Lucky Block"
+      }
+    },
+    {
+      "Id": "UFO",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Name": "Los Orcaleritos", "Weight": 5 },
+        { "Name": "Martino Gravitino", "Weight": 0.02 }
+      ],
+      "Name": "UFO Lucky Block",
+      "Data": {
+        "Products": [],
+        "GuaranteedMutation": "UFO",
+        "MutationRoll": "GuaranteedMutation",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Name": "Los Orcaleritos", "Weight": 5 },
+          { "Name": "Martino Gravitino", "Weight": 0.02 }
+        ],
+        "Icon": "rbxassetid://139476791600588",
+        "DisplayName": "UFO Lucky Block"
+      }
+    },
+    {
+      "Id": "Rare",
+      "Rewards": [{ "Class": "Rare", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Rare Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Rare", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Rare Lucky Block"
+      }
+    },
+    {
+      "Id": "Common",
+      "Rewards": [{ "Class": "Common", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Common Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Common", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Common Lucky Block"
+      }
+    },
+    {
+      "Id": "Money",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Name": "Patito Dinerito", "Weight": 3 },
+        { "Name": "Onionello Penguini", "Weight": 2 },
+        { "Name": "Patatino Astronauta", "Weight": 1 },
+        { "Name": "Rattini Machini", "Weight": 5 },
+        { "Name": "Grappellino D'Oro", "Weight": 0.02 },
+        {
+          "WeightFFlag": {
+            "Value": 1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Money.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Money",
+          "Name": "Money Base Skin",
+          "Weight": 0.1
+        }
+      ],
+      "Name": "Money Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationTable": [
+          { "Name": "Gold", "Weight": 35 },
+          { "Name": "Emerald", "Weight": 35 },
+          { "Name": "Diamond", "Weight": 5 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Name": "Patito Dinerito", "Weight": 3 },
+          { "Name": "Onionello Penguini", "Weight": 2 },
+          { "Name": "Patatino Astronauta", "Weight": 1 },
+          { "Name": "Rattini Machini", "Weight": 5 },
+          { "Name": "Grappellino D'Oro", "Weight": 0.02 },
+          {
+            "WeightFFlag": {
+              "Value": 1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Money.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Money",
+            "Name": "Money Base Skin",
+            "Weight": 0.1
+          }
+        ],
+        "Icon": "rbxassetid://139476791600588",
+        "DisplayName": "Money Lucky Block"
+      }
+    },
+    {
+      "Id": "Jackpot",
+      "Rewards": [
+        { "Name": "Patito Dinerito", "Weight": 48 },
+        { "Name": "Onionello Penguini", "Weight": 34 },
+        { "Name": "La Malita", "Weight": 6.5 },
+        { "Name": "Capuccino Policia", "Weight": 4.5 },
+        { "Name": "Money Elephant", "Weight": 3 },
+        { "Name": "Rattini Machini", "Weight": 2.5 },
+        { "Name": "Grappellino D'Oro", "Weight": 0.9 },
+        { "Name": "Din Din Vaultero", "Weight": 0.6 }
+      ],
+      "Name": "Jackpot Lucky Block",
+      "Data": {
+        "Products": { "3525813581": 1, "3525813694": 10, "3525813827": 3 },
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Patito Dinerito", "Weight": 48 },
+          { "Name": "Onionello Penguini", "Weight": 34 },
+          { "Name": "La Malita", "Weight": 6.5 },
+          { "Name": "Capuccino Policia", "Weight": 4.5 },
+          { "Name": "Money Elephant", "Weight": 3 },
+          { "Name": "Rattini Machini", "Weight": 2.5 },
+          { "Name": "Grappellino D'Oro", "Weight": 0.9 },
+          { "Name": "Din Din Vaultero", "Weight": 0.6 }
+        ],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Money", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "UFO", "Weight": 1 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "DisplayName": "Jackpot Lucky Block"
+      }
+    },
+    {
+      "Id": "Uncommon",
+      "Rewards": [{ "Class": "Uncommon", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Uncommon Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Uncommon", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Uncommon Lucky Block"
+      }
+    },
+    {
+      "Id": "Alien",
+      "Rewards": [
+        { "Name": "Capybara Monitora", "Weight": 35 },
+        { "Name": "Tractoro Dinosauro", "Weight": 30 },
+        { "Name": "Patatino Astronauta", "Weight": 20 },
+        { "Name": "Avocadini Antilopini", "Weight": 10 },
+        { "Name": "Los Orcaleritos", "Weight": 4.25 },
+        { "Name": "Martino Gravitino", "Weight": 0.6 },
+        { "Name": "Galactio Fantasma", "Weight": 0.15 }
+      ],
+      "Name": "Alien Lucky Block",
+      "Data": {
+        "Products": { "3520866180": 3, "3520866251": 10, "3520866101": 1 },
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Capybara Monitora", "Weight": 35 },
+          { "Name": "Tractoro Dinosauro", "Weight": 30 },
+          { "Name": "Patatino Astronauta", "Weight": 20 },
+          { "Name": "Avocadini Antilopini", "Weight": 10 },
+          { "Name": "Los Orcaleritos", "Weight": 4.25 },
+          { "Name": "Martino Gravitino", "Weight": 0.6 },
+          { "Name": "Galactio Fantasma", "Weight": 0.15 }
+        ],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "UFO", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "DisplayName": "Alien Lucky Block"
+      }
+    },
+    {
+      "Id": "Admin",
+      "Rewards": [
+        { "Class": "ALL", "Name": "RANDOM", "Weight": 50 },
+        { "Weight": 10, "Name": "2x Server Luck", "ServerLuck": 2 },
+        { "Weight": 5, "Name": "4x Server Luck", "ServerLuck": 4 },
+        { "Class": "Cosmic", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 15 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 5 }
+      ],
+      "Name": "Admin Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationRoll": "GuaranteedMutation",
+        "Rewards": [
+          { "Class": "ALL", "Name": "RANDOM", "Weight": 50 },
+          { "Weight": 10, "Name": "2x Server Luck", "ServerLuck": 2 },
+          { "Weight": 5, "Name": "4x Server Luck", "ServerLuck": 4 },
+          { "Class": "Cosmic", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 15 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 5 }
+        ],
+        "GuaranteedMutation": "Admin",
+        "DisplayName": "Admin Lucky Block"
+      }
+    },
+    {
+      "Id": "Legendary",
+      "Rewards": [{ "Class": "Legendary", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Legendary Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Legendary", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Legendary Lucky Block"
+      }
+    },
+    {
+      "Id": "Default",
+      "Rewards": [
+        { "Name": "Vroosh Boosh", "Weight": 15 },
+        { "Name": "Darlungini Pandanneli", "Weight": 15 },
+        { "Name": "Eek Eek Eek Sahur", "Weight": 15 },
+        {
+          "Mutation": "Gold",
+          "Name": "Mastodontico Telepiedone",
+          "Weight": 25
+        },
+        { "Name": "Diamantusa", "Weight": 25 },
+        { "Name": "Bulbito Bandito Traktorito", "Weight": 4.5 },
+        { "Name": "Burgerini Bearini", "Weight": 0.5 }
+      ],
+      "Name": "Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": { "3513029816": 1, "3513030105": 10, "3513029966": 3 },
+        "Rewards": [
+          { "Name": "Vroosh Boosh", "Weight": 15 },
+          { "Name": "Darlungini Pandanneli", "Weight": 15 },
+          { "Name": "Eek Eek Eek Sahur", "Weight": 15 },
+          {
+            "Mutation": "Gold",
+            "Name": "Mastodontico Telepiedone",
+            "Weight": 25
+          },
+          { "Name": "Diamantusa", "Weight": 25 },
+          { "Name": "Bulbito Bandito Traktorito", "Weight": 4.5 },
+          { "Name": "Burgerini Bearini", "Weight": 0.5 }
+        ],
+        "DisplayName": "Lucky Block"
+      }
+    },
+    {
+      "Id": "Spectral",
+      "Rewards": [
+        { "Name": "Fantasmelli Pipistrelli", "Weight": 60 },
+        { "Name": "Candelabra Spettacabra", "Weight": 20 },
+        { "Name": "Burrascano Spettro Marinaro", "Weight": 5 },
+        { "Name": "Biscottino Scheletrino", "Weight": 1.5 },
+        { "Name": "Dutchmello Velerino", "Weight": 0.33 },
+        { "Name": "Doomini Tiktookini", "Weight": 0.01 },
+        {
+          "LuckyBlock": "Infinity",
+          "Name": "Infinity Lucky Block",
+          "Weight": 0.01
+        }
+      ],
+      "Name": "Spectral Lucky Block",
+      "Data": {
+        "Products": { "3549871457": 10, "3549871456": 3, "3549871455": 1 },
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Phantom", "Weight": 20 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Fantasmelli Pipistrelli", "Weight": 60 },
+          { "Name": "Candelabra Spettacabra", "Weight": 20 },
+          { "Name": "Burrascano Spettro Marinaro", "Weight": 5 },
+          { "Name": "Biscottino Scheletrino", "Weight": 1.5 },
+          { "Name": "Dutchmello Velerino", "Weight": 0.33 },
+          { "Name": "Doomini Tiktookini", "Weight": 0.01 },
+          {
+            "LuckyBlock": "Infinity",
+            "Name": "Infinity Lucky Block",
+            "Weight": 0.01
+          }
+        ],
+        "Icon": "rbxassetid://116821926411423",
+        "DisplayName": "Spectral Lucky Block"
+      }
+    },
+    {
+      "Id": "Epic",
+      "Rewards": [{ "Class": "Epic", "Name": "RANDOM", "Weight": 1 }],
+      "Name": "Epic Lucky Block",
+      "Data": {
+        "MutationRoll": "Normal",
+        "Products": [],
+        "Rewards": [{ "Class": "Epic", "Name": "RANDOM", "Weight": 1 }],
+        "DisplayName": "Epic Lucky Block"
+      }
+    },
+    {
+      "Id": "Arcade",
+      "Rewards": [
+        { "Name": "Marietti Frigo", "Weight": 55 },
+        { "Name": "Sausaggini Sanitario", "Weight": 40 },
+        { "Name": "Diamantusa", "Weight": 15 },
+        { "Name": "Capuccino Policia", "Weight": 10 },
+        { "Name": "Glacierello Infernetti", "Weight": 3 },
+        { "Name": "Rubichetto Cubini", "Weight": 0.33 },
+        { "Name": "Freezeti Cobretti", "Weight": 0.1 }
+      ],
+      "Name": "Arcade Lucky Block",
+      "Data": {
+        "Products": { "3531455721": 1, "3531455720": 10, "3531455722": 3 },
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Gamer", "Weight": 20 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Marietti Frigo", "Weight": 55 },
+          { "Name": "Sausaggini Sanitario", "Weight": 40 },
+          { "Name": "Diamantusa", "Weight": 15 },
+          { "Name": "Capuccino Policia", "Weight": 10 },
+          { "Name": "Glacierello Infernetti", "Weight": 3 },
+          { "Name": "Rubichetto Cubini", "Weight": 0.33 },
+          { "Name": "Freezeti Cobretti", "Weight": 0.1 }
+        ],
+        "Icon": "rbxassetid://120274446838583",
+        "DisplayName": "Arcade Lucky Block"
+      }
+    },
+    {
+      "Id": "Sugar Rush",
+      "Rewards": [
+        { "Name": "Tartarughi Attrezzini", "Weight": 55 },
+        { "Name": "Kissarini Heartini", "Weight": 40 },
+        { "Name": "Polpo Semaforini", "Weight": 15 },
+        { "Name": "Cioccolatone Draghettone", "Weight": 10 },
+        { "Name": "Biscotti Macarotti", "Weight": 3 },
+        { "Name": "Cupitron Consoletron", "Weight": 0.33 },
+        {
+          "LuckyBlock": "Infinity",
+          "Name": "Infinity Lucky Block",
+          "Weight": 0.01
+        }
+      ],
+      "Name": "Sugar Rush Lucky Block",
+      "Data": {
+        "Products": { "3536063694": 3, "3536063692": 1, "3536063695": 10 },
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Candy", "Weight": 20 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Name": "Tartarughi Attrezzini", "Weight": 55 },
+          { "Name": "Kissarini Heartini", "Weight": 40 },
+          { "Name": "Polpo Semaforini", "Weight": 15 },
+          { "Name": "Cioccolatone Draghettone", "Weight": 10 },
+          { "Name": "Biscotti Macarotti", "Weight": 3 },
+          { "Name": "Cupitron Consoletron", "Weight": 0.33 },
+          {
+            "LuckyBlock": "Infinity",
+            "Name": "Infinity Lucky Block",
+            "Weight": 0.01
+          }
+        ],
+        "Icon": "rbxassetid://72804000748842",
+        "DisplayName": "Sugar Rush Lucky Block"
+      }
+    },
+    {
+      "Id": "Candy",
+      "Rewards": [
+        { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+        { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+        { "Name": "Tartarughi Attrezzini", "Weight": 3 },
+        { "Name": "Kissarini Heartini", "Weight": 2 },
+        { "Name": "Biscotti Macarotti", "Weight": 0.02 },
+        {
+          "WeightFFlag": {
+            "Value": 0.1,
+            "ValueLoaded": true,
+            "Key": "Game.LuckyBlock.Valentine.BaseSkinDropWeight",
+            "Assertion": null,
+            "Loaded": { "Cs": [] },
+            "Changed": { "Cs": [] },
+            "DefaultValue": 0.1,
+            "Replicated": true
+          },
+          "BaseSkin": "Valentine",
+          "Name": "Valentine Base Skin",
+          "Weight": 0.1
+        }
+      ],
+      "Name": "Candy Lucky Block",
+      "Data": {
+        "Products": [],
+        "MutationTable": [
+          { "Name": "None", "Weight": 20 },
+          { "Name": "Candy", "Weight": 20 },
+          { "Name": "Gold", "Weight": 10 },
+          { "Name": "Diamond", "Weight": 5 },
+          { "Name": "Electric", "Weight": 5 },
+          { "Name": "Lucky", "Weight": 0.1 }
+        ],
+        "MutationRoll": "MutationTable",
+        "Rewards": [
+          { "Class": "Secret", "Name": "RANDOM", "Weight": 45 },
+          { "Class": "Celestial", "Name": "RANDOM", "Weight": 20 },
+          { "Name": "Tartarughi Attrezzini", "Weight": 3 },
+          { "Name": "Kissarini Heartini", "Weight": 2 },
+          { "Name": "Biscotti Macarotti", "Weight": 0.02 },
+          {
+            "WeightFFlag": {
+              "Value": 0.1,
+              "ValueLoaded": true,
+              "Key": "Game.LuckyBlock.Valentine.BaseSkinDropWeight",
+              "Assertion": null,
+              "Loaded": { "Cs": [] },
+              "Changed": { "Cs": [] },
+              "DefaultValue": 0.1,
+              "Replicated": true
+            },
+            "BaseSkin": "Valentine",
+            "Name": "Valentine Base Skin",
+            "Weight": 0.1
+          }
+        ],
+        "Icon": "rbxassetid://107494495338097",
+        "DisplayName": "Candy Lucky Block"
+      }
+    }
+  ],
+  "luckyBlocksNames": [
+    "Admin",
+    "Alien",
+    "Arcade",
+    "Candy",
+    "Celestial",
+    "Common",
+    "Cosmic",
+    "Default",
+    "Divine",
+    "Doom",
+    "Epic",
+    "FireAndIce",
+    "Frostfire",
+    "Gamer",
+    "Infinity",
+    "Jackpot",
+    "Legendary",
+    "Money",
+    "Mythical",
+    "Phantom",
+    "Radioactive",
+    "Rare",
+    "Secret",
+    "Spectral",
+    "Sugar Rush",
+    "UFO",
+    "Uncommon",
+    "Volcanic"
+  ]
+}
