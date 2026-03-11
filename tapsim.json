@@ -3,12 +3,14 @@
     "Fire Slime": ["Common"],
     "Sphinx": ["Epic"],
     "Cyber Deer": ["Common"],
+    "Enchanted Cat": ["Common"],
+    "Red Bat": ["Common"],
     "Neon Cat": ["Secret X"],
     "Ninja Demon": ["Legendary"],
     "Blood Ghoul": ["Mythical"],
     "Divine Guard": ["Legendary"],
     "Zebra": ["Common"],
-    "Bunny": ["Common"],
+    "Fossilized Sphinx": ["Common"],
     "Trophy Guardian": ["Leaderboard"],
     "Operating System": ["Mythical"],
     "Surge Dragon": ["Secret I"],
@@ -20,18 +22,19 @@
     "Yeti": ["Rare"],
     "Starfish": ["Epic"],
     "Void Bunny": ["Common"],
-    "Lucky Fairy": ["Rare"],
+    "Rock Golem": ["Epic"],
     "Serpent God": ["Mythical"],
     "Future Cat": ["Rare"],
     "Eclipse Fox": ["Common"],
     "Goat": ["Common"],
+    "Cactus Buddy": ["Epic"],
     "Techno Dragon": ["Secret II"],
     "Overcharged Robot": ["Secret III"],
-    "Cosmic Chaos": ["Secret II"],
+    "Bladekaiser": ["Legendary"],
     "Serapha": ["Common"],
     "Ice Crystal Demon": ["Epic"],
     "Lion God": ["Secret I"],
-    "Doggy": ["Rare"],
+    "Skeleton": ["Common"],
     "Magma Wyvern": ["Epic"],
     "Nebula Cyborg": ["Secret II"],
     "Frog": ["Common"],
@@ -39,23 +42,25 @@
     "Empyrean Sovereign": ["Secret II"],
     "Space Spirit": ["Legendary"],
     "Ninja Tri-Demon": ["Legendary"],
+    "Super Star": ["Secret II"],
+    "Ancient Puppy": ["Legendary"],
     "Gilded Pegasus": ["Legendary"],
     "Moon Explorer": ["Rare"],
     "Royal Cat": ["Legendary"],
     "Ornament": ["Legendary"],
-    "Nebula Star": ["Legendary"],
+    "Blue Dino": ["Rare"],
     "Lynx": ["Epic"],
     "Tigerclaw": ["Rare"],
     "Aether Lamb": ["Rare"],
     "Token Mimic": ["Legendary"],
     "Meteoric Fossil": ["Legendary"],
     "Googly Alien": ["Rare"],
-    "Frosty Snowman": ["Secret I"],
+    "Ash Dog": ["Common"],
     "Walrus": ["Common"],
-    "Holo Crab": ["Common"],
+    "Bone Bull": ["Rare"],
     "Royal Puppy": ["Legendary"],
-    "Supreme Mech": ["Secret II"],
-    "Dual Shock": ["Secret II"],
+    "Infernal Phoenix": ["Legendary"],
+    "Desert Visonary": ["Mythical"],
     "Frost Golem": ["Mythical"],
     "Void Eyes": ["Legendary"],
     "40M Void Burst": ["Legendary"],
@@ -64,33 +69,43 @@
     "King Crab": ["Epic"],
     "Cactus Raider": ["Legendary"],
     "Caramel Bunny": ["Common"],
+    "Ancient Petra": ["Common"],
     "Bear Bender": ["Epic"],
+    "Wicked Rose": ["Secret II"],
     "Nebula Cluster": ["Mythical"],
     "Crimson Flare": ["Legendary"],
     "Serenity": ["Secret I"],
     "Queen Bee": ["Legendary"],
     "Cottontail": ["Common"],
-    "Glitched TV": ["Legendary"],
-    "Blink": ["Epic"],
+    "Ancient Kitty": ["Legendary"],
+    "Enchanted Monarch": ["Legendary"],
     "Divine Dragon": ["Secret I"],
     "Mouse": ["Common"],
+    "Sun Guardian": ["Secret I"],
     "JACKPOT": ["Secret III"],
     "Karate Lynx": ["Rare"],
     "Archangel": ["Mythical"],
     "Festive Cat": ["Common"],
     "Mistletoe Wyvern": ["Secret II"],
-    "Gingerbread Dragon": ["Mythical"],
+    "Frost Archangel": ["Secret I"],
+    "Caesar": ["Epic"],
     "Chicken": ["Common"],
+    "Roman Bear": ["Rare"],
     "Electrical Glitch": ["Legendary"],
+    "Medusa": ["Secret II"],
     "Frost Angel": ["Epic"],
     "Aether Koi": ["Epic"],
     "2026 Overlord": ["Secret II"],
+    "Rune Guardian": ["Mythical"],
     "Nemo": ["Common"],
     "Abyssal Raven": ["Epic"],
     "Silver Emperor": ["Leaderboard"],
     "Sensei Panda": ["Rare"],
+    "Prymoridal Pyramid": ["Secret II"],
     "Infernal Seraphim": ["Secret II"],
+    "Rainbow Fiend": ["Mythical"],
     "5M Frost Monarch": ["Secret II"],
+    "Fallen Demon": ["Mythical"],
     "King Kraken": ["Secret II"],
     "Reigning Taco": ["Secret X"],
     "Cow": ["Rare"],
@@ -101,8 +116,10 @@
     "Dusty Wolf": ["Common"],
     "Firework": ["Epic"],
     "Infernal Ravager": ["Leaderboard"],
+    "Enchanted Overseer": ["Legendary"],
+    "Nightclock Scavenger": ["Rare"],
     "Santa Bear": ["Common"],
-    "Cat": ["Common"],
+    "Chocolate Heart": ["Exclusive"],
     "Sakura Nymph": ["Rare"],
     "Mr Sprinkler": ["Legendary"],
     "2026 Star": ["Secret II"],
@@ -117,188 +134,230 @@
     "Festive Owl": ["Epic"],
     "Nutcracker": ["Mythical"],
     "Virtual Cuboid": ["Common"],
-    "King Emblazed": ["Mythical"],
-    "Tri-Eyed Alien": ["Epic"],
+    "Moose": ["Common"],
+    "Snow Thief": ["Legendary"],
     "Blueberry Taffy": ["Epic"],
-    "Infernal Lord": ["Secret I"],
+    "Emberagon": ["Epic"],
     "Alien": ["Rare"],
+    "Ancient Griffin": ["Legendary"],
     "Magmawrath": ["Epic"],
-    "Cotton Candy Pop": ["Rare"],
-    "Cosmic Robot": ["Epic"],
+    "Anubis": ["Legendary"],
+    "Roman Mouse": ["Common"],
+    "Fortunate Calico": ["Secret II"],
+    "Monkey": ["Common"],
     "Universal Manipulator": ["Mythical"],
     "Aurelin": ["Epic"],
+    "Steampunk Balloon": ["Secret X"],
     "Rocket Scientist": ["Common"],
     "Cardinal Hydra": ["Legendary"],
     "Reality Overide": ["Secret II"],
     "Starlight Deity": ["Secret I"],
     "Divine Celestia": ["Leaderboard"],
+    "Lava Dragon": ["Legendary"],
+    "Jack IN the Box": ["Legendary"],
     "Tri-Phoenix": ["Epic"],
     "Bee": ["Epic"],
+    "Pharaoh": ["Legendary"],
+    "Snugglehorn": ["Secret I"],
+    "Electric Slime": ["Common"],
     "Sparky": ["Common"],
+    "Seraphyne": ["Secret II"],
     "Luminary Star": ["Secret I"],
     "Festive Penguin": ["Epic"],
+    "Celestelle Unicorn": ["Mythical"],
+    "Celestial Candycane": ["Secret II"],
+    "40M Darkest Knight": ["Secret III"],
+    "Dazzled Rhino": ["Epic"],
     "Grand Ice Wizard": ["Secret I"],
-    "Sheep": ["Rare"],
+    "Monkey Warrior": ["Rare"],
+    "Love Birdie": ["Rare"],
+    "5M North Star": ["Secret I"],
     "Bubblegum Chaos": ["Mythical"],
+    "Sproutling": ["Common"],
+    "Voltgryph": ["Legendary"],
     "Penguin": ["Common"],
     "Camel": ["Common"],
+    "Cupid": ["Legendary"],
+    "Frozen Yeti": ["Common"],
+    "Purple Dragon": ["Epic"],
+    "Frost Warrior": ["Leaderboard"],
     "Orca Dominator": ["Secret I"],
     "Party Cat": ["Common"],
+    "Shiny Neon Cat": ["Secret X"],
+    "Dual Shock": ["Secret II"],
     "Bear": ["Rare"],
+    "Kairos": ["Legendary"],
+    "Christmas Goat": ["Legendary"],
+    "Samuwai": ["Common"],
     "Evil Snowman": ["Mythical"],
-    "Wind Elemental": ["Common"],
+    "Gift Mimic": ["Legendary"],
+    "Pig": ["Common"],
+    "Supreme Mech": ["Secret II"],
+    "Golden Harp": ["Exclusive"],
+    "Cat": ["Common"],
+    "Pantheon Titan": ["Secret I"],
+    "Glitched TV": ["Legendary"],
     "Magma Imp": ["Common"],
+    "Doggy": ["Rare"],
     "Festive Dog": ["Common"],
-    "Holo Dragon": ["Epic"],
-    "Holographic Hybrid": ["Legendary"],
-    "Electric Slime": ["Common"],
+    "Eclipse Sovereign": ["Leaderboard"],
+    "Gingerbread Dragon": ["Mythical"],
+    "Sheep": ["Rare"],
+    "Venom Dominus": ["Legendary"],
+    "Gladiator": ["Mythical"],
+    "Frost Queen": ["Secret I"],
+    "Royal Crown": ["Secret II"],
+    "Chronos": ["Secret I"],
+    "Lucky Fairy": ["Rare"],
+    "Lovely Butterfly": ["Epic"],
+    "Mummified Wyvern": ["Rare"],
     "Sakura Dominator": ["Secret I"],
-    "Jack IN the Box": ["Legendary"],
+    "King Emblazed": ["Mythical"],
     "Magmasaur": ["Secret I"],
     "Paradox": ["Mythical"],
     "Ashfiend": ["Epic"],
     "Snow Emperor": ["Leaderboard"],
     "Shadow Spider": ["Rare"],
-    "Seraphyne": ["Secret II"],
+    "Reindeer Emperor": ["Leaderboard"],
     "Puppy": ["Common"],
     "Storm Terror": ["Mythical"],
-    "Celestelle Unicorn": ["Mythical"],
-    "Celestial Candycane": ["Secret II"],
-    "Magmatic Angel": ["Rare"],
+    "Gorilla": ["Rare"],
+    "Cloudling": ["Common"],
+    "Raging Claw": ["Secret II"],
     "Prismatic Luckyblock": ["Mythical"],
-    "Sproutling": ["Common"],
-    "Samuwai": ["Common"],
+    "Infernal Lord": ["Secret I"],
+    "Lunar Alien": ["Common"],
     "Phoenix": ["Rare"],
     "Tri-Yeti": ["Epic"],
     "Tundra God": ["Legendary"],
-    "40M Darkest Knight": ["Secret III"],
+    "Amethyst Hawk": ["Legendary"],
     "Galactic Angel": ["Legendary"],
-    "Starry Antlers": ["Common"],
-    "Voltgryph": ["Legendary"],
-    "5M North Star": ["Secret I"],
-    "Bloodfrost": ["Rare"],
+    "Valentines Pup": ["Common"],
+    "Halo Chicken": ["Rare"],
+    "Bunny": ["Common"],
+    "Almighty Pharaoh": ["Secret II"],
     "Snowman": ["Rare"],
-    "Alien Mushroom": ["Common"],
+    "Water Beast": ["Legendary"],
     "Tesla Bot": ["Epic"],
-    "Frost Warrior": ["Leaderboard"],
+    "Tree Of Life": ["Legendary"],
     "Lucky Angel": ["Epic"],
-    "Frozen Yeti": ["Common"],
-    "Festive Bunny": ["Rare"],
-    "Venom Dominus": ["Legendary"],
-    "Kairos": ["Legendary"],
-    "Christmas Goat": ["Legendary"],
-    "Pig": ["Common"],
-    "Krampus": ["Secret II"],
-    "Gift Mimic": ["Legendary"],
-    "Cryo UFO": ["Epic"],
-    "Gilded Seraphim": ["Secret II"],
     "SUPER Luckyblock": ["Secret I"],
+    "Dune Dog": ["Common"],
+    "Weeping Angel": ["Secret I"],
+    "Darkmatter Leviathan": ["Mythical"],
+    "Holo Crab": ["Common"],
+    "UFO Alien": ["Mythical"],
+    "Krampus": ["Secret II"],
+    "Frost Wolf": ["Rare"],
+    "Sakura Queen": ["Mythical"],
+    "Cyber Angel": ["Legendary"],
+    "Skybound Relic": ["Secret I"],
     "Social Dragon": ["Legendary"],
     "Magmatic Punk": ["Epic"],
-    "Blurple": ["Rare"],
+    "Mummy King": ["Rare"],
     "Rudolph": ["Rare"],
-    "Aetherfin": ["Legendary"],
-    "Skybound Relic": ["Secret I"],
-    "Frost Wolf": ["Rare"],
+    "Orbital Demigod": ["Mythical"],
+    "Fire Ninja": ["Common"],
+    "Holy Squirrel": ["Common"],
     "Fire Bat": ["Rare"],
     "Spaceflower": ["Common"],
-    "Frost Queen": ["Secret I"],
+    "Colorful Unicorn": ["Legendary"],
     "Dolphin": ["Rare"],
-    "Dune Dog": ["Common"],
-    "Bone Cat": ["Epic"],
+    "Silent Assassin": ["Legendary"],
+    "Samureye": ["Mythical"],
     "New Year Dragon": ["Secret II"],
-    "Royal Jelly": ["Legendary"],
+    "Jungle Hydra": ["Epic"],
     "All Seeing Eye": ["Mythical"],
-    "Eclipse Sovereign": ["Leaderboard"],
+    "Starry Antlers": ["Common"],
     "Star Goob": ["Common"],
     "Yellow Luckyblock": ["Common"],
     "2026 Balloons": ["Secret I"],
-    "Shiny Neon Cat": ["Secret X"],
-    "Water Beast": ["Legendary"],
-    "Gorilla": ["Rare"],
-    "Royal Crown": ["Secret II"],
+    "Bone Cat": ["Epic"],
+    "Blurple": ["Rare"],
+    "Magma Empyreus": ["Legendary"],
+    "Hydra Magma Empyreus": ["Legendary"],
     "Lava God": ["Legendary"],
-    "Chronos": ["Secret I"],
+    "Tri-Eyed Alien": ["Epic"],
     "Crimson Incarnate": ["Legendary"],
     "Voidling": ["Rare"],
     "Ninja Pup": ["Common"],
     "Cryo Kitty": ["Common"],
-    "Molten Coffee Dragon": ["Legendary"],
-    "Holy Squirrel": ["Common"],
-    "Cyber Bear": ["Common"],
-    "40M Abyss Serpent": ["Secret I"],
-    "Reindeer Emperor": ["Leaderboard"],
-    "Tree Of Life": ["Legendary"],
+    "Spectrum Fracture": ["Legendary"],
+    "Royal Jelly": ["Legendary"],
+    "Minotaur": ["Legendary"],
+    "Rusty Greed": ["Epic"],
+    "Cotton Candy Pop": ["Rare"],
+    "Vesperyx": ["Legendary"],
     "404_ERROR": ["Mythical"],
     "Frozen Specter": ["Mythical"],
-    "Weeping Angel": ["Secret I"],
-    "Mummified Wyvern": ["Rare"],
+    "Waffle Knight": ["Epic"],
+    "Molten Coffee Dragon": ["Legendary"],
     "Starshine Warrior": ["Mythical"],
-    "UFO Alien": ["Mythical"],
+    "Chocolate Marauder": ["Secret II"],
     "Hooded Krampus": ["Secret I"],
-    "Amethyst Hawk": ["Legendary"],
+    "40M Abyss Serpent": ["Secret I"],
     "Stormcloud Kitsune": ["Legendary"],
-    "Sakura Queen": ["Mythical"],
-    "Ash Dog": ["Common"],
+    "Cosmic Chaos": ["Secret II"],
+    "Alien Mushroom": ["Common"],
     "Owl": ["Epic"],
-    "Fire Ninja": ["Common"],
-    "Darkmatter Leviathan": ["Mythical"],
-    "Neo Prototype": ["Secret I"],
-    "Monkey Warrior": ["Rare"],
-    "Cyber Angel": ["Legendary"],
+    "Space Jelly": ["Epic"],
+    "Steampunk Elkling": ["Legendary"],
+    "Comet Star": ["Rare"],
+    "Cosmic Robot": ["Epic"],
+    "Cryo Pup": ["Common"],
     "Astronaut Dog": ["Common"],
-    "Moose": ["Common"],
-    "Silent Assassin": ["Legendary"],
+    "Cryo UFO": ["Epic"],
+    "Candy God": ["Secret I"],
     "Moon Warden": ["Secret II"],
     "Lion": ["Rare"],
-    "Snow Thief": ["Legendary"],
+    "Aetherfin": ["Legendary"],
     "Seraphlux": ["Legendary"],
-    "Emberagon": ["Epic"],
+    "Neo Prototype": ["Secret I"],
     "Elephant": ["Rare"],
-    "Frost Archangel": ["Secret I"],
+    "Gilded Seraphim": ["Secret II"],
     "Snowboo": ["Common"],
-    "Hydra Magma Empyreus": ["Legendary"],
-    "Magma Empyreus": ["Legendary"],
+    "Green Bunny": ["Common"],
+    "Enchanted Fox": ["Rare"],
     "Magmatic Jester": ["Mythical"],
-    "Raging Claw": ["Secret II"],
-    "Fortunate Calico": ["Secret II"],
-    "Monkey": ["Common"],
+    "Scarab": ["Common"],
+    "Chocolate Strawberry": ["Mythical"],
+    "Wind Elemental": ["Common"],
     "Fire Imp": ["Common"],
     "Holo Dove": ["Rare"],
-    "Waffle Knight": ["Epic"],
+    "Festive Bunny": ["Rare"],
     "Holographic Prism": ["Secret I"],
     "Bonsai Monster": ["Epic"],
     "Forest Wyvern": ["Secret I"],
-    "Chocolate Marauder": ["Secret II"],
+    "Bloodfrost": ["Rare"],
     "Fox": ["Epic"],
-    "Bladekaiser": ["Legendary"],
+    "Holo Dragon": ["Epic"],
     "Evil Future Cat": ["Epic"],
     "Charged Dino": ["Rare"],
     "Vanilla Pluff": ["Common"],
-    "Lunar Alien": ["Common"],
-    "Vesperyx": ["Legendary"],
-    "Disco Lord": ["Secret II"],
     "Frost Spirit": ["Secret I"],
+    "Holographic Hybrid": ["Legendary"],
+    "Disco Lord": ["Secret II"],
+    "Nebula Star": ["Legendary"],
     "5M Snowglobe": ["Legendary"],
-    "Space Jelly": ["Epic"],
-    "Comet Star": ["Rare"],
+    "Eternal Moon": ["Legendary"],
+    "Frosty Snowman": ["Secret I"],
     "Arid Goat": ["Rare"],
-    "Halo Chicken": ["Rare"],
-    "Cryo Pup": ["Common"],
+    "Cyber Bear": ["Common"],
+    "Blink": ["Epic"],
     "Spider": ["Common"],
     "Panther": ["Rare"],
-    "Bone Bull": ["Rare"],
-    "Infernal Phoenix": ["Legendary"],
+    "Rainbow Entity": ["Secret I"],
+    "Charm Owl": ["Common"],
     "Mechanical Eye": ["Legendary"],
-    "Space Snowflake": ["Legendary"],
+    "Gear Dog": ["Common"],
     "Boar": ["Common"],
-    "Candy God": ["Secret I"],
-    "Orbital Demigod": ["Mythical"],
-    "Cloudling": ["Common"],
-    "Lava Dragon": ["Legendary"],
-    "Jungle Hydra": ["Epic"],
-    "Eternal Moon": ["Legendary"],
-    "Samureye": ["Mythical"]
+    "Clockwork Gweble": ["Common"],
+    "Magmatic Angel": ["Rare"],
+    "Valentines Cat": ["Common"],
+    "Ancient Spirit": ["Rare"],
+    "Roman Bunny": ["Common"],
+    "Space Snowflake": ["Legendary"],
+    "Pure Soul": ["Secret III"]
   },
   "enchants": {
     "Taps I": [
@@ -352,21 +411,24 @@
   },
   "portals": {
     "Jungle": [{ "price": "50B", "world": 1 }],
-    "Atlantis": [{ "price": "3.50QI", "world": 1 }],
-    "Candy": [{ "price": "100QD", "world": 1 }],
     "Kryo": [{ "price": "125SX", "world": 2 }],
     "Heaven": [{ "price": "2.50T", "world": 1 }],
     "Winter": [{ "price": "50M", "world": 1 }],
-    "Celestial": [{ "price": "15SP", "world": 2 }],
-    "Forest": [{ "price": "1M", "world": 1 }],
-    "Dojo": [{ "price": "75.50T", "world": 1 }],
-    "Holographic": [{ "price": "125SP", "world": 2 }],
-    "Cyberpunk": [{ "price": "9.50OC", "world": 2 }],
-    "Desert": [{ "price": "1B", "world": 1 }],
+    "Magma": [{ "price": "1.65SP", "world": 2 }],
+    "The Pyramids": [{ "price": "1.50DC", "world": 3 }],
     "Space": [{ "price": "125QI", "world": 1 }],
     "Volcano": [{ "price": "2.50QD", "world": 1 }],
-    "Magma": [{ "price": "1.65SP", "world": 2 }],
-    "Lunar": [{ "price": "1.15OC", "world": 2 }]
+    "Lunar": [{ "price": "1.15OC", "world": 2 }],
+    "Colosseum": [{ "price": "150NO", "world": 3 }],
+    "Rainbow": [{ "price": "75.50OC", "world": 2 }],
+    "Candy": [{ "price": "100QD", "world": 1 }],
+    "Forest": [{ "price": "1M", "world": 1 }],
+    "Dojo": [{ "price": "75.50T", "world": 1 }],
+    "Cyberpunk": [{ "price": "9.50OC", "world": 2 }],
+    "Holographic": [{ "price": "125SP", "world": 2 }],
+    "Desert": [{ "price": "1B", "world": 1 }],
+    "Celestial": [{ "price": "15SP", "world": 2 }],
+    "Atlantis": [{ "price": "3.50QI", "world": 1 }]
   },
   "mutations": ["Electric", "Void"],
   "tiers": ["Galaxy", "Golden", "Rainbow"],
@@ -490,6 +552,20 @@
         "secrets": []
       }
     ],
+    "Colosseum": [
+      {
+        "pets": {
+          "Roman Bear": 16,
+          "Roman Bunny": 35,
+          "Gladiator": 0.005,
+          "Minotaur": 3,
+          "Caesar": 6,
+          "Roman Mouse": 35
+        },
+        "price": "150NO",
+        "secrets": { "Medusa": 1000000, "Pantheon Titan": 250000 }
+      }
+    ],
     "Elemental": [
       {
         "pets": {
@@ -553,13 +629,29 @@
         "secrets": []
       }
     ],
-    "Tropical": [
+    "Pyramid": [
       {
         "pets": {
-          "Voltgryph": 5,
-          "Sproutling": 45,
-          "Tigerclaw": 35,
-          "Emberagon": 15
+          "Mummy King": 16,
+          "Scarab": 35,
+          "Desert Visonary": 0.005,
+          "Anubis": 2,
+          "Cactus Buddy": 6,
+          "Skeleton": 35,
+          "Pharaoh": 3
+        },
+        "price": "1.50DC",
+        "secrets": { "Prymoridal Pyramid": 1000000, "Sun Guardian": 250000 }
+      }
+    ],
+    "Ancient Rune Egg": [
+      {
+        "pets": {
+          "Ancient Kitty": 28,
+          "Rune Guardian": 15,
+          "Enchanted Overseer": 20,
+          "Ancient Puppy": 30,
+          "Almighty Pharaoh": 0.1
         },
         "price": "0",
         "secrets": []
@@ -572,6 +664,32 @@
           "Ice Crystal Demon": 15,
           "Tundra God": 5,
           "Frozen Yeti": 45
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Ancient": [
+      {
+        "pets": {
+          "Fallen Demon": 0.005,
+          "Fossilized Sphinx": 35,
+          "Ancient Petra": 35,
+          "Rock Golem": 6,
+          "Ancient Griffin": 3,
+          "Ancient Spirit": 16
+        },
+        "price": "15NO",
+        "secrets": []
+      }
+    ],
+    "Volcanic": [
+      {
+        "pets": {
+          "Magmatic Angel": 35,
+          "Magma Wyvern": 15,
+          "Lava God": 5,
+          "Magma Imp": 45
         },
         "price": "0",
         "secrets": []
@@ -598,6 +716,34 @@
         "secrets": []
       }
     ],
+    "Tropical": [
+      {
+        "pets": {
+          "Voltgryph": 5,
+          "Sproutling": 45,
+          "Tigerclaw": 35,
+          "Emberagon": 15
+        },
+        "price": "0",
+        "secrets": []
+      }
+    ],
+    "Magma": [
+      {
+        "pets": {
+          "Bone Cat": 2,
+          "King Emblazed": 0.01,
+          "Ash Dog": 38,
+          "Hydra Magma Empyreus": 0.05,
+          "Magma Empyreus": 0.1,
+          "Bone Bull": 30,
+          "Magmawrath": 12,
+          "Ember Inkling": 18
+        },
+        "price": "5QD",
+        "secrets": { "Magmasaur": 500000 }
+      }
+    ],
     "Infernal": [
       {
         "pets": {
@@ -613,34 +759,61 @@
         "secrets": { "Infernal Seraphim": 1000000, "Infernal Lord": 250000 }
       }
     ],
-    "Volcanic": [
+    "Holy": [
       {
         "pets": {
-          "Magmatic Angel": 35,
-          "Magma Wyvern": 15,
-          "Lava God": 5,
-          "Magma Imp": 45
+          "Halo Chicken": 28,
+          "Archangel": 0.01,
+          "Divine Guard": 0.49,
+          "Holy Squirrel": 35,
+          "Phoenix": 19,
+          "Tri-Phoenix": 14,
+          "Tree Of Life": 3.5
         },
-        "price": "0",
+        "price": "500B",
+        "secrets": { "Weeping Angel": 333333 }
+      }
+    ],
+    "Acorn": [
+      {
+        "pets": {
+          "Hamster": 35,
+          "Sheep": 13,
+          "Owl": 2.5,
+          "Mouse": 25,
+          "Doggy": 7,
+          "Chicken": 20
+        },
+        "price": "2.70K",
         "secrets": []
       }
     ],
-    "Christmas Event": [
+    "Enchanted": [
       {
         "pets": {
-          "Santa Bear": 28,
-          "Rudolph": 20,
-          "Nutcracker": 0.01,
-          "Snowboo": 30,
-          "Festive Owl": 15,
-          "Ornament": 5
+          "Enchanted Monarch": 3,
+          "Charm Owl": 35,
+          "Enchanted Cat": 35,
+          "Dazzled Rhino": 6,
+          "Enchanted Fox": 16
         },
-        "price": "2.50B",
-        "secrets": {
-          "Frost Spirit": 200000,
-          "Gilded Seraphim": 1750000,
-          "Christmas Tree": 500000
-        }
+        "price": "100.00OC",
+        "secrets": []
+      }
+    ],
+    "Cactus": [
+      {
+        "pets": {
+          "Mummy": 30,
+          "Camel": 25,
+          "Serpent God": 0.1,
+          "Dune Dog": 33,
+          "Cactus Raider": 0.5,
+          "Sphinx": 3,
+          "Mummified Wyvern": 8
+        },
+        "price": "450M",
+        "secrets": []
       }
     ],
     "Space": [
@@ -669,20 +842,18 @@
         "secrets": []
       }
     ],
-    "Magma": [
+    "Starry": [
       {
         "pets": {
-          "Bone Cat": 2,
-          "King Emblazed": 0.01,
-          "Ash Dog": 38,
-          "Hydra Magma Empyreus": 0.05,
-          "Magma Empyreus": 0.1,
-          "Bone Bull": 30,
-          "Magmawrath": 12,
-          "Ember Inkling": 18
+          "Nebula Cluster": 0.01,
+          "Starry Antlers": 35,
+          "Cosmic Robot": 4,
+          "Comet Star": 16,
+          "Nebula Star": 0.1,
+          "Star Goob": 35
         },
-        "price": "5QD",
-        "secrets": { "Magmasaur": 500000 }
+        "price": "5SX",
+        "secrets": []
       }
     ],
     "Lunar": [
@@ -699,19 +870,19 @@
         "secrets": { "Starlight Deity": 250000, "Moon Warden": 1000000 }
       }
     ],
-    "Holy": [
+    "Cyberpunk": [
       {
         "pets": {
-          "Halo Chicken": 28,
-          "Archangel": 0.01,
-          "Divine Guard": 0.49,
-          "Holy Squirrel": 35,
-          "Phoenix": 19,
-          "Tri-Phoenix": 14,
-          "Tree Of Life": 3.5
+          "Future Cat": 16,
+          "Operating System": 0.005,
+          "Cyber Deer": 35,
+          "Cyber Bear": 35,
+          "Evil Future Cat": 6,
+          "Mechanical Eye": 3,
+          "Cyber Angel": 2
         },
-        "price": "500B",
-        "secrets": { "Weeping Angel": 333333 }
+        "price": "12.00OC",
+        "secrets": { "Supreme Mech": 1000000, "Neo Prototype": 250000 }
       }
     ],
     "Sakura": [
@@ -760,21 +931,21 @@
         "secrets": []
       }
     ],
-    "5M Event": [
+    "Valentine Event": [
       {
         "pets": {
-          "Festive Cat": 28,
-          "Festive Dog": 30,
-          "Festive Bunny": 20,
-          "Festive Penguin": 15,
-          "Gingerbread Dragon": 0.01,
-          "5M Snowglobe": 5
+          "Valentines Pup": 37,
+          "Lovely Butterfly": 10,
+          "Love Birdie": 20,
+          "Chocolate Strawberry": 0.002,
+          "Valentines Cat": 32,
+          "Cupid": 0.5
         },
-        "price": "1B",
+        "price": "1T",
         "secrets": {
-          "5M Frost Monarch": 1500000,
-          "Frosty Snowman": 150000,
-          "5M North Star": 500000
+          "Snugglehorn": 500000,
+          "Pure Soul": 5000000,
+          "Wicked Rose": 1500000
         }
       }
     ],
@@ -811,48 +982,45 @@
         }
       }
     ],
-    "Cactus": [
+    "Steampunk": [
       {
         "pets": {
-          "Mummy": 30,
-          "Camel": 25,
-          "Serpent God": 0.1,
-          "Dune Dog": 33,
-          "Cactus Raider": 0.5,
-          "Sphinx": 3,
-          "Mummified Wyvern": 8
+          "Steampunk Elkling": 3,
+          "Rusty Greed": 6,
+          "Nightclock Scavenger": 16,
+          "Clockwork Gweble": 35,
+          "Gear Dog": 35
         },
-        "price": "450M",
+        "price": "500OC",
         "secrets": []
       }
     ],
-    "Starry": [
+    "Moonflower": [
       {
         "pets": {
-          "Nebula Cluster": 0.01,
-          "Starry Antlers": 35,
-          "Cosmic Robot": 4,
-          "Comet Star": 16,
-          "Nebula Star": 0.1,
-          "Star Goob": 35
+          "Spaceflower": 35,
+          "Blurple": 16,
+          "Lunar Bloom": 0.1,
+          "Space Jelly": 4,
+          "Alien Mushroom": 35
         },
-        "price": "5SX",
+        "price": "750QI",
         "secrets": []
       }
     ],
-    "Cyberpunk": [
+    "Rainbow": [
       {
         "pets": {
-          "Future Cat": 16,
-          "Operating System": 0.005,
-          "Cyber Deer": 35,
-          "Cyber Bear": 35,
-          "Evil Future Cat": 6,
-          "Mechanical Eye": 3,
-          "Cyber Angel": 2
+          "Rainbow Fiend": 0.005,
+          "Green Bunny": 35,
+          "Purple Dragon": 6,
+          "Spectrum Fracture": 2,
+          "Blue Dino": 16,
+          "Red Bat": 35,
+          "Colorful Unicorn": 3
         },
-        "price": "12.00OC",
-        "secrets": { "Supreme Mech": 1000000, "Neo Prototype": 250000 }
+        "price": "100.00OC",
+        "secrets": { "Rainbow Entity": 500000, "Super Star": 2500000 }
       }
     ],
     "Lucky Event": [
@@ -888,31 +1056,40 @@
         "secrets": { "Grand Ice Wizard": 250000 }
       }
     ],
-    "Moonflower": [
+    "Christmas Event": [
       {
         "pets": {
-          "Spaceflower": 35,
-          "Blurple": 16,
-          "Lunar Bloom": 0.1,
-          "Space Jelly": 4,
-          "Alien Mushroom": 35
+          "Santa Bear": 28,
+          "Rudolph": 20,
+          "Nutcracker": 0.01,
+          "Snowboo": 30,
+          "Festive Owl": 15,
+          "Ornament": 5
         },
-        "price": "750QI",
-        "secrets": []
+        "price": "2.50B",
+        "secrets": {
+          "Frost Spirit": 200000,
+          "Gilded Seraphim": 1750000,
+          "Christmas Tree": 500000
+        }
       }
     ],
-    "Acorn": [
+    "5M Event": [
       {
         "pets": {
-          "Hamster": 35,
-          "Sheep": 13,
-          "Owl": 2.5,
-          "Mouse": 25,
-          "Doggy": 7,
-          "Chicken": 20
+          "Festive Cat": 28,
+          "Festive Dog": 30,
+          "Festive Bunny": 20,
+          "Festive Penguin": 15,
+          "Gingerbread Dragon": 0.01,
+          "5M Snowglobe": 5
         },
-        "price": "2.70K",
-        "secrets": []
+        "price": "1B",
+        "secrets": {
+          "5M Frost Monarch": 1500000,
+          "Frosty Snowman": 150000,
+          "5M North Star": 500000
+        }
       }
     ],
     "Temple": [
