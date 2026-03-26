@@ -1351,6 +1351,7 @@
     "Pet Shard Rhino",
     "Pet Shard Silver",
     "Pet Shard Tranquil",
+    "Pet Shard UFO",
     "Plant Booster",
     "Player Gift",
     "Pollen Radar",
@@ -1501,6 +1502,7 @@
     "Junkshock",
     "Leeched",
     "Lightcycle",
+    "Luck",
     "Luminous",
     "Lush",
     "Maelstrom",
@@ -2035,6 +2037,7 @@
     "Acorn Squash",
     "Aetherfruit",
     "Akebi",
+    "Alien Apple",
     "Aloe Vera",
     "Amazon Feather Fern",
     "Amber Spine",
@@ -2191,6 +2194,7 @@
     "Flare Daisy",
     "Flare Melon",
     "Fossilight",
+    "Four Leaf Clover",
     "Foxglove",
     "Frost Bush",
     "Frost Fern",
@@ -2571,6 +2575,7 @@
       "Hazelnut",
       "Pecan",
       "Poison Apple",
+      "Alien Apple",
       "Ghost Bush",
       "Weeping Branch",
       "Severed Spine",
@@ -2715,6 +2720,7 @@
       "Crimson Thorn",
       "Multitrap",
       "Poison Apple",
+      "Alien Apple",
       "Horned Redrose",
       "Devilroot",
       "Severed Spine",
@@ -3110,6 +3116,7 @@
       "Great Pumpkin",
       "Jack O Lantern",
       "Poison Apple",
+      "Alien Apple",
       "Candy Cornflower",
       "Wereplant",
       "Sugarcane",
@@ -3275,6 +3282,7 @@
       "Persimmon",
       "Chicken Feed",
       "Poison Apple",
+      "Alien Apple",
       "Candy Cornflower",
       "Sugarcane",
       "Buddhas Hand",
@@ -3326,6 +3334,7 @@
       "Mummy's Hand",
       "Devilroot",
       "Trinity Fruit",
+      "Four Leaf Clover",
       "Lumin Bloom",
       "Asteris",
       "Octobloom",
@@ -3497,6 +3506,7 @@
       "Speargrass",
       "Fissure Berry",
       "Poison Apple",
+      "Alien Apple",
       "Blood Orange",
       "Severed Spine",
       "Buddhas Hand",
@@ -3605,6 +3615,7 @@
       "Pecan",
       "Chicken Feed",
       "Poison Apple",
+      "Alien Apple",
       "Jack O Lantern",
       "Blood Orange",
       "Zombie Fruit",
@@ -3669,6 +3680,7 @@
       "Firewell",
       "Corpse Flower",
       "Poison Apple",
+      "Alien Apple",
       "Witch Cap",
       "Zombie Fruit",
       "Mummy's Hand",
@@ -3683,6 +3695,19 @@
     ]
   },
   "petMutationsEnum": [
+    {
+      "Mutation": "Alienated",
+      "MutationEnum": "Z",
+      "MutationData": {
+        "AvaliableFromMutationMachine": false,
+        "ValueMulti": 1,
+        "Color": null,
+        "Chance": 0,
+        "Boosts": [{ "BoostAmount": 0.3, "BoostType": "PASSIVE_BOOST" }],
+        "EnumId": "Z",
+        "Passives": ["Alienated Pet Mutation"]
+      }
+    },
     {
       "Mutation": "Aromatic",
       "MutationEnum": "r",
@@ -4261,6 +4286,19 @@
         "Boosts": [],
         "EnumId": "o",
         "Passives": ["Tranquil Pet Mutation"]
+      }
+    },
+    {
+      "Mutation": "UFO",
+      "MutationEnum": "Y",
+      "MutationData": {
+        "AvaliableFromMutationMachine": false,
+        "ValueMulti": 100,
+        "Color": null,
+        "Chance": 0,
+        "Boosts": [{ "BoostAmount": 0.3, "BoostType": "PASSIVE_BOOST" }],
+        "EnumId": "Y",
+        "Passives": ["UFO Pet Mutation"]
       }
     },
     {
@@ -11412,6 +11450,7 @@
     "Rainbow Exotic Summer Seed Pack"
   ],
   "petMutations": [
+    "Alienated",
     "Aromatic",
     "Ascended",
     "Aurora",
@@ -11456,6 +11495,7 @@
     "Tethered",
     "Tiny",
     "Tranquil",
+    "UFO",
     "Venom",
     "Windy"
   ],
