@@ -13904,10 +13904,10 @@
       "displayName": "Ambercomb Seed",
       "displayDescription": "",
       "displayIcon": 80958619013845,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 449,
       "IsForSale": true,
       "Created": "2026-05-01T01:46:20.297Z",
-      "Updated": "2026-05-02T05:14:47.482Z",
+      "Updated": "2026-05-02T06:46:43.525Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13927,7 +13927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 449,
       "PriceDiscountDetails": []
     },
     {
@@ -13939,10 +13939,10 @@
       "displayName": "Coneflower Seed",
       "displayDescription": "",
       "displayIcon": 73417145389456,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 799,
       "IsForSale": true,
       "Created": "2026-05-01T01:47:11.758Z",
-      "Updated": "2026-05-02T05:15:07.119Z",
+      "Updated": "2026-05-02T06:46:25.072Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13962,7 +13962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 799,
       "PriceDiscountDetails": []
     },
     {
@@ -13974,10 +13974,10 @@
       "displayName": "Birds of Paradise Seed",
       "displayDescription": "",
       "displayIcon": 74075712857737,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1099,
       "IsForSale": true,
       "Created": "2026-05-01T01:49:31.002Z",
-      "Updated": "2026-05-02T05:15:24.54Z",
+      "Updated": "2026-05-02T06:46:07.534Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13997,7 +13997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1099,
       "PriceDiscountDetails": []
     },
     {
@@ -41372,6 +41372,6 @@
     }
   ],
   "totalPages": 3,
-  "lastFetched": "2026-05-02T05:41:44.123Z",
+  "lastFetched": "2026-05-02T06:47:04.862Z",
   "totalProducts": 1182
 }
