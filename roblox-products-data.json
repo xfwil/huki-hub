@@ -27939,10 +27939,10 @@
       "displayName": "Pollenvine Seed",
       "displayDescription": "",
       "displayIcon": 106733335863758,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1599,
       "IsForSale": true,
       "Created": "2026-05-01T01:50:01.077Z",
-      "Updated": "2026-05-02T05:15:45.724Z",
+      "Updated": "2026-05-02T05:18:27.031Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27962,7 +27962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1599,
       "PriceDiscountDetails": []
     },
     {
@@ -27974,10 +27974,10 @@
       "displayName": "Pollen Radar 2026",
       "displayDescription": "",
       "displayIcon": 115723119381755,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 249,
       "IsForSale": true,
       "Created": "2026-05-01T03:25:53.932Z",
-      "Updated": "2026-05-01T03:40:02.134Z",
+      "Updated": "2026-05-02T05:17:43.212Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27997,7 +27997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 249,
       "PriceDiscountDetails": []
     },
     {
@@ -41344,10 +41344,10 @@
       "displayName": "[GIFT] Pollenvine Seed",
       "displayDescription": "",
       "displayIcon": 89661553791333,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1599,
       "IsForSale": true,
       "Created": "2026-05-01T02:52:55.691Z",
-      "Updated": "2026-05-02T05:16:01.47Z",
+      "Updated": "2026-05-02T05:18:42.681Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41367,11 +41367,11 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1599,
       "PriceDiscountDetails": []
     }
   ],
   "totalPages": 3,
-  "lastFetched": "2026-05-02T05:17:03.976Z",
+  "lastFetched": "2026-05-02T05:19:10.148Z",
   "totalProducts": 1182
 }
