@@ -27793,16 +27793,16 @@
     {
       "ProductId": 3584072658,
       "DeveloperProductId": 74737157,
-      "Name": "Honey Daisy",
+      "Name": "Honey Daisy Seed",
       "Description": "",
       "IconImageAssetId": 71429915628286,
-      "displayName": "Honey Daisy",
+      "displayName": "Honey Daisy Seed",
       "displayDescription": "",
       "displayIcon": 71429915628286,
       "PriceInRobux": 99999,
       "IsForSale": true,
       "Created": "2026-05-01T01:43:04.791Z",
-      "Updated": "2026-05-01T01:43:04.791Z",
+      "Updated": "2026-05-02T05:12:42.602Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27814,7 +27814,7 @@
       },
       "TargetId": 74737157,
       "DisplayIconImageAssetId": 71429915628286,
-      "DisplayName": "Honey Daisy",
+      "DisplayName": "Honey Daisy Seed",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -41372,6 +41372,6 @@
     }
   ],
   "totalPages": 3,
-  "lastFetched": "2026-05-02T04:25:51.868Z",
+  "lastFetched": "2026-05-02T05:12:51.951Z",
   "totalProducts": 1182
 }
