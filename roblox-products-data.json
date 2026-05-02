@@ -27764,10 +27764,10 @@
       "displayName": "Restock Bee Egg Shop",
       "displayDescription": "",
       "displayIcon": 97596156526300,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 79,
       "IsForSale": true,
       "Created": "2026-04-28T21:45:40.64Z",
-      "Updated": "2026-05-02T04:22:33.904Z",
+      "Updated": "2026-05-02T05:36:37.917Z",
       "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27787,7 +27787,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 79,
       "PriceDiscountDetails": []
     },
     {
@@ -41372,6 +41372,6 @@
     }
   ],
   "totalPages": 3,
-  "lastFetched": "2026-05-02T05:19:10.148Z",
+  "lastFetched": "2026-05-02T05:37:35.819Z",
   "totalProducts": 1182
 }
