@@ -27799,10 +27799,10 @@
       "displayName": "Honey Daisy Seed",
       "displayDescription": "",
       "displayIcon": 71429915628286,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 59,
       "IsForSale": true,
       "Created": "2026-05-01T01:43:04.791Z",
-      "Updated": "2026-05-02T05:12:42.602Z",
+      "Updated": "2026-05-02T06:47:26.744Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27822,7 +27822,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 59,
       "PriceDiscountDetails": []
     },
     {
@@ -27834,10 +27834,10 @@
       "displayName": "Honey Dew Seed",
       "displayDescription": "",
       "displayIcon": 112648107922808,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 189,
       "IsForSale": true,
       "Created": "2026-05-01T01:45:48.756Z",
-      "Updated": "2026-05-02T05:13:58.359Z",
+      "Updated": "2026-05-02T06:47:09.031Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27857,7 +27857,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 189,
       "PriceDiscountDetails": []
     },
     {
@@ -27904,10 +27904,10 @@
       "displayName": "Professor Bee",
       "displayDescription": "",
       "displayIcon": 119897254283444,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 529,
       "IsForSale": true,
       "Created": "2026-05-01T01:48:52.941Z",
-      "Updated": "2026-05-01T01:48:52.941Z",
+      "Updated": "2026-05-02T06:47:42.397Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27927,7 +27927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 529,
       "PriceDiscountDetails": []
     },
     {
@@ -41372,6 +41372,6 @@
     }
   ],
   "totalPages": 3,
-  "lastFetched": "2026-05-02T06:47:04.862Z",
+  "lastFetched": "2026-05-02T06:49:11.155Z",
   "totalProducts": 1182
 }
