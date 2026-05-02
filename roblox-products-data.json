@@ -27733,7 +27733,7 @@
       "IsForSale": true,
       "Created": "2026-04-28T04:51:01.778Z",
       "Updated": "2026-04-28T04:51:28.282Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -27760,15 +27760,15 @@
       "DeveloperProductId": 74702898,
       "Name": "Restock Bee Egg Shop",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 97596156526300,
       "displayName": "Restock Bee Egg Shop",
       "displayDescription": "",
-      "displayIcon": null,
+      "displayIcon": 97596156526300,
       "PriceInRobux": 99999,
       "IsForSale": true,
       "Created": "2026-04-28T21:45:40.64Z",
-      "Updated": "2026-04-28T21:45:40.64Z",
-      "IsNew": true,
+      "Updated": "2026-05-02T04:22:33.904Z",
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -27778,7 +27778,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 74702898,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 97596156526300,
       "DisplayName": "Restock Bee Egg Shop",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -41372,6 +41372,6 @@
     }
   ],
   "totalPages": 3,
-  "lastFetched": "2026-05-01T04:26:36.536Z",
+  "lastFetched": "2026-05-02T04:23:45.633Z",
   "totalProducts": 1182
 }
