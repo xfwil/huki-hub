@@ -26924,10 +26924,10 @@
       "displayName": "Honey Strawberry Seed",
       "displayDescription": "",
       "displayIcon": 139075557462696,
-      "PriceInRobux": 50,
+      "PriceInRobux": 21,
       "IsForSale": true,
       "Created": "2026-05-05T20:34:18.962Z",
-      "Updated": "2026-05-07T21:26:07.639Z",
+      "Updated": "2026-05-07T21:26:53.024Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -26947,7 +26947,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 50,
+      "UserBasePriceInRobux": 21,
       "PriceDiscountDetails": []
     },
     {
@@ -26959,10 +26959,10 @@
       "displayName": "Honey Blueberry Seed",
       "displayDescription": "",
       "displayIcon": 120748562026210,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 49,
       "IsForSale": true,
       "Created": "2026-05-05T20:34:47.909Z",
-      "Updated": "2026-05-07T21:19:10.506Z",
+      "Updated": "2026-05-07T21:26:34.321Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -26982,7 +26982,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 49,
       "PriceDiscountDetails": []
     },
     {
@@ -26994,10 +26994,10 @@
       "displayName": "Honey Buttercup Seed",
       "displayDescription": "",
       "displayIcon": 71236102716244,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 14,
       "IsForSale": true,
       "Created": "2026-05-05T20:35:14.241Z",
-      "Updated": "2026-05-07T21:19:30.388Z",
+      "Updated": "2026-05-07T21:28:11.09Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27017,7 +27017,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 14,
       "PriceDiscountDetails": []
     },
     {
@@ -42597,6 +42597,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-07T21:26:16.923Z",
+  "lastFetched": "2026-05-07T21:28:23.135Z",
   "totalProducts": 1217
 }
