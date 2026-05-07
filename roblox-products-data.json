@@ -27904,10 +27904,10 @@
       "displayName": "Honey Octobloom Seed",
       "displayDescription": "",
       "displayIcon": 132098728918900,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1487,
       "IsForSale": true,
       "Created": "2026-05-05T20:55:46.895Z",
-      "Updated": "2026-05-07T21:12:24.395Z",
+      "Updated": "2026-05-07T21:47:18.574Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27927,7 +27927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1487,
       "PriceDiscountDetails": []
     },
     {
@@ -27939,10 +27939,10 @@
       "displayName": "Honey Alien Apple Seed",
       "displayDescription": "",
       "displayIcon": 87894983656133,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1700,
       "IsForSale": true,
       "Created": "2026-05-05T20:55:59.601Z",
-      "Updated": "2026-05-07T21:12:09.173Z",
+      "Updated": "2026-05-07T21:47:29.729Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27962,7 +27962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1700,
       "PriceDiscountDetails": []
     },
     {
@@ -27974,10 +27974,10 @@
       "displayName": "Honey Pollenvine Seed ",
       "displayDescription": "",
       "displayIcon": 119600967891990,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1599,
       "IsForSale": true,
       "Created": "2026-05-06T00:08:45.265Z",
-      "Updated": "2026-05-07T20:33:08.621Z",
+      "Updated": "2026-05-07T21:48:54.489Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27997,7 +27997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1599,
       "PriceDiscountDetails": []
     },
     {
@@ -42597,6 +42597,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-07T21:47:12.997Z",
+  "lastFetched": "2026-05-07T21:49:19.317Z",
   "totalProducts": 1217
 }
