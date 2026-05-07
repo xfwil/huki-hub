@@ -26889,10 +26889,10 @@
       "displayName": "Honey Carrot Seed",
       "displayDescription": "",
       "displayIcon": 128266817014831,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 7,
       "IsForSale": true,
       "Created": "2026-05-05T20:33:00.184Z",
-      "Updated": "2026-05-07T21:18:29.194Z",
+      "Updated": "2026-05-07T21:25:49.612Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -26912,7 +26912,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 7,
       "PriceDiscountDetails": []
     },
     {
@@ -26924,10 +26924,10 @@
       "displayName": "Honey Strawberry Seed",
       "displayDescription": "",
       "displayIcon": 139075557462696,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 50,
       "IsForSale": true,
       "Created": "2026-05-05T20:34:18.962Z",
-      "Updated": "2026-05-07T21:18:51.006Z",
+      "Updated": "2026-05-07T21:26:07.639Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -26947,7 +26947,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 50,
       "PriceDiscountDetails": []
     },
     {
@@ -42597,6 +42597,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-07T21:20:05.110Z",
+  "lastFetched": "2026-05-07T21:26:16.923Z",
   "totalProducts": 1217
 }
