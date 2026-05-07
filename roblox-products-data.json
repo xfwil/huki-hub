@@ -27375,14 +27375,14 @@
       "DeveloperProductId": 74828686,
       "Name": "Honey Mango Seed",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 88308978033507,
       "displayName": "Honey Mango Seed",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 88308978033507,
+      "PriceInRobux": 580,
       "IsForSale": true,
       "Created": "2026-05-05T20:49:08.473Z",
-      "Updated": "2026-05-05T20:49:08.473Z",
+      "Updated": "2026-05-07T21:40:25.15Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27393,7 +27393,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 74828686,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 88308978033507,
       "DisplayName": "Honey Mango Seed",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -27402,7 +27402,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 580,
       "PriceDiscountDetails": []
     },
     {
@@ -42597,6 +42597,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-07T21:38:47.272Z",
+  "lastFetched": "2026-05-07T21:40:53.607Z",
   "totalProducts": 1217
 }
