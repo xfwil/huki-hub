@@ -27970,14 +27970,14 @@
       "DeveloperProductId": 74830888,
       "Name": "Honey Pollenvine Seed ",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 119600967891990,
       "displayName": "Honey Pollenvine Seed ",
       "displayDescription": "",
-      "displayIcon": null,
+      "displayIcon": 119600967891990,
       "PriceInRobux": 99999,
       "IsForSale": true,
       "Created": "2026-05-06T00:08:45.265Z",
-      "Updated": "2026-05-06T00:08:45.265Z",
+      "Updated": "2026-05-07T20:33:08.621Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27988,7 +27988,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 74830888,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 119600967891990,
       "DisplayName": "Honey Pollenvine Seed ",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -42597,6 +42597,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-07T16:30:46.066Z",
+  "lastFetched": "2026-05-07T20:34:52.560Z",
   "totalProducts": 1217
 }
