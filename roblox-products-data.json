@@ -27305,14 +27305,14 @@
       "DeveloperProductId": 74828669,
       "Name": "Honey Cactus Seed",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 119727432151771,
       "displayName": "Honey Cactus Seed",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 119727432151771,
+      "PriceInRobux": 497,
       "IsForSale": true,
       "Created": "2026-05-05T20:48:27.178Z",
-      "Updated": "2026-05-05T20:48:27.178Z",
+      "Updated": "2026-05-07T21:38:07.75Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27323,7 +27323,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 74828669,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 119727432151771,
       "DisplayName": "Honey Cactus Seed",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -27332,7 +27332,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 497,
       "PriceDiscountDetails": []
     },
     {
@@ -27340,14 +27340,14 @@
       "DeveloperProductId": 74828681,
       "Name": "Honey Dragon Fruit Seed",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 85243030505572,
       "displayName": "Honey Dragon Fruit Seed",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 85243030505572,
+      "PriceInRobux": 597,
       "IsForSale": true,
       "Created": "2026-05-05T20:48:52.184Z",
-      "Updated": "2026-05-05T20:48:52.184Z",
+      "Updated": "2026-05-07T21:38:41.681Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27358,7 +27358,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 74828681,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 85243030505572,
       "DisplayName": "Honey Dragon Fruit Seed",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -27367,7 +27367,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 597,
       "PriceDiscountDetails": []
     },
     {
@@ -42597,6 +42597,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-07T21:32:35.779Z",
+  "lastFetched": "2026-05-07T21:38:47.272Z",
   "totalProducts": 1217
 }
