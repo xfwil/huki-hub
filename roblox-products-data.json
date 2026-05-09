@@ -27933,16 +27933,16 @@
     {
       "ProductId": 3588739135,
       "DeveloperProductId": 74877472,
-      "Name": "Hive Seed Pack",
+      "Name": "Honey Hive Seed Pack",
       "Description": "",
       "IconImageAssetId": 138786480134643,
-      "displayName": "Hive Seed Pack",
+      "displayName": "Honey Hive Seed Pack",
       "displayDescription": "",
       "displayIcon": 138786480134643,
       "PriceInRobux": 199,
       "IsForSale": true,
       "Created": "2026-05-08T20:07:14.983Z",
-      "Updated": "2026-05-08T20:07:14.983Z",
+      "Updated": "2026-05-09T05:26:03.243Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27954,7 +27954,7 @@
       },
       "TargetId": 74877472,
       "DisplayIconImageAssetId": 138786480134643,
-      "DisplayName": "Hive Seed Pack",
+      "DisplayName": "Honey Hive Seed Pack",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -42947,6 +42947,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-09T04:28:35.540Z",
+  "lastFetched": "2026-05-09T05:27:59.749Z",
   "totalProducts": 1227
 }
