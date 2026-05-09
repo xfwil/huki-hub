@@ -41589,10 +41589,10 @@
       "displayName": "Skip Honey Compression Time",
       "displayDescription": "",
       "displayIcon": 128686102276944,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 35,
       "IsForSale": true,
       "Created": "2026-04-24T23:22:00.919Z",
-      "Updated": "2026-05-02T04:25:44.731Z",
+      "Updated": "2026-05-09T04:11:35.287Z",
       "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41612,7 +41612,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 35,
       "PriceDiscountDetails": []
     },
     {
@@ -42947,6 +42947,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-09T03:47:28.149Z",
+  "lastFetched": "2026-05-09T04:12:08.944Z",
   "totalProducts": 1227
 }
