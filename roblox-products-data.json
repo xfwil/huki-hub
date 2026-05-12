@@ -27943,7 +27943,7 @@
       "IsForSale": true,
       "Created": "2026-05-08T20:07:14.983Z",
       "Updated": "2026-05-09T05:26:03.243Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -27978,7 +27978,7 @@
       "IsForSale": true,
       "Created": "2026-05-08T20:33:29.186Z",
       "Updated": "2026-05-08T20:33:29.186Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -31183,41 +31183,6 @@
       "AssetId": 0,
       "AssetTypeId": 0,
       "UserBasePriceInRobux": 139,
-      "PriceDiscountDetails": []
-    },
-    {
-      "ProductId": 3309685958,
-      "DeveloperProductId": 68305149,
-      "Name": "[GIFT] Reclaimer",
-      "Description": "",
-      "IconImageAssetId": 99414912001788,
-      "displayName": "[GIFT] Reclaimer",
-      "displayDescription": "",
-      "displayIcon": 99414912001788,
-      "PriceInRobux": 199,
-      "IsForSale": true,
-      "Created": "2025-06-16T22:58:51.237Z",
-      "Updated": "2025-06-18T21:04:51.137Z",
-      "IsNew": false,
-      "UniverseId": 7436755782,
-      "ProductType": "Developer Product",
-      "Creator": {
-        "Id": 0,
-        "Name": null,
-        "CreatorType": null,
-        "CreatorTargetId": 0
-      },
-      "TargetId": 68305149,
-      "DisplayIconImageAssetId": 99414912001788,
-      "DisplayName": "[GIFT] Reclaimer",
-      "DisplayDescription": "",
-      "IsPublicDomain": false,
-      "IsLimited": false,
-      "MinimumMembershipLevel": 0,
-      "IsLimitedUnique": false,
-      "AssetId": 0,
-      "AssetTypeId": 0,
-      "UserBasePriceInRobux": 199,
       "PriceDiscountDetails": []
     },
     {
@@ -41943,7 +41908,7 @@
       "IsForSale": true,
       "Created": "2026-05-09T09:31:27.269Z",
       "Updated": "2026-05-09T09:31:27.269Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41978,7 +41943,7 @@
       "IsForSale": true,
       "Created": "2026-05-09T09:31:41.156Z",
       "Updated": "2026-05-09T09:31:41.156Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41998,6 +41963,41 @@
       "AssetId": 0,
       "AssetTypeId": 0,
       "UserBasePriceInRobux": 299,
+      "PriceDiscountDetails": []
+    },
+    {
+      "ProductId": 3591384476,
+      "DeveloperProductId": 75334331,
+      "Name": "Skip Jelly Crafting",
+      "Description": "",
+      "IconImageAssetId": 0,
+      "displayName": "Skip Jelly Crafting",
+      "displayDescription": "",
+      "displayIcon": null,
+      "PriceInRobux": 79,
+      "IsForSale": true,
+      "Created": "2026-05-12T22:32:08.172Z",
+      "Updated": "2026-05-12T22:32:08.172Z",
+      "IsNew": true,
+      "UniverseId": 7436755782,
+      "ProductType": "Developer Product",
+      "Creator": {
+        "Id": 0,
+        "Name": null,
+        "CreatorType": null,
+        "CreatorTargetId": 0
+      },
+      "TargetId": 75334331,
+      "DisplayIconImageAssetId": 0,
+      "DisplayName": "Skip Jelly Crafting",
+      "DisplayDescription": "",
+      "IsPublicDomain": false,
+      "IsLimited": false,
+      "MinimumMembershipLevel": 0,
+      "IsLimitedUnique": false,
+      "AssetId": 0,
+      "AssetTypeId": 0,
+      "UserBasePriceInRobux": 79,
       "PriceDiscountDetails": []
     },
     {
@@ -42383,6 +42383,41 @@
       "AssetId": 0,
       "AssetTypeId": 0,
       "UserBasePriceInRobux": 819,
+      "PriceDiscountDetails": []
+    },
+    {
+      "ProductId": 3309685958,
+      "DeveloperProductId": 68305149,
+      "Name": "[GIFT] Reclaimer",
+      "Description": "",
+      "IconImageAssetId": 99414912001788,
+      "displayName": "[GIFT] Reclaimer",
+      "displayDescription": "",
+      "displayIcon": 99414912001788,
+      "PriceInRobux": 199,
+      "IsForSale": true,
+      "Created": "2025-06-16T22:58:51.237Z",
+      "Updated": "2025-06-18T21:04:51.137Z",
+      "IsNew": false,
+      "UniverseId": 7436755782,
+      "ProductType": "Developer Product",
+      "Creator": {
+        "Id": 0,
+        "Name": null,
+        "CreatorType": null,
+        "CreatorTargetId": 0
+      },
+      "TargetId": 68305149,
+      "DisplayIconImageAssetId": 99414912001788,
+      "DisplayName": "[GIFT] Reclaimer",
+      "DisplayDescription": "",
+      "IsPublicDomain": false,
+      "IsLimited": false,
+      "MinimumMembershipLevel": 0,
+      "IsLimitedUnique": false,
+      "AssetId": 0,
+      "AssetTypeId": 0,
+      "UserBasePriceInRobux": 199,
       "PriceDiscountDetails": []
     },
     {
@@ -43017,6 +43052,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-11T14:34:10.585Z",
-  "totalProducts": 1229
+  "lastFetched": "2026-05-12T22:32:36.201Z",
+  "totalProducts": 1230
 }
