@@ -27900,14 +27900,14 @@
       "DeveloperProductId": 75396462,
       "Name": "Pet Shard Royal Jelly",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 78368835052997,
       "displayName": "Pet Shard Royal Jelly",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 78368835052997,
+      "PriceInRobux": 399,
       "IsForSale": true,
       "Created": "2026-05-16T02:39:00.049Z",
-      "Updated": "2026-05-16T02:39:00.049Z",
+      "Updated": "2026-05-16T06:59:56.528Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27918,7 +27918,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75396462,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 78368835052997,
       "DisplayName": "Pet Shard Royal Jelly",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -27927,7 +27927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 399,
       "PriceDiscountDetails": []
     },
     {
@@ -27939,10 +27939,10 @@
       "displayName": "Royal Jelly Fountain",
       "displayDescription": "",
       "displayIcon": 123833899978645,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 279,
       "IsForSale": true,
       "Created": "2026-05-16T02:39:27.251Z",
-      "Updated": "2026-05-16T02:39:27.251Z",
+      "Updated": "2026-05-16T07:00:15.948Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27962,7 +27962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 279,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T06:59:55.978Z",
+  "lastFetched": "2026-05-16T07:02:02.508Z",
   "totalProducts": 1242
 }
