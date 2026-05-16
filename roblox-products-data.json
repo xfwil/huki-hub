@@ -27834,10 +27834,10 @@
       "displayName": "Pohutukawa Seed",
       "displayDescription": "",
       "displayIcon": 116476412485387,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1599,
       "IsForSale": true,
       "Created": "2026-05-16T02:37:32.112Z",
-      "Updated": "2026-05-16T02:37:32.112Z",
+      "Updated": "2026-05-16T07:10:08.534Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27857,7 +27857,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1599,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T07:02:02.508Z",
+  "lastFetched": "2026-05-16T07:10:17.272Z",
   "totalProducts": 1242
 }
