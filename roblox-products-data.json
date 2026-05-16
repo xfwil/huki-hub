@@ -27729,10 +27729,10 @@
       "displayName": "Honey Honey Hollow Seed",
       "displayDescription": "",
       "displayIcon": 83563737358616,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 1299,
       "IsForSale": true,
       "Created": "2026-05-16T02:33:30.088Z",
-      "Updated": "2026-05-16T02:33:30.088Z",
+      "Updated": "2026-05-16T06:57:29.905Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27752,7 +27752,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 1299,
       "PriceDiscountDetails": []
     },
     {
@@ -27974,10 +27974,10 @@
       "displayName": "Honey Badger",
       "displayDescription": "",
       "displayIcon": 80247078771042,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 429,
       "IsForSale": true,
       "Created": "2026-05-16T04:43:39.035Z",
-      "Updated": "2026-05-16T04:43:39.035Z",
+      "Updated": "2026-05-16T06:57:39.559Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27997,7 +27997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 429,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T06:14:48.331Z",
+  "lastFetched": "2026-05-16T06:57:49.712Z",
   "totalProducts": 1242
 }
