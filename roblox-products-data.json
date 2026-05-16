@@ -27799,10 +27799,10 @@
       "displayName": "Pollen Puffball Seed",
       "displayDescription": "",
       "displayIcon": 92935299253102,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 169,
       "IsForSale": true,
       "Created": "2026-05-16T02:36:20.874Z",
-      "Updated": "2026-05-16T02:36:20.874Z",
+      "Updated": "2026-05-16T07:12:36.944Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27822,7 +27822,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 169,
       "PriceDiscountDetails": []
     },
     {
@@ -27904,10 +27904,10 @@
       "displayName": "Pet Shard Royal Jelly",
       "displayDescription": "",
       "displayIcon": 78368835052997,
-      "PriceInRobux": 399,
+      "PriceInRobux": 499,
       "IsForSale": true,
       "Created": "2026-05-16T02:39:00.049Z",
-      "Updated": "2026-05-16T06:59:56.528Z",
+      "Updated": "2026-05-16T07:13:52.208Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27927,7 +27927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 399,
+      "UserBasePriceInRobux": 499,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T07:12:23.581Z",
+  "lastFetched": "2026-05-16T07:14:29.802Z",
   "totalProducts": 1242
 }
