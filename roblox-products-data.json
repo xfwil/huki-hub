@@ -27764,10 +27764,10 @@
       "displayName": "Grape Droplet Seed",
       "displayDescription": "",
       "displayIcon": 134296681670470,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 399,
       "IsForSale": true,
       "Created": "2026-05-16T02:35:39.639Z",
-      "Updated": "2026-05-16T02:35:39.639Z",
+      "Updated": "2026-05-16T07:12:06.152Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27787,7 +27787,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 399,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T07:10:17.272Z",
+  "lastFetched": "2026-05-16T07:12:23.581Z",
   "totalProducts": 1242
 }
