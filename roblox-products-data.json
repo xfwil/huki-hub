@@ -13974,10 +13974,10 @@
       "displayName": "Carpenter Bee",
       "displayDescription": "",
       "displayIcon": 81373326980954,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 399,
       "IsForSale": true,
       "Created": "2026-05-16T02:38:01.13Z",
-      "Updated": "2026-05-16T02:38:01.13Z",
+      "Updated": "2026-05-16T06:58:13.729Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13997,7 +13997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 399,
       "PriceDiscountDetails": []
     },
     {
@@ -27869,10 +27869,10 @@
       "displayName": "King Bee",
       "displayDescription": "",
       "displayIcon": 139590051340980,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 819,
       "IsForSale": true,
       "Created": "2026-05-16T02:38:36.998Z",
-      "Updated": "2026-05-16T02:38:36.998Z",
+      "Updated": "2026-05-16T06:58:03.035Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27892,7 +27892,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 819,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T06:57:49.712Z",
+  "lastFetched": "2026-05-16T06:59:55.978Z",
   "totalProducts": 1242
 }
