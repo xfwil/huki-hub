@@ -41900,14 +41900,14 @@
       "DeveloperProductId": 75347867,
       "Name": "Skip Queen Quests",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 80907701885007,
       "displayName": "Skip Queen Quests",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 80907701885007,
+      "PriceInRobux": 89,
       "IsForSale": true,
       "Created": "2026-05-13T19:56:39.827Z",
-      "Updated": "2026-05-13T19:56:39.827Z",
+      "Updated": "2026-05-16T07:37:48.831Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41918,7 +41918,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75347867,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 80907701885007,
       "DisplayName": "Skip Queen Quests",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -41927,7 +41927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 89,
       "PriceDiscountDetails": []
     },
     {
@@ -43472,6 +43472,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T07:14:29.802Z",
+  "lastFetched": "2026-05-16T07:39:07.702Z",
   "totalProducts": 1242
 }
