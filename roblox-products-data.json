@@ -41933,16 +41933,16 @@
     {
       "ProductId": 3591384476,
       "DeveloperProductId": 75334331,
-      "Name": "Skip Jelly Crafting",
+      "Name": "Skip Royal Jelly Incubator [Common-Uncommon]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Skip Jelly Crafting",
+      "IconImageAssetId": 81638074830023,
+      "displayName": "Skip Royal Jelly Incubator [Common-Uncommon]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 79,
+      "displayIcon": 81638074830023,
+      "PriceInRobux": 29,
       "IsForSale": true,
       "Created": "2026-05-12T22:32:08.172Z",
-      "Updated": "2026-05-12T22:32:08.172Z",
+      "Updated": "2026-05-16T06:12:28.714Z",
       "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41953,8 +41953,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75334331,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Skip Jelly Crafting",
+      "DisplayIconImageAssetId": 81638074830023,
+      "DisplayName": "Skip Royal Jelly Incubator [Common-Uncommon]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -41962,7 +41962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 79,
+      "UserBasePriceInRobux": 29,
       "PriceDiscountDetails": []
     },
     {
@@ -43402,6 +43402,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-16T04:44:44.851Z",
+  "lastFetched": "2026-05-16T06:12:42.086Z",
   "totalProducts": 1240
 }
