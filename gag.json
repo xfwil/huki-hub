@@ -17,6 +17,22 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
+    "Transcendent Bee Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Necromancer Bee",
+        "Chrono Bee",
+        "Chaos Bee",
+        "Overlord Bee",
+        "Genesis Bee"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
     "Premium Primal Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
