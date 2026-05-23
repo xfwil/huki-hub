@@ -13974,10 +13974,10 @@
       "displayName": "Black Spotty Egg",
       "displayDescription": "",
       "displayIcon": 77691643560274,
-      "PriceInRobux": 999999,
+      "PriceInRobux": 829,
       "IsForSale": true,
       "Created": "2026-05-22T00:36:21.072Z",
-      "Updated": "2026-05-22T00:36:21.072Z",
+      "Updated": "2026-05-23T04:58:44.678Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13997,7 +13997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999,
+      "UserBasePriceInRobux": 829,
       "PriceDiscountDetails": []
     },
     {
@@ -27974,10 +27974,10 @@
       "displayName": "Pinkfruit Palm Seed",
       "displayDescription": "",
       "displayIcon": 106215397757021,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 819,
       "IsForSale": true,
       "Created": "2026-05-22T02:14:08.455Z",
-      "Updated": "2026-05-22T02:14:08.455Z",
+      "Updated": "2026-05-23T04:58:57.92Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27997,7 +27997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 819,
       "PriceDiscountDetails": []
     },
     {
@@ -43647,6 +43647,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-22T07:40:47.724Z",
+  "lastFetched": "2026-05-23T04:59:15.282Z",
   "totalProducts": 1247
 }
