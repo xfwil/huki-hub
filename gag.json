@@ -1,76 +1,5 @@
 {
   "eggsWithPets": {
-    "Premium Fall Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Robin",
-        "Badger",
-        "Grizzly Bear",
-        "Barn Owl",
-        "Swan",
-        "Egg/GIANT Premium Fall Egg"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Transcendent Bee Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Necromancer Bee",
-        "Chrono Bee",
-        "Chaos Bee",
-        "Overlord Bee",
-        "Genesis Bee"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Primal Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Parasaurolophus",
-        "Iguanodon",
-        "Pachycephalosaurus",
-        "Dilophosaurus",
-        "Ankylosaurus",
-        "Egg/Rainbow Premium Primal Egg",
-        "Spinosaurus"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Sprout Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Dairy Cow", "Jackalope", "Seedling", "Golem", "Golden Goose"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Legendary Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Silver Monkey", "Cow", "Sea Otter", "Polar Bear", "Turtle"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
     "Common Summer Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
@@ -151,16 +80,705 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Primal Egg": {
+    "Premium Golden Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Parasaurolophus",
-        "Iguanodon",
+        "Chocolate Bunny",
+        "Easter Egg Chick",
+        "Marshmallow Lamb",
+        "Egg/Gilded Choc Premium Golden Egg",
+        "Easter Bunny"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Fake Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Kiwi",
+        "New Year's Chimp",
+        "Scarlet Macaw",
+        "Angora Goat",
+        "Rainbow Fortune Squirrel",
+        "Ghostly Bone Dog",
+        "Phoenix",
+        "Ghostly Scarab",
+        "Mummy",
+        "Ghostly Dark Spriggan",
+        "Rainbow Idol Chipmunk",
+        "Brown Owl",
+        "German Shepherd",
+        "Blue Whale",
+        "Unicycle Monkey",
+        "Performer Seal",
+        "Brown Mouse",
+        "White Tiger",
+        "Wind Wyvern",
+        "Ruby Squid",
+        "Summer Kiwi",
+        "Tanchozuru",
+        "Orange Tabby",
+        "Bear on Bike",
+        "Spaghetti Sloth",
+        "Mizuchi",
+        "Festive Turtle Dove",
+        "Rainbow Zebra",
+        "Smithing Dog",
+        "Rainbow Dilophosaurus",
+        "Krampus",
+        "Kodama",
+        "Cocoa Cat",
+        "T-Rex",
+        "Reindeer",
+        "Silver Piggy",
+        "Wendigo",
+        "Gold Finch",
+        "GIANT Snowman Builder",
+        "Partridge",
+        "Woodpecker",
+        "Tiger",
+        "Festive Yeti",
+        "Festive Nutcracker",
+        "Capybara",
+        "Dairy Cow",
+        "Pine Beetle",
+        "Yeti",
+        "Lemon Lion",
+        "Junkbot",
+        "Rainbow Cardinal",
+        "Sapphire Macaw",
+        "Diamond Panther",
+        "Hedgehog",
+        "Rainbow Oxpecker",
+        "Gilded Choc Easter Egg Chick",
+        "Pack Bee",
+        "Axolotl",
+        "Football",
+        "Giant Ant",
+        "Rainbow Moss Wyvern",
+        "Hootsie Roll",
+        "Chicken Zombie",
+        "Rainbow Hydra",
+        "Raptor",
+        "Water Buffalo",
+        "Beaver",
+        "Gilded Choc Easter Bunny",
+        "Oxpecker",
+        "GIANT Snowman Soldier",
+        "Rainbow Shroomie",
+        "Gilded Choc Gummy Bear",
+        "Headless Horseman",
+        "Show Pony",
+        "Mistletoad",
+        "Gummy Bear",
+        "Rainbow Bear on Bike",
+        "Rainbow Performer Seal",
+        "GIANT Silver Dragonfly",
+        "Glass Dog",
+        "Moth",
+        "Pterodactyl",
+        "Peacock",
+        "Marmot",
+        "Dark Spriggan",
+        "Seedling",
+        "Bearded Dragon",
+        "Rainbow Hotdog Daschund",
+        "Pumpkin Rat",
+        "Chocolate Bunny",
+        "Easter Egg Chick",
+        "Elk",
+        "Red Dragon",
+        "Green Bean",
+        "Pig",
+        "Turtle",
+        "Wisp",
+        "Tsuchinoko",
+        "Stork",
+        "Turtle Dove",
+        "Penguin",
+        "Bagel Bunny",
+        "Rainbow Robin",
+        "Rainbow Swan",
+        "Tree Frog",
+        "Badger",
+        "Swan",
+        "Cockatrice",
+        "Barn Owl",
+        "Rainbow Parasaurolophus",
+        "Rainbow Lobster Thermidor",
+        "Peach Wasp",
+        "Hummingbird",
+        "Stag Beetle",
+        "Rainbow Nurse Bee",
+        "Fortune Squirrel",
+        "Sushi Bear",
+        "Scarab",
+        "Elephant",
+        "Kappa",
+        "Praying Mantis",
+        "Rainbow Carnival Elephant",
+        "Caterpillar",
+        "Lion",
+        "Rainbow Spinosaurus",
+        "Carnival Elephant",
+        "Cuckoo",
+        "Sand Snake",
         "Pachycephalosaurus",
+        "Spinosaurus",
+        "Rainbow Iguanodon",
+        "Tarantula Hawk",
+        "Red Fox",
+        "Rainbow Brown Owl",
+        "Blood Owl",
+        "Rainbow Frost Dragon",
+        "Rainbow Phoenix",
+        "Raiju",
+        "Jackalope",
+        "Ladybug",
+        "Pixie",
+        "Glimmering Sprite",
+        "Spider",
+        "Black Bunny",
+        "Mantis Shrimp",
+        "Griffin",
+        "Spriggan",
+        "Easter Bunny",
+        "Snow Bunny",
+        "Space Squirrel",
+        "Cooked Owl",
+        "Wolf",
+        "Emerald Snake",
+        "Geode Turtle",
+        "Stegosaurus",
+        "GIANT Firefly",
+        "Amethyst Beetle",
+        "Flame Bee",
+        "Monitor Lizard",
+        "Hyena",
+        "Hippo",
+        "Apple Gazelle",
+        "Sunny-Side Chicken",
+        "Petal Bee",
+        "Snowman Builder",
+        "Grey Mouse",
+        "Red Giant Ant",
+        "Clam",
+        "Rainbow Gardener Bee",
+        "Rooster",
+        "Bald Eagle",
+        "Magpie",
+        "Messenger Pigeon",
+        "Ghostly Spider",
+        "Gecko",
+        "Rainbow Rhino",
+        "Rainbow Ankylosaurus",
+        "Owl",
+        "Moon Cat",
+        "Blue Jay",
+        "New Year's Bird",
+        "Goblin",
+        "Rainbow Mandrake",
+        "Ghostly Headless Horseman",
+        "Pink Panda",
+        "Rainbow Elephant",
+        "Tomb Marmot",
+        "Firework Sprite",
+        "Rainbow Empress Bee",
+        "Ice Golem",
+        "Raccoon",
+        "Flamingo",
+        "Zebra",
+        "Frost Squirrel",
+        "Mandrake",
+        "Ghostly Tomb Marmot",
+        "Specter",
+        "Blood Kiwi",
+        "Orchid Mantis",
+        "Spring Bee",
+        "Seal",
+        "Giraffe",
+        "Ghostly Bat",
+        "Silver Monkey",
+        "Eggnog Chick",
+        "Giant Scorpion",
+        "Chinchilla",
+        "Goblin Miner",
+        "Fennec Fox",
+        "Brontosaurus",
+        "Panda",
+        "Gift Rat",
+        "Iguanodon",
+        "Ghost Bear",
+        "Crocodile",
+        "Bone Dog",
+        "Christmas Gorilla",
+        "Termite",
+        "Rhino",
+        "Bear Bee",
+        "Rainbow Unicycle Monkey",
+        "Cardinal",
+        "Rainbow Corrupted Kitsune",
+        "Hotdog Daschund",
+        "Frost Dragon",
+        "Triceratops",
+        "Gilded Choc Marshmallow Lamb",
+        "Rainbow Gold Finch",
+        "Chimpanzee",
+        "Gorilla Chef",
+        "Chubby Chipmunk",
         "Dilophosaurus",
+        "Snowman Soldier",
+        "Chicken",
+        "Imp",
+        "Shiba Inu",
+        "Toucan",
+        "Rainbow Maneki-neko",
+        "Red-Nosed Reindeer",
         "Ankylosaurus",
-        "Spinosaurus"
+        "Rainbow Griffin",
+        "Crab",
+        "Corrupted Kitsune",
+        "Marshmallow Lamb",
+        "Hydra",
+        "Queen Bee",
+        "Nyala",
+        "Nurse Bee",
+        "Rainbow Chinchilla",
+        "Mochi Mouse",
+        "Blood Hedgehog",
+        "Lobster Thermidor",
+        "Deer",
+        "Rainbow Birb",
+        "Armadillo",
+        "Champion Beetle",
+        "Starfish",
+        "Golden Piggy",
+        "Gardener Bee",
+        "Rainbow Kodama",
+        "Mole",
+        "Meerkat",
+        "Disco Bee",
+        "Golden Goose",
+        "Farmer Chipmunk",
+        "Rainbow Bacon Pig",
+        "Festive Ice Golem",
+        "Red Squirrel",
+        "Kitsune",
+        "Corrupted Kodama",
+        "Bunny",
+        "Rainbow Badger",
+        "Pack Mule",
+        "Honey Badger",
+        "Peryton",
+        "Shroomie",
+        "Golden Lab",
+        "Cape Buffalo",
+        "Wasp",
+        "Frog",
+        "Star Wolf",
+        "Rainbow Mantis Shrimp",
+        "Rainbow Show Pony",
+        "Ghostly Mummy",
+        "Red Rose Fox",
+        "Reaper",
+        "Nihonzaru",
+        "Rainbow Barn Owl",
+        "Goat",
+        "Drake",
+        "Glass Cat",
+        "Gnome",
+        "Tanuki",
+        "Sheckling",
+        "Snail",
+        "Chipmunk",
+        "Sea Turtle",
+        "Salmon",
+        "Seagull",
+        "Birb",
+        "New Year's Dragon",
+        "Rainbow Black Bird",
+        "Maneki-neko",
+        "Rainbow Cuckoo",
+        "Festive Reindeer",
+        "Christmas Spirit",
+        "Calico",
+        "Hamster",
+        "Firefly",
+        "Rainbow Elk",
+        "Butterfly",
+        "Carpenter Bee",
+        "Mallard",
+        "Moose",
+        "Sugar Glider",
+        "Trapdoor Spider",
+        "Diamond Dragonfly",
+        "Prince Wasp",
+        "Celebration Puppy",
+        "Ostrich",
+        "Parasaurolophus ",
+        "Nutcracker",
+        "Black Bird",
+        "Black Cat",
+        "Rainbow Blue Jay",
+        "Candy Squirrel",
+        "Lyrebird",
+        "Bumblebee",
+        "Elemental Bee",
+        "Jerboa",
+        "Echo Frog",
+        "Grizzly Bear",
+        "Bee",
+        "French Hen",
+        "Rainbow Pink Bunny",
+        "Empress Bee",
+        "Rainbow Farmer Chipmunk",
+        "Monkey",
+        "Hex Serpent",
+        "Crow",
+        "Rainbow Bumblebee",
+        "Professor Bee",
+        "Idol Chipmunk",
+        "Squirrel",
+        "Camel",
+        "Rainbow Elemental Bee",
+        "Dragonfly",
+        "Chimera",
+        "Leaf Insect",
+        "Rainbow Pachycephalosaurus",
+        "Hyrax",
+        "Dog",
+        "Red Panda",
+        "Golden Bee",
+        "Koi",
+        "Woody",
+        "Pancake Mole",
+        "Rainbow Giraffe",
+        "Night Owl",
+        "Iguana",
+        "Rainbow Mizuchi",
+        "Mimic Octopus",
+        "Sea Otter",
+        "Rainbow Arctic Fox",
+        "Rainbow Grizzly Bear",
+        "Silver Dragonfly",
+        "French Fry Ferret",
+        "Cheetah",
+        "Orangutan",
+        "Cow",
+        "Ghostly Black Cat",
+        "King Bee",
+        "Santa Bear",
+        "Cat",
+        "Robin",
+        "Wind-Up Rat",
+        "Polar Bear",
+        "Rainbow Armadillo",
+        "Moss Wyvern",
+        "Topaz Snail",
+        "Lioness",
+        "Arctic Fox",
+        "Quetzal",
+        "Bacon Pig",
+        "GIANT Leaf Insect",
+        "Rainbow Monitor Lizard",
+        "Gilded Choc Hootsie Roll",
+        "Pink Bunny",
+        "Bat",
+        "GIANT Quetzal",
+        "Rainbow Stag Beetle",
+        "Black Spotty Dragon",
+        "Hyacinth Macaw",
+        "Golem",
+        "Gilded Choc Chocolate Bunny",
+        "Spotted Deer"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Premium Carnival Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Unicycle Monkey",
+        "Performer Seal",
+        "Bear on Bike",
+        "Show Pony",
+        "Egg/Rainbow Premium Carnival Egg",
+        "Carnival Elephant"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Premium Christmas Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Turtle Dove",
+        "Reindeer",
+        "Nutcracker",
+        "Egg/Festive Premium Christmas Egg",
+        "Yeti",
+        "Ice Golem"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Gilded Choc Springtide Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Gilded Choc Spring Bee",
+        "Gilded Choc Jerboa",
+        "Gilded Choc Nyala",
+        "Gilded Choc Peryton"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Exotic Bug Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Snail",
+        "Giant Ant",
+        "Caterpillar",
+        "Praying Mantis",
+        "Dragonfly"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Gilded Choc Golden Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Gilded Choc Chocolate Bunny",
+        "Gilded Choc Easter Egg Chick",
+        "Gilded Choc Marshmallow Lamb",
+        "Gilded Choc Easter Bunny"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Oasis Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Meerkat",
+        "Sand Snake",
+        "Axolotl",
+        "Hyacinth Macaw",
+        "Fennec Fox"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Paradise Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Ostrich",
+        "Peacock",
+        "Capybara",
+        "Scarlet Macaw",
+        "Mimic Octopus"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Premium Bird Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Black Bird",
+        "Cuckoo",
+        "Brown Owl",
+        "Gold Finch",
+        "Egg/Rainbow Premium Bird Egg",
+        "Birb"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Rainbow Premium Safari Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Rainbow Oxpecker",
+        "Rainbow Zebra",
+        "Rainbow Giraffe",
+        "Rainbow Rhino",
+        "Rainbow Elephant"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Premium Spooky Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Bat",
+        "Bone Dog",
+        "Spider",
+        "Black Cat",
+        "Egg/Ghostly Premium Spooky Egg",
+        "Headless Horseman"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Bug Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Caterpillar",
+        "Snail",
+        "Giant Ant",
+        "Praying Mantis",
+        "Dragonfly"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Bird Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Black Bird", "Cuckoo", "Brown Owl", "Gold Finch", "Birb"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Lich Crystal": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Lich"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Festive Premium Christmas Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Festive Turtle Dove",
+        "Festive Reindeer",
+        "Festive Nutcracker",
+        "Festive Yeti",
+        "Festive Ice Golem"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Uncommon Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Black Bunny", "Cat", "Chicken", "Deer"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Zen Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Shiba Inu",
+        "Nihonzaru",
+        "Tanuki",
+        "Tanchozuru",
+        "Kappa",
+        "Kitsune"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Rainbow Premium Carnival Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Rainbow Unicycle Monkey",
+        "Rainbow Performer Seal",
+        "Rainbow Bear on Bike",
+        "Rainbow Show Pony",
+        "Rainbow Carnival Elephant"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Sprout Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Dairy Cow", "Jackalope", "Seedling", "Golem", "Golden Goose"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Festive Premium Winter Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Festive Partridge",
+        "Festive Santa Bear",
+        "Festive Moose",
+        "Festive Frost Squirrel",
+        "Festive Wendigo"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -184,39 +802,6 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Premium Golden Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Chocolate Bunny",
-        "Easter Egg Chick",
-        "Marshmallow Lamb",
-        "Egg/Gilded Choc Premium Golden Egg",
-        "Easter Bunny"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Night Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Hedgehog",
-        "Mole",
-        "Frog",
-        "Echo Frog",
-        "Night Owl",
-        "Raccoon"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
     "Premium Springtide Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
@@ -226,22 +811,6 @@
         "Nyala",
         "Egg/Gilded Choc Premium Springtide Egg",
         "Peryton"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Oasis Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Meerkat",
-        "Sand Snake",
-        "Axolotl",
-        "Hyacinth Macaw",
-        "Fennec Fox"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -283,22 +852,6 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Rainbow Premium Bird Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Rainbow Black Bird",
-        "Rainbow Cuckoo",
-        "Rainbow Brown Owl",
-        "Rainbow Gold Finch",
-        "Rainbow Birb"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
     "Gilded Choc Premium Springtide Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
@@ -307,40 +860,6 @@
         "Gilded Choc Jerboa",
         "Gilded Choc Nyala",
         "Gilded Choc Peryton"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Rainbow Premium New Year's Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Rainbow New Year's Bird",
-        "Rainbow Firework Sprite",
-        "Rainbow Celebration Puppy",
-        "Rainbow New Year's Chimp",
-        "Rainbow Star Wolf",
-        "Rainbow New Year's Dragon"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Night Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Hedgehog",
-        "Mole",
-        "Frog",
-        "Echo Frog",
-        "Night Owl",
-        "Raccoon"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -365,6 +884,24 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
+    "Premium Primal Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Parasaurolophus",
+        "Iguanodon",
+        "Pachycephalosaurus",
+        "Dilophosaurus",
+        "Ankylosaurus",
+        "Egg/Rainbow Premium Primal Egg",
+        "Spinosaurus"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
     "Gourmet Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
@@ -374,73 +911,6 @@
         "Sushi Bear",
         "Spaghetti Sloth",
         "French Fry Ferret"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Gilded Choc Springtide Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Gilded Choc Spring Bee",
-        "Gilded Choc Jerboa",
-        "Gilded Choc Nyala",
-        "Gilded Choc Peryton"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Festive Premium Winter Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Festive Partridge",
-        "Festive Santa Bear",
-        "Festive Moose",
-        "Festive Frost Squirrel",
-        "Festive Wendigo"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Spooky Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Bat", "Bone Dog", "Spider", "Black Cat", "Headless Horseman"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Anti Bee Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Wasp", "Tarantula Hawk", "Moth", "Butterfly", "Disco Bee"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Exotic Bug Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Snail",
-        "Giant Ant",
-        "Caterpillar",
-        "Praying Mantis",
-        "Dragonfly"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -473,73 +943,6 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Bird Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Black Bird", "Cuckoo", "Brown Owl", "Gold Finch", "Birb"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Gilded Choc Golden Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Gilded Choc Chocolate Bunny",
-        "Gilded Choc Easter Egg Chick",
-        "Gilded Choc Marshmallow Lamb",
-        "Gilded Choc Easter Bunny"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Ghostly Premium Spooky Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Ghostly Bat",
-        "Ghostly Bone Dog",
-        "Ghostly Spider",
-        "Ghostly Black Cat",
-        "Ghostly Headless Horseman"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Bug Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Caterpillar",
-        "Snail",
-        "Giant Ant",
-        "Praying Mantis",
-        "Dragonfly"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Christmas Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Turtle Dove", "Reindeer", "Nutcracker", "Yeti", "Ice Golem"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
     "GIANT Premium Fall Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
@@ -556,7 +959,37 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Oasis Egg": {
+    "Black Spotty Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Black Spotty Dragon"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Safari Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Oxpecker", "Zebra", "Giraffe", "Rhino", "Elephant"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Rare Summer Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Flamingo", "Toucan", "Sea Turtle", "Orangutan", "Seal"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Premium Oasis Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
@@ -572,16 +1005,40 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Winter Egg": {
+    "Fall Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
-      "Trash": [
-        "Partridge",
-        "Santa Bear",
-        "Moose",
-        "Frost Squirrel",
-        "Wendigo"
-      ],
+      "Trash": ["Robin", "Badger", "Grizzly Bear", "Barn Owl", "Swan"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Legendary Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Silver Monkey", "Cow", "Sea Otter", "Polar Bear", "Turtle"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Christmas Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Turtle Dove", "Reindeer", "Nutcracker", "Yeti", "Ice Golem"],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Bee Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Bee", "Honey Bee", "Bear Bee", "Petal Bee", "Queen Bee"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistSell": [],
@@ -605,103 +1062,10 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Paradise Egg": {
+    "Jungle Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
-      "Trash": [
-        "Ostrich",
-        "Peacock",
-        "Capybara",
-        "Scarlet Macaw",
-        "Mimic Octopus"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Fall Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Robin", "Badger", "Grizzly Bear", "Barn Owl", "Swan"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Bird Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Black Bird",
-        "Cuckoo",
-        "Brown Owl",
-        "Gold Finch",
-        "Egg/Rainbow Premium Bird Egg",
-        "Birb"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Winter Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Partridge",
-        "Santa Bear",
-        "Moose",
-        "Frost Squirrel",
-        "Egg/Festive Premium Winter Egg",
-        "Wendigo"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Bee Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Bee", "Honey Bee", "Bear Bee", "Petal Bee", "Queen Bee"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Rainbow Premium Safari Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Rainbow Oxpecker",
-        "Rainbow Zebra",
-        "Rainbow Giraffe",
-        "Rainbow Rhino",
-        "Rainbow Elephant"
-      ],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Christmas Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": [
-        "Turtle Dove",
-        "Reindeer",
-        "Nutcracker",
-        "Egg/Festive Premium Christmas Egg",
-        "Yeti",
-        "Ice Golem"
-      ],
+      "Trash": ["Tree Frog", "Hummingbird", "Iguana", "Chimpanzee", "Tiger"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistSell": [],
@@ -725,16 +1089,16 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Premium Spooky Egg": {
+    "Premium Fall Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Bat",
-        "Bone Dog",
-        "Spider",
-        "Black Cat",
-        "Egg/Ghostly Premium Spooky Egg",
-        "Headless Horseman"
+        "Robin",
+        "Badger",
+        "Grizzly Bear",
+        "Barn Owl",
+        "Swan",
+        "Egg/GIANT Premium Fall Egg"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -768,15 +1132,16 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Festive Premium Christmas Egg": {
+    "Night Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Festive Turtle Dove",
-        "Festive Reindeer",
-        "Festive Nutcracker",
-        "Festive Yeti",
-        "Festive Ice Golem"
+        "Hedgehog",
+        "Mole",
+        "Frog",
+        "Echo Frog",
+        "Night Owl",
+        "Raccoon"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -800,36 +1165,25 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Safari Egg": {
+    "Spooky Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
-      "Trash": ["Oxpecker", "Zebra", "Giraffe", "Rhino", "Elephant"],
+      "Trash": ["Bat", "Bone Dog", "Spider", "Black Cat", "Headless Horseman"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistSell": [],
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Lich Crystal": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Lich"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Premium Carnival Egg": {
+    "Ghostly Premium Spooky Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Unicycle Monkey",
-        "Performer Seal",
-        "Bear on Bike",
-        "Show Pony",
-        "Egg/Rainbow Premium Carnival Egg",
-        "Carnival Elephant"
+        "Ghostly Bat",
+        "Ghostly Bone Dog",
+        "Ghostly Spider",
+        "Ghostly Black Cat",
+        "Ghostly Headless Horseman"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -837,47 +1191,76 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Rare Summer Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Flamingo", "Toucan", "Sea Turtle", "Orangutan", "Seal"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Uncommon Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Black Bunny", "Cat", "Chicken", "Deer"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Jungle Egg": {
-      "FilterPetTarget": [],
-      "FilterWeight": 4,
-      "Trash": ["Tree Frog", "Hummingbird", "Iguana", "Chimpanzee", "Tiger"],
-      "WeightSell": 4,
-      "AgeSell": 3,
-      "WhitelistSell": [],
-      "TresholdModeSell": "Below",
-      "WhitelistHatch": []
-    },
-    "Zen Egg": {
+    "Rainbow Premium Bird Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Shiba Inu",
-        "Nihonzaru",
-        "Tanuki",
-        "Tanchozuru",
-        "Kappa",
-        "Kitsune"
+        "Rainbow Black Bird",
+        "Rainbow Cuckoo",
+        "Rainbow Brown Owl",
+        "Rainbow Gold Finch",
+        "Rainbow Birb"
       ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Premium Night Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Hedgehog",
+        "Mole",
+        "Frog",
+        "Echo Frog",
+        "Night Owl",
+        "Raccoon"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Primal Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Parasaurolophus",
+        "Iguanodon",
+        "Pachycephalosaurus",
+        "Dilophosaurus",
+        "Ankylosaurus",
+        "Spinosaurus"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Winter Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": [
+        "Partridge",
+        "Santa Bear",
+        "Moose",
+        "Frost Squirrel",
+        "Wendigo"
+      ],
+      "WeightSell": 4,
+      "AgeSell": 3,
+      "WhitelistSell": [],
+      "TresholdModeSell": "Below",
+      "WhitelistHatch": []
+    },
+    "Anti Bee Egg": {
+      "FilterPetTarget": [],
+      "FilterWeight": 4,
+      "Trash": ["Wasp", "Tarantula Hawk", "Moth", "Butterfly", "Disco Bee"],
       "WeightSell": 4,
       "AgeSell": 3,
       "WhitelistSell": [],
@@ -900,393 +1283,16 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Fake Egg": {
+    "Rainbow Premium New Year's Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Kiwi",
-        "Rainbow Idol Chipmunk",
-        "Ghostly Scarab",
-        "Mummy",
-        "Phoenix",
-        "Ghostly Dark Spriggan",
-        "Spaghetti Sloth",
-        "Brown Owl",
-        "Mizuchi",
-        "Wendigo",
-        "Tiger",
-        "Scarlet Macaw",
-        "Angora Goat",
-        "Tanchozuru",
-        "Orange Tabby",
-        "Ruby Squid",
-        "New Year's Chimp",
-        "Blue Whale",
-        "German Shepherd",
-        "White Tiger",
-        "Rainbow Fortune Squirrel",
-        "Ghostly Bone Dog",
-        "Summer Kiwi",
-        "Woodpecker",
-        "Festive Nutcracker",
-        "Cocoa Cat",
-        "T-Rex",
-        "Kodama",
-        "Rainbow Zebra",
-        "Silver Piggy",
-        "Lemon Lion",
-        "Reindeer",
-        "Snow Bunny",
-        "Turtle Dove",
-        "Partridge",
-        "Festive Turtle Dove",
-        "Rainbow Dilophosaurus",
-        "Yeti",
-        "Capybara",
-        "Dairy Cow",
-        "Smithing Dog",
-        "Pine Beetle",
-        "Festive Yeti",
-        "GIANT Snowman Builder",
-        "Krampus",
-        "Gold Finch",
-        "Penguin",
-        "Wind Wyvern",
-        "Performer Seal",
-        "Hootsie Roll",
-        "Giant Ant",
-        "Gilded Choc Chocolate Bunny",
-        "Axolotl",
-        "Mistletoad",
-        "Gummy Bear",
-        "Bearded Dragon",
-        "Easter Egg Chick",
-        "Elk",
-        "Chocolate Bunny",
-        "Football",
-        "Diamond Panther",
-        "Gilded Choc Easter Bunny",
-        "Rainbow Hydra",
-        "Gilded Choc Gummy Bear",
-        "Pack Bee",
-        "Chicken Zombie",
-        "Rainbow Oxpecker",
-        "Gilded Choc Easter Egg Chick",
-        "Sapphire Macaw",
-        "Hedgehog",
-        "Unicycle Monkey",
-        "Green Bean",
-        "Pig",
-        "Dark Spriggan",
-        "Seedling",
-        "Peacock",
-        "Marmot",
-        "Rainbow Cardinal",
-        "Junkbot",
-        "Show Pony",
-        "Brown Mouse",
-        "Bear on Bike",
-        "Turtle",
-        "Pterodactyl",
-        "Rainbow Bear on Bike",
-        "Pumpkin Rat",
-        "Wisp",
-        "Tsuchinoko",
-        "Rainbow Performer Seal",
-        "Red Dragon",
-        "Moth",
-        "Rainbow Hotdog Daschund",
-        "GIANT Silver Dragonfly",
-        "Glass Dog",
-        "Headless Horseman",
-        "Red Giant Ant",
-        "Snowman Builder",
-        "Swan",
-        "Rainbow Robin",
-        "Bagel Bunny",
-        "Rainbow Swan",
-        "Barn Owl",
-        "Rainbow Lobster Thermidor",
-        "Cockatrice",
-        "Peach Wasp",
-        "Rainbow Parasaurolophus",
-        "Rainbow Spinosaurus",
-        "Tree Frog",
-        "Hummingbird",
-        "Praying Mantis",
-        "Elephant",
-        "Rainbow Nurse Bee",
-        "Badger",
-        "Kappa",
-        "Rainbow Carnival Elephant",
-        "Caterpillar",
-        "Scarab",
-        "Stag Beetle",
-        "Fortune Squirrel",
-        "Rainbow Phoenix",
-        "Glimmering Sprite",
-        "Sand Snake",
-        "Cuckoo",
-        "Pachycephalosaurus",
-        "Spinosaurus",
-        "Tarantula Hawk",
-        "Red Fox",
-        "Rainbow Brown Owl",
-        "Blood Owl",
-        "Rainbow Frost Dragon",
-        "Carnival Elephant",
-        "Rainbow Iguanodon",
-        "Spider",
-        "Black Bunny",
-        "Ladybug",
-        "Pixie",
-        "Raiju",
-        "Griffin",
-        "Easter Bunny",
-        "Mantis Shrimp",
-        "Jackalope",
-        "Spriggan",
-        "Grey Mouse",
-        "Sushi Bear",
-        "Space Squirrel",
-        "Topaz Snail",
-        "Amethyst Beetle",
-        "Emerald Snake",
-        "Wolf",
-        "Flame Bee",
-        "Hyena",
-        "Hippo",
-        "Gecko",
-        "Apple Gazelle",
-        "Rainbow Elephant",
-        "Geode Turtle",
-        "GIANT Firefly",
-        "Rooster",
-        "Bald Eagle",
-        "Rainbow Gardener Bee",
-        "Stegosaurus",
-        "Messenger Pigeon",
-        "Petal Bee",
-        "Magpie",
-        "Sunny-Side Chicken",
-        "Clam",
-        "Lion",
-        "Rainbow Rhino",
-        "Ice Golem",
-        "Rainbow Mandrake",
-        "New Year's Bird",
-        "Rainbow Ankylosaurus",
-        "Owl",
-        "Goblin",
-        "Ghostly Headless Horseman",
-        "Pink Panda",
-        "Ghostly Spider",
-        "Cooked Owl",
-        "Raccoon",
-        "Moon Cat",
-        "Tomb Marmot",
-        "Mandrake",
-        "Zebra",
-        "Rainbow Empress Bee",
-        "Blue Jay",
-        "Frost Squirrel",
-        "Ghostly Tomb Marmot",
-        "Specter",
-        "Flamingo",
-        "Firework Sprite",
-        "Blood Kiwi",
-        "GIANT Snowman Soldier",
-        "Oxpecker",
-        "Seal",
-        "Ghostly Bat",
-        "Silver Monkey",
-        "Eggnog Chick",
-        "Giraffe",
-        "Goblin Miner",
-        "Giant Scorpion",
-        "Brontosaurus",
-        "Chinchilla",
-        "Fennec Fox",
-        "Gift Rat",
-        "Iguanodon",
-        "Ghost Bear",
-        "Crocodile",
-        "Bone Dog",
-        "Christmas Gorilla",
-        "Termite",
-        "Rhino",
-        "Bear Bee",
-        "Rainbow Unicycle Monkey",
-        "Cardinal",
-        "Rainbow Corrupted Kitsune",
-        "Panda",
-        "Shiba Inu",
-        "Rainbow Gold Finch",
-        "Chimpanzee",
-        "Gorilla Chef",
-        "Toucan",
-        "Triceratops",
-        "Chubby Chipmunk",
-        "Gilded Choc Marshmallow Lamb",
-        "Dilophosaurus",
-        "Snowman Soldier",
-        "Hotdog Daschund",
-        "Crab",
-        "Queen Bee",
-        "Ankylosaurus",
-        "Rainbow Griffin",
-        "Frost Dragon",
-        "Rainbow Maneki-neko",
-        "Red-Nosed Reindeer",
-        "Hydra",
-        "Corrupted Kitsune",
-        "Nyala",
-        "Marshmallow Lamb",
-        "Imp",
-        "Rainbow Chinchilla",
-        "Mochi Mouse",
-        "Blood Hedgehog",
-        "Deer",
-        "Rainbow Birb",
-        "Armadillo",
-        "Lobster Thermidor",
-        "Golden Piggy",
-        "Champion Beetle",
-        "Rainbow Kodama",
-        "Starfish",
-        "Gardener Bee",
-        "Meerkat",
-        "Disco Bee",
-        "Golden Goose",
-        "Farmer Chipmunk",
-        "Rainbow Bacon Pig",
-        "Festive Ice Golem",
-        "Red Squirrel",
-        "Kitsune",
-        "Corrupted Kodama",
-        "Bunny",
-        "Rainbow Badger",
-        "Pack Mule",
-        "Mole",
-        "Peryton",
-        "Shroomie",
-        "Golden Lab",
-        "Cape Buffalo",
-        "Wasp",
-        "Frog",
-        "Star Wolf",
-        "Rainbow Mantis Shrimp",
-        "Rainbow Show Pony",
-        "Ghostly Mummy",
-        "Red Rose Fox",
-        "Reaper",
-        "Nihonzaru",
-        "Rainbow Barn Owl",
-        "Goat",
-        "Drake",
-        "Glass Cat",
-        "Gnome",
-        "Tanuki",
-        "Sheckling",
-        "Snail",
-        "Chipmunk",
-        "Rainbow Shroomie",
-        "Chicken",
-        "Salmon",
-        "Rainbow Pink Bunny",
-        "Black Bird",
-        "Rainbow Elk",
-        "Hamster",
-        "Black Cat",
-        "Hex Serpent",
-        "Crow",
-        "Professor Bee",
-        "Monkey",
-        "Squirrel",
-        "Firefly",
-        "Calico",
-        "Rainbow Cuckoo",
-        "Butterfly",
-        "Trapdoor Spider",
-        "Christmas Spirit",
-        "Maneki-neko",
-        "Birb",
-        "Rainbow Black Bird",
-        "Festive Reindeer",
-        "New Year's Dragon",
-        "Ostrich",
-        "Idol Chipmunk",
-        "Camel",
-        "Sea Turtle",
-        "Spring Bee",
-        "Bee",
-        "French Hen",
-        "Orchid Mantis",
-        "Beaver",
-        "Stork",
-        "Raptor",
-        "Water Buffalo",
-        "Rainbow Elemental Bee",
-        "Echo Frog",
-        "Jerboa",
-        "Empress Bee",
-        "Rainbow Bumblebee",
-        "Rainbow Farmer Chipmunk",
-        "Grizzly Bear",
-        "Elemental Bee",
-        "Lyrebird",
-        "Bumblebee",
-        "Candy Squirrel",
-        "Rainbow Blue Jay",
-        "Nurse Bee",
-        "Parasaurolophus ",
-        "Diamond Dragonfly",
-        "Red Panda",
-        "Golden Bee",
-        "Rainbow Mizuchi",
-        "Silver Dragonfly",
-        "Dog",
-        "Hyrax",
-        "Rainbow Pachycephalosaurus",
-        "Pancake Mole",
-        "Koi",
-        "Woody",
-        "Mimic Octopus",
-        "Ghostly Black Cat",
-        "Rainbow Grizzly Bear",
-        "Seagull",
-        "Dragonfly",
-        "Cow",
-        "Rainbow Arctic Fox",
-        "French Fry Ferret",
-        "Sea Otter",
-        "Cheetah",
-        "Orangutan",
-        "Celebration Puppy",
-        "Night Owl",
-        "Iguana",
-        "Arctic Fox",
-        "Lioness",
-        "Robin",
-        "Wind-Up Rat",
-        "Chimera",
-        "Sugar Glider",
-        "Nutcracker",
-        "Mallard",
-        "Moose",
-        "Rainbow Giraffe",
-        "Polar Bear",
-        "Golem",
-        "Cat",
-        "Bacon Pig",
-        "Santa Bear",
-        "Rainbow Armadillo",
-        "Bat",
-        "Gilded Choc Hootsie Roll",
-        "Pink Bunny",
-        "Hyacinth Macaw",
-        "Rainbow Stag Beetle",
-        "Spotted Deer"
+        "Rainbow New Year's Bird",
+        "Rainbow Firework Sprite",
+        "Rainbow Celebration Puppy",
+        "Rainbow New Year's Chimp",
+        "Rainbow Star Wolf",
+        "Rainbow New Year's Dragon"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -1294,15 +1300,16 @@
       "TresholdModeSell": "Below",
       "WhitelistHatch": []
     },
-    "Rainbow Premium Carnival Egg": {
+    "Premium Winter Egg": {
       "FilterPetTarget": [],
       "FilterWeight": 4,
       "Trash": [
-        "Rainbow Unicycle Monkey",
-        "Rainbow Performer Seal",
-        "Rainbow Bear on Bike",
-        "Rainbow Show Pony",
-        "Rainbow Carnival Elephant"
+        "Partridge",
+        "Santa Bear",
+        "Moose",
+        "Frost Squirrel",
+        "Egg/Festive Premium Winter Egg",
+        "Wendigo"
       ],
       "WeightSell": 4,
       "AgeSell": 3,
@@ -1589,6 +1596,7 @@
     "Pet Shard Oxpecker",
     "Pet Shard Rainbow",
     "Pet Shard Rhino",
+    "Pet Shard RoyalJelly",
     "Pet Shard Silver",
     "Pet Shard Tranquil",
     "Pet Shard UFO",
@@ -1637,6 +1645,7 @@
     "Trading Ticket",
     "Tranquil Radar",
     "Tranquil Staff",
+    "Transcendent Bee Egg",
     "Tree Grower Kit",
     "Tropical Mist Sprinkler",
     "Trowel",
@@ -1746,9 +1755,11 @@
     "Heartstruck",
     "Heavenly",
     "HoneyGlazed",
+    "Honeygem",
     "Infected",
     "Infernal",
     "Jackpot",
+    "Jellygem",
     "Junkshock",
     "Leeched",
     "Lightcycle",
@@ -1785,6 +1796,7 @@
     "Pollinated_Good",
     "Pollinated_Poor",
     "Radioactive",
+    "Resplendent",
     "Riptide",
     "Rot",
     "Sandy",
@@ -1810,6 +1822,7 @@
     "SunScorched",
     "Sundried",
     "Supernatural",
+    "Sylvan",
     "Tempered",
     "Tempestuous",
     "Terran",
@@ -1860,6 +1873,7 @@
     "Anti Bee Egg",
     "Bee Egg",
     "Bird Egg",
+    "Black Spotty Egg",
     "Bug Egg",
     "Carnival Egg",
     "Christmas Egg",
@@ -1967,6 +1981,7 @@
     "Capybara",
     "Cardinal",
     "Carnival Elephant",
+    "Carpenter Bee",
     "Cat",
     "Caterpillar",
     "Celebration Puppy",
@@ -2044,7 +2059,9 @@
     "GIANT Firefly",
     "GIANT Firemite",
     "GIANT Grizzly Bear",
+    "GIANT Leaf Insect",
     "GIANT Mantis Shrimp",
+    "GIANT Quetzal",
     "GIANT Robin",
     "GIANT Silver Dragonfly",
     "GIANT Snowman Builder",
@@ -2103,6 +2120,7 @@
     "Hedgehog",
     "Hex Serpent",
     "Hippo",
+    "Honey Badger",
     "Honey Bee",
     "Hootsie Roll",
     "Hotdog Daschund",
@@ -2121,11 +2139,13 @@
     "Jerboa",
     "Junkbot",
     "Kappa",
+    "King Bee",
     "Kiwi",
     "Kodama",
     "Koi",
     "Krampus",
     "Ladybug",
+    "Leaf Insect",
     "Lemon Lion",
     "Lich",
     "Lion",
@@ -2146,9 +2166,11 @@
     "Mizuchi",
     "Mochi Mouse",
     "Mole",
+    "Monitor Lizard",
     "Monkey",
     "Moon Cat",
     "Moose",
+    "Moss Wyvern",
     "Moth",
     "Mummy",
     "New Year's Bird",
@@ -2185,10 +2207,12 @@
     "Pixie",
     "Polar Bear",
     "Praying Mantis",
+    "Prince Wasp",
     "Professor Bee",
     "Pterodactyl",
     "Pumpkin Rat",
     "Queen Bee",
+    "Quetzal",
     "Raccoon",
     "Radioactive Stegosaurus",
     "Raiju",
@@ -2238,6 +2262,8 @@
     "Rainbow Maneki-neko",
     "Rainbow Mistletoad",
     "Rainbow Mizuchi",
+    "Rainbow Monitor Lizard",
+    "Rainbow Moss Wyvern",
     "Rainbow New Year's Bird",
     "Rainbow New Year's Chimp",
     "Rainbow New Year's Dragon",
@@ -2362,6 +2388,7 @@
     "Archling",
     "Artichoke",
     "Asteris",
+    "Astrobush",
     "Auburn Pine",
     "Aura Flora",
     "Aurora Vine",
@@ -2382,6 +2409,7 @@
     "Bee Bell",
     "Bee Lantern",
     "Bell Pepper",
+    "Bendbark",
     "Bendboo",
     "Big Buttercup",
     "Big Shadow Buttercup",
@@ -2560,6 +2588,7 @@
     "Gift Berry",
     "Gift Root",
     "Gingerbread Blossom",
+    "Glacial Petal",
     "Glass Kiwi",
     "Gleamroot",
     "Glowpod",
@@ -2572,6 +2601,7 @@
     "Grand Tomato",
     "Grand Volcania",
     "Grape",
+    "Grape Droplet",
     "Great Pumpkin",
     "Green Apple",
     "Guanabana",
@@ -2623,6 +2653,7 @@
     "Honey Honey Daisy",
     "Honey Honey Dew",
     "Honey Honey Dipper",
+    "Honey Honey Hollow",
     "Honey Mango",
     "Honey Mushroom",
     "Honey Octobloom",
@@ -2676,6 +2707,7 @@
     "Loquat",
     "Lotus",
     "Lucky Bamboo",
+    "Lumi Shroom",
     "Lumin Bloom",
     "Luminova",
     "Lumira",
@@ -2702,6 +2734,7 @@
     "Mind Root",
     "Mini Pumpkin",
     "Mint",
+    "Monarch Jellpod",
     "Monoblooma",
     "Monster Flower",
     "Monster Plum",
@@ -2747,13 +2780,16 @@
     "Pineapple",
     "Pink Lily",
     "Pink Rose",
+    "Pinkfruit Palm",
     "Pinkside Dandelion",
     "Pitcher Plant",
     "Pixie Faern",
     "Plumwillow",
+    "Pohutukawa",
     "Poinsettia",
     "Poison Apple",
     "Pollen Cone",
+    "Pollen Puffball",
     "Pollenvine",
     "Pomegranate",
     "Poseidon Plant",
@@ -2768,6 +2804,7 @@
     "Purple Treeshroom",
     "Pyracantha",
     "Queen Fruit",
+    "Queen of the Forest",
     "Radish",
     "Rafflesia",
     "Rambutan",
@@ -2779,6 +2816,8 @@
     "Rose",
     "Rosemary",
     "Rosy Delight",
+    "Royal Jelly Cup",
+    "Royal Rose",
     "Sakura Bush",
     "Saskia",
     "Seer Vine",
@@ -2789,6 +2828,7 @@
     "Shimmersprout",
     "Sinisterdrip",
     "Skull Flower",
+    "Snakeskin Tulip",
     "Snaparino Beanarini",
     "Snowman Sprout",
     "Soft Sunshine",
@@ -2799,12 +2839,15 @@
     "Spectralis",
     "Spider Vine",
     "Spiked Mango",
+    "Spiketail",
     "Spirit Flower",
     "Spirit Lantern",
     "Spirit Sparkle",
     "Spring Onion",
     "Star Palm",
+    "Starbloom Daisy",
     "Starfruit",
+    "Stinger Reed",
     "Stingpetal",
     "Stonebite",
     "Strange Man's Wheat",
@@ -2820,6 +2863,7 @@
     "Sundew",
     "Sunflower",
     "Super",
+    "Sweetheart Flower",
     "Taco Fern",
     "Taffy Tree",
     "Tall Asparagus",
@@ -3028,7 +3072,9 @@
       "Woodbine",
       "Honey Hollow",
       "Woodbine",
-      "Honey Dipper"
+      "Honey Dipper",
+      "Pohutukawa",
+      "Bendbark"
     ],
     "Zen": [
       "Monoblooma",
@@ -3143,7 +3189,11 @@
       "Frost Fern",
       "Sugar Snapdragon",
       "Pollenvine",
-      "Stingpetal"
+      "Stingpetal",
+      "Royal Rose",
+      "Bendbark",
+      "Stinger Reed",
+      "Spiketail"
     ],
     "Flower": [
       "Candy Blossom",
@@ -3274,7 +3324,14 @@
       "Birds of Paradise",
       "Bumble Bulb",
       "Stingpetal",
-      "Bee Bell"
+      "Bee Bell",
+      "Snakeskin Tulip",
+      "Queen of the Forest",
+      "Pohutukawa",
+      "Royal Rose",
+      "Starbloom Daisy",
+      "Bendbark",
+      "Sweetheart Flower"
     ],
     "Leafy": [
       "Apple",
@@ -3444,7 +3501,15 @@
       "Stingpetal",
       "Woodbine",
       "Honey Dipper",
-      "Bee Bell"
+      "Bee Bell",
+      "Queen of the Forest",
+      "Monarch Jellpod",
+      "Pollen Puffball",
+      "Grape Droplet",
+      "Pohutukawa",
+      "Royal Rose",
+      "Pinkfruit Palm",
+      "Spiketail"
     ],
     "Christmas": [
       "Gingerbread Blossom",
@@ -3523,7 +3588,8 @@
       "Bumble Bulb",
       "Bee Bell",
       "Honey Dipper",
-      "Obby Oddvine"
+      "Obby Oddvine",
+      "Royal Rose"
     ],
     "Toxic": [
       "Foxglove",
@@ -3553,7 +3619,9 @@
       "Asteris",
       "Icestalite",
       "Obby Oddvine",
-      "Stingpetal"
+      "Stingpetal",
+      "Astrobush",
+      "Lumi Shroom"
     ],
     "Fall": [
       "Corn",
@@ -3608,7 +3676,11 @@
       "Chocolate Berry",
       "Jelly Bean Sprout",
       "Bunny Berry",
-      "Pollenvine"
+      "Pollenvine",
+      "Grape Droplet",
+      "Astrobush",
+      "Glacial Petal",
+      "Royal Jelly Cup"
     ],
     "Stalky": [
       "Beanstalk",
@@ -3713,7 +3785,12 @@
       "Bumble Bulb",
       "Bee Bell",
       "Woodbine",
-      "Obby Oddvine"
+      "Obby Oddvine",
+      "Monarch Jellpod",
+      "Pohutukawa",
+      "Pinkfruit Palm",
+      "Sweetheart Flower",
+      "Stinger Reed"
     ],
     "Apple": [
       "Apple",
@@ -3902,7 +3979,10 @@
       "Honey Hollow",
       "Honey Dew",
       "Honey Dipper",
-      "Bee Bell"
+      "Bee Bell",
+      "Monarch Jellpod",
+      "Grape Droplet",
+      "Bendbark"
     ],
     "Root": [
       "Carrot",
@@ -4013,7 +4093,10 @@
       "Firework Fern",
       "Shimmersprout",
       "Hexberry",
-      "Madcrown Vine"
+      "Madcrown Vine",
+      "Astrobush",
+      "Starbloom Daisy",
+      "Lumi Shroom"
     ],
     "Spicy": [
       "Cursed Fruit",
@@ -4095,7 +4178,9 @@
       "Asteris",
       "Shimmersprout",
       "Purple Treeshroom",
-      "Egg Shroom"
+      "Egg Shroom",
+      "Pollen Puffball",
+      "Lumi Shroom"
     ],
     "Prehistoric": [
       "Stonebite",
@@ -4142,7 +4227,8 @@
       "Hexberry",
       "Sour Lemon",
       "Jungle Cherry",
-      "Pollenvine"
+      "Pollenvine",
+      "Pinkfruit Palm"
     ],
     "Nutty": [
       "Hazelnut",
@@ -4272,7 +4358,9 @@
       "Chocolate Coconut",
       "Mini Pumpkin",
       "Egg Melon",
-      "Honey Dew"
+      "Honey Dew",
+      "Grape Droplet",
+      "Honey Hollow"
     ],
     "Tropical": [
       "Banana",
@@ -4300,7 +4388,8 @@
       "Coilvine",
       "Wild Frond",
       "Birds of Paradise",
-      "Honey Dew"
+      "Honey Dew",
+      "Pinkfruit Palm"
     ],
     "Honey": [
       "Honey Honey Daisy",
@@ -4345,7 +4434,8 @@
       "Honey Honey Dipper",
       "Honey Bee Bell",
       "Honey Hive Petal",
-      "Honey Bumble Bulb"
+      "Honey Bumble Bulb",
+      "Honey Honey Hollow"
     ]
   },
   "petMutationsEnum": [
@@ -4855,6 +4945,19 @@
       }
     },
     {
+      "Mutation": "RoyalJelly",
+      "MutationEnum": "RJ",
+      "MutationData": {
+        "AvaliableFromMutationMachine": false,
+        "ValueMulti": 25,
+        "Color": null,
+        "Chance": 0,
+        "Boosts": [{ "BoostAmount": 0.25, "BoostType": "PASSIVE_BOOST" }],
+        "EnumId": "RJ",
+        "Passives": ["Royal Jelly Pet Mutation"]
+      }
+    },
+    {
       "Mutation": "Shiny",
       "MutationEnum": "d",
       "MutationData": {
@@ -5011,7 +5114,7 @@
       }
     }
   ],
-  "variants": ["Diamond", "Gold", "Normal", "Rainbow", "Silver"],
+  "variants": ["Diamond", "Gold", "Jelly", "Normal", "Rainbow", "Silver"],
   "petsFull": [
     {
       "assetId": "76846718021958",
@@ -5284,7 +5387,7 @@
       "name": "Bear Bee",
       "passives": [
         {
-          "description": "Every <Cooldown>m, goes to a nearby fruit and tries to pollinate it, but its not a bee so it fails and turns it to Honey Glazed instead :(",
+          "description": "Every <Cooldown>m, goes to a nearby fruit and tries to pollinate it, but its not a bee so it fails and turns it to HoneyGlazed instead :(",
           "name": "Wanna-Bee",
           "states": {
             "Cooldown": {
@@ -5437,7 +5540,7 @@
       ]
     },
     {
-      "assetId": "0",
+      "assetId": "92349067687420",
       "name": "Black Spotty Dragon",
       "passives": [
         {
@@ -5777,6 +5880,24 @@
           "description": "When a pet finishes their ability: There is a <Chance>% chance the ability is activated again. You cannot have two pets of the same type for this passive to activate. (Except Carnival Elephants)",
           "name": "The Show Must Go On",
           "states": { "Chance": { "Max": 6, "Base": 3, "Scale": 0.03 } }
+        }
+      ]
+    },
+    {
+      "assetId": "80318862491928",
+      "name": "Carpenter Bee",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, Occasionally converts a Pollinated or HoneyGlazed fruit into a bee castle-themed cosmetic.",
+          "name": "Hive Workshop",
+          "states": {
+            "Cooldown": {
+              "Min": 240,
+              "Formatter": "ColonTime",
+              "Base": 480,
+              "Scale": -4
+            }
+          }
         }
       ]
     },
@@ -6600,7 +6721,7 @@
       "name": "Elemental Bee",
       "passives": [
         {
-          "description": "Every <Cooldown>m, mutates a random fruit in your garden with Frost, Windstruck, Verdant or Flaming!",
+          "description": "Every <Cooldown>m, mutates a random fruit in your garden with Frozen, Windstruck, Verdant or Flaming!",
           "name": "Beelemental",
           "states": {
             "Cooldown": {
@@ -6671,10 +6792,10 @@
           "name": "For the Empress",
           "states": {
             "Cooldown": {
-              "Min": 420,
+              "Min": 360,
               "Formatter": "ColonTime",
-              "Base": 840,
-              "Scale": -8
+              "Base": 720,
+              "Scale": -7.2
             },
             "AmountPets": { "Max": 4, "Base": 2, "Scale": 0.02 }
           }
@@ -7287,6 +7408,20 @@
       ]
     },
     {
+      "assetId": "91812717569491",
+      "name": "GIANT Leaf Insect",
+      "passives": [
+        {
+          "description": "Leafy type plants within <Range> studs have <Multiplier>x increased growth size!",
+          "name": "GIANT Blend In",
+          "states": {
+            "Range": { "Max": 50, "Base": 25, "Scale": 0.2 },
+            "Multiplier": { "Max": 0.64, "Base": 0.32, "Scale": 0.032 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "109514720769508",
       "name": "GIANT Mantis Shrimp",
       "passives": [
@@ -7301,6 +7436,30 @@
               "Scale": -4
             }
           }
+        }
+      ]
+    },
+    {
+      "assetId": "107478378425597",
+      "name": "GIANT Quetzal",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, <Chance>% chance to mutate a nearby fruit, applying the Resplendent mutation!",
+          "name": "GIANT Resplendent Bird",
+          "states": {
+            "Cooldown": {
+              "Min": 100,
+              "Formatter": "ColonTime",
+              "Base": 200,
+              "Scale": -3
+            },
+            "Chance": { "Max": 40, "Base": 20, "Scale": 0.15 }
+          }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
         }
       ]
     },
@@ -8446,6 +8605,31 @@
       ]
     },
     {
+      "assetId": "97741721569557",
+      "name": "Honey Badger",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, consumes a fruit with HoneyGlazed or Pollinated then either spreads it to other <FruitAmount> fruits or restores <HungerAmount>% hunger to another pet in your garden! Ignores favorited fruit.",
+          "name": "Honey Lover",
+          "states": {
+            "FruitAmount": { "Max": 4, "Base": 2, "Scale": 0.02 },
+            "Cooldown": {
+              "Min": 250,
+              "Formatter": "ColonTime",
+              "Base": 500,
+              "Scale": -5
+            },
+            "HungerAmount": {
+              "Max": 0.3,
+              "Formatter": "Percentage",
+              "Base": 0.15,
+              "Scale": 0.015
+            }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "134999468799162",
       "name": "Honey Bee",
       "passives": [
@@ -8767,6 +8951,45 @@
       ]
     },
     {
+      "assetId": "90376433753293",
+      "name": "King Bee",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, <FruitAmount> random fruits get the Pollinated mutation!",
+          "name": "King Pollinator",
+          "states": {
+            "Cooldown": {
+              "Min": 600,
+              "Formatter": "ColonTime",
+              "Base": 1200,
+              "Scale": -12
+            },
+            "FruitAmount": { "Max": 12, "Base": 6, "Scale": 0.06 }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, all Pollinated fruits (Max 50) in your garden have a <Chance>% chance to also get the Honeygem mutation. For every fruit mutated: grants bonus <AmountXP> XP to all pets and grows 8 random plants by <AdvancementAmount>s!",
+          "name": "For the King",
+          "states": {
+            "Chance": { "Max": 30, "Base": 15, "Scale": 0.15 },
+            "AdvancementAmount": {
+              "Max": 160,
+              "Formatter": "ColonTime",
+              "Base": 80,
+              "Scale": 0.3
+            },
+            "Cooldown": {
+              "Min": 60,
+              "Formatter": "ColonTime",
+              "Base": 602,
+              "Scale": -6
+            },
+            "AmountXP": { "Max": 400, "Base": 200, "Scale": 0.6 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "135428084676433",
       "name": "Kitsune",
       "passives": [
@@ -8848,6 +9071,20 @@
           "states": {
             "Range": { "Max": 30, "Base": 30, "Scale": 0 },
             "Multiplier": { "Max": 4, "Base": 1.45, "Scale": 0.05 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "84895693560785",
+      "name": "Leaf Insect",
+      "passives": [
+        {
+          "description": "Leafy type plants within <Range> studs have <Multiplier>x increased growth size!",
+          "name": "Blend In",
+          "states": {
+            "Range": { "Max": 40, "Base": 20, "Scale": 0.2 },
+            "Multiplier": { "Max": 0.32, "Base": 0.16, "Scale": 0.016 }
           }
         }
       ]
@@ -9329,6 +9566,27 @@
       ]
     },
     {
+      "assetId": "75701458367318",
+      "name": "Monitor Lizard",
+      "passives": [
+        {
+          "description": "If there’s only 1 Monitor Lizard in your garden: Every <Cooldown>m, eats a mutated fruit. For <Duration>s, each mutation (Max 15) boosts all pet cooldowns an extra <AmountPet>s every second and plant growth <AmountPlant>s every second! Ignores favorited",
+          "name": "Solitary Monitary",
+          "states": {
+            "AmountPet": { "Max": 1, "Base": 0.5, "Scale": 0.005 },
+            "Duration": { "Max": 20, "Base": 10, "Scale": 0.1 },
+            "Cooldown": {
+              "Min": 300,
+              "Formatter": "ColonTime",
+              "Base": 600,
+              "Scale": -5
+            },
+            "AmountPlant": { "Max": 10, "Base": 5, "Scale": 0.05 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "113881196210664",
       "name": "Monkey",
       "passives": [
@@ -9387,6 +9645,36 @@
               "Scale": 1.8
             }
           }
+        }
+      ]
+    },
+    {
+      "assetId": "137957280955238",
+      "name": "Moss Wyvern",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, converts all Verdant or Resplendent mutation within <Range> studs to Sylvan mutation. For every mutation converted: <XPAmount> XP is added to all other pets in your garden. (Max 12,000 XP) Ignores favorited fruit",
+          "name": "Conversion of Nature",
+          "states": {
+            "XPAmount": { "Max": 1000, "Base": 500, "Scale": 50 },
+            "Cooldown": {
+              "Min": 270,
+              "Formatter": "ColonTime",
+              "Base": 540,
+              "Scale": -6
+            },
+            "Range": { "Max": 60, "Base": 30, "Scale": 0.3 }
+          }
+        },
+        {
+          "description": "When selling Fruits with Sylvan Mutation, <Chance>% chance a random mutation from that fruit will be applied to the fruits in your garden!",
+          "name": "Nature Diety",
+          "states": { "Chance": { "Max": 12, "Base": 6, "Scale": 0.1 } }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
         }
       ]
     },
@@ -10071,6 +10359,38 @@
       ]
     },
     {
+      "assetId": "115334779933394",
+      "name": "Prince Wasp",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, flies to a nearby fruit and pollinates it, applying Pollinated mutation!",
+          "name": "Wasp Pollinator",
+          "states": {
+            "Cooldown": {
+              "Min": 60,
+              "Formatter": "ColonTime",
+              "Base": 1800,
+              "Scale": -18
+            }
+          }
+        },
+        {
+          "description": "Every <Cooldown>m, stings a random pet and advances its ability cooldown by <Amount>s! There is a <Chance>% for it to sting again each time!",
+          "name": "Prince Stinger",
+          "states": {
+            "Chance": { "Max": 20, "Base": 10, "Scale": 0.05 },
+            "Cooldown": {
+              "Min": 60,
+              "Formatter": "ColonTime",
+              "Base": 602,
+              "Scale": -6
+            },
+            "Amount": { "Base": 60, "Scale": 0.6 }
+          }
+        }
+      ]
+    },
+    {
       "assetId": "109286664311807",
       "name": "Professor Bee",
       "passives": [
@@ -10156,6 +10476,30 @@
               "Scale": -16
             }
           }
+        }
+      ]
+    },
+    {
+      "assetId": "90948689267383",
+      "name": "Quetzal",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, <Chance>% chance to mutate a nearby fruit, applying the Resplendent mutation!",
+          "name": "Resplendent Bird",
+          "states": {
+            "Cooldown": {
+              "Min": 150,
+              "Formatter": "ColonTime",
+              "Base": 300,
+              "Scale": -3
+            },
+            "Chance": { "Max": 30, "Base": 15, "Scale": 0.15 }
+          }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
         }
       ]
     },
@@ -10537,7 +10881,7 @@
       "name": "Rainbow Elemental Bee",
       "passives": [
         {
-          "description": "Every <Cooldown>m, mutates a random fruit in your garden with Frost, Windstruck, Verdant or Flaming!",
+          "description": "Every <Cooldown>m, mutates a random fruit in your garden with Frozen, Windstruck, Verdant or Flaming!",
           "name": "Rainbow Beelemental",
           "states": {
             "Cooldown": {
@@ -10590,10 +10934,10 @@
           "name": "Rainbow For the Empress",
           "states": {
             "Cooldown": {
-              "Min": 320,
+              "Min": 300,
               "Formatter": "ColonTime",
-              "Base": 640,
-              "Scale": -8
+              "Base": 600,
+              "Scale": -7.2
             },
             "AmountPets": { "Max": 4, "Base": 2, "Scale": 0.02 }
           }
@@ -11061,6 +11405,57 @@
             },
             "Chance": { "Max": 48, "Base": 24, "Scale": 0.24 }
           }
+        }
+      ]
+    },
+    {
+      "assetId": "89851919447496",
+      "name": "Rainbow Monitor Lizard",
+      "passives": [
+        {
+          "description": "If there’s only 1 Monitor Lizard in your garden: Every <Cooldown>m, eats a mutated fruit. For <Duration>s, each mutation (Max 15) boosts all pet cooldowns an extra <AmountPet>s every second and plant growth <AmountPlant>s every second! Ignores favorited",
+          "name": "Rainbow Solitary Monitary",
+          "states": {
+            "AmountPet": { "Max": 1.2, "Base": 0.6, "Scale": 0.005 },
+            "Duration": { "Max": 24, "Base": 12, "Scale": 0.1 },
+            "Cooldown": {
+              "Min": 250,
+              "Formatter": "ColonTime",
+              "Base": 500,
+              "Scale": -5
+            },
+            "AmountPlant": { "Max": 14, "Base": 7, "Scale": 0.05 }
+          }
+        }
+      ]
+    },
+    {
+      "assetId": "94640384043725",
+      "name": "Rainbow Moss Wyvern",
+      "passives": [
+        {
+          "description": "Every <Cooldown>m, converts all Verdant or Resplendent mutation within <Range> studs to Sylvan mutation. For every mutation converted: <XPAmount> XP is added to all other pets in your garden. (Max 12,000 XP) Ignores favorited fruit",
+          "name": "Rainbow Conversion of Nature",
+          "states": {
+            "XPAmount": { "Max": 1400, "Base": 700, "Scale": 50 },
+            "Cooldown": {
+              "Min": 210,
+              "Formatter": "ColonTime",
+              "Base": 420,
+              "Scale": -6
+            },
+            "Range": { "Max": 80, "Base": 40, "Scale": 0.3 }
+          }
+        },
+        {
+          "description": "When selling Fruits with Sylvan Mutation, <Chance>% chance a random mutation from that fruit will be applied to the fruits in your garden!",
+          "name": "Rainbow Nature Diety",
+          "states": { "Chance": { "Max": 24, "Base": 12, "Scale": 0.1 } }
+        },
+        {
+          "description": " ",
+          "name": "Movement Variation",
+          "states": { "Cooldown": { "Min": 8, "Base": 8, "Scale": 0 } }
         }
       ]
     },
@@ -12996,78 +13391,81 @@
     "Silver Divine Seed Pack",
     "Exotic Hive Seed Pack",
     "Rainbow Exotic Sprout Seed Pack",
+    "Rainbow Exotic Hive Seed Pack",
     "Exotic Gardener Seed Pack",
+    "Hive Seed Pack",
     "Silver Common Seed Pack",
     "Silver Rare Seed Pack",
     "Exotic Kitsune Chest",
     "Exotic Zen Seed Pack",
-    "Rainbow Exotic Hive Seed Pack",
-    "Hive Seed Pack",
-    "Exotic Santa's Surprise Present",
     "Honey Hive Seed Pack",
-    "Rainbow Exotic Enchanted Chest",
     "Rainbow Exotic Easter Seed Pack",
+    "Exotic Easter Seed Pack",
+    "Exotic Santa's Surprise Present",
+    "Easter Seed Pack",
+    "Rainbow Exotic Enchanted Chest",
+    "Admin Pack",
     "Exotic Enchanted Seed Pack",
     "Premium Night Seed Pack",
     "Rainbow Exotic Kitsune Chest",
     "Exotic Zenith Seed Pack",
-    "Exotic Easter Seed Pack",
-    "Easter Seed Pack",
+    "Rainbow Gift",
+    "Gold Gift",
     "Elemental Container",
     "Safari Seed Pack",
-    "Admin Pack",
+    "Mythical Gift",
     "Culinarian Chest",
     "Kitsune Chest",
     "Exotic Season 4 Seed Pack",
-    "Rainbow Gift",
-    "Gold Gift",
+    "Rainbow Exotic Nutty Chest",
+    "Rainbow Exotic Holiday Seed Pack",
     "Exotic Flower Seed Pack",
     "Bad Present",
-    "Mythical Gift",
+    "Exotic Holiday Seed Pack",
     "Basic Seed Pack",
-    "Rainbow Exotic Safari Seed Pack",
+    "Exotic Nutty Chest",
     "Prime Seed Pack",
     "Exotic Summer Seed Pack",
-    "Rainbow Exotic Holiday Seed Pack",
+    "Rainbow Exotic Santa's Surprise Present",
     "Rainbow Exotic Season 4 Seed Pack",
     "Rainbow Exotic Gourmet Seed Pack",
     "Halloween Gear Box",
     "Enchanted Chest",
-    "Exotic Holiday Seed Pack",
-    "Special Exotic Spooky Chest",
-    "Rainbow Exotic Santa's Surprise Present",
-    "Exotic Safari Seed Pack",
+    "Sprout Seed Pack",
+    "Christmas Present",
+    "Normal Present",
     "Silver Legendary Seed Pack",
     "Rare Present",
-    "Christmas Present",
+    "Rainbow Exotic Buttercup Chest",
     "Rainbow Exotic Skyroot Chest",
     "Exotic Buttercup Chest",
     "Exotic Ancient Seed Pack",
-    "Normal Present",
+    "Rainbow Buttercup Chest",
     "Rainbow Basic Seed Pack",
     "Silver Mythical Seed Pack",
+    "Silver Uncommon Seed Pack",
     "Rainbow Premium Seed Pack",
-    "Rainbow Exotic Buttercup Chest",
+    "Artisan Container",
     "Zen Seed Pack",
     "Exotic Gem Chest",
     "Nutty Chest",
-    "Rainbow Buttercup Chest",
-    "Season 4 Seed Pack",
-    "Silver Uncommon Seed Pack",
-    "Artisan Container",
-    "Exotic Crafters Seed Pack",
     "Rainbow Exotic Gem Chest",
+    "Season 4 Seed Pack",
     "Gem Chest",
+    "Rainbow Exotic Safari Seed Pack",
+    "Exotic Crafters Seed Pack",
+    "Exotic Safari Seed Pack",
+    "Special Exotic Spooky Chest",
     "Common Gift",
     "Santa's Surprise Present",
-    "Rainbow Exotic Nutty Chest",
+    "Exotic Season 5 Seed Pack",
     "Exotic Spooky Chest",
     "Rainbow Exotic Fall Seed Pack",
     "Holiday Seed Pack",
-    "Sprout Seed Pack",
+    "Rainbow Exotic Season 5 Seed Pack",
     "Exotic Seed Pack",
     "Ancient Seed Pack",
-    "Exotic Nutty Chest",
+    "Season 5 Seed Pack",
     "Silver Fall Seed Pack",
     "Rainbow Exotic Zen Seed Pack",
     "Rainbow Exotic Prime Seed Pack",
@@ -13132,6 +13530,7 @@
     "Rainbow",
     "Rhino",
     "Rideable",
+    "RoyalJelly",
     "Shiny",
     "Shocked",
     "Silver",
@@ -13170,6 +13569,7 @@
     "Rainbow Kodama": 22000,
     "Gardener Bee": 25000,
     "Mole": 50000,
+    "Honey Badger": 30000,
     "Red Rose Fox": 37500,
     "Peryton": 200000,
     "Festive Frost Squirrel": 25000,
@@ -13191,7 +13591,7 @@
     "GIANT Swan": 56000,
     "Rainbow Bumblebee": 30000,
     "Red Dragon": 10000,
-    "Rainbow Show Pony": 88000,
+    "Rainbow Monitor Lizard": 45000,
     "Mochi Mouse": 25000,
     "Pack Mule": 70000,
     "Rainbow Chinchilla": 50000,
@@ -13233,7 +13633,7 @@
     "Nyala": 60000,
     "Queen Bee": 65000,
     "Rainbow Maneki-neko": 1777,
-    "Galah Cockatoo": 12000,
+    "Crab": 3000,
     "Rainbow New Year's Chimp": 40000,
     "Toucan": 9000,
     "Gorilla Chef": 55000,
@@ -13250,74 +13650,85 @@
     "Nurse Bee": 25000,
     "Salmon": 2500,
     "Ghostly Spider": 35000,
+    "Sea Otter": 30000,
+    "Grey Mouse": 15000,
+    "Red Fox": 35000,
+    "Mimic Octopus": 25000,
     "Seagull": 3500,
+    "Moon Cat": 2400,
+    "Hootsie Roll": 50000,
     "Festive Wendigo": 555555,
+    "Tarantula Hawk": 28000,
     "Festive Partridge": 25000,
+    "Butterfly": 26000,
+    "Moss Wyvern": 300000,
+    "Rainbow Cuckoo": 3500,
     "Rainbow Arctic Fox": 35000,
+    "Black Bird": 20000,
     "Spotted Deer": 2500,
     "French Fry Ferret": 37000,
     "Beaver": 33000,
     "Cheetah": 67676,
-    "Sea Otter": 30000,
-    "Grey Mouse": 15000,
-    "Ghostly Black Cat": 40000,
-    "Red Fox": 35000,
+    "Rainbow Black Bird": 20000,
+    "Sand Snake": 28000,
+    "King Bee": 250000,
+    "Spider": 35000,
     "Cow": 9500,
     "Bumblebee": 30000,
     "Silver Dragonfly": 50000,
     "Rainbow Mizuchi": 70000,
-    "Pancake Mole": 50000,
+    "Galah Cockatoo": 12000,
     "Golden Bee": 25000,
-    "Moon Cat": 2400,
-    "Red Panda": 30000,
-    "Tarantula Hawk": 28000,
+    "Pachycephalosaurus": 40000,
+    "Stork": 40000,
+    "German Shepherd": 2500,
     "Lyrebird": 100000,
     "Dog": 1000,
     "Rainbow Pachycephalosaurus": 40000,
-    "Butterfly": 26000,
+    "Birb": 49999,
     "Hyrax": 25000,
-    "Chocolate Bunny": 1100,
+    "Black Bunny": 1300,
     "Koi": 2500,
-    "Rainbow Cuckoo": 3500,
+    "Raiju": 42000,
     "Gilded Choc Peryton": 200000,
     "Woody": 30000,
     "Night Owl": 50000,
-    "Black Bird": 20000,
+    "Sushi Bear": 20000,
     "Rainbow Giraffe": 44000,
     "Iguana": 40000,
-    "Rainbow Black Bird": 20000,
-    "Sand Snake": 28000,
+    "Bacon Pig": 5000,
+    "Rainbow Performer Seal": 32000,
     "Santa Bear": 67000,
     "Rainbow Pink Bunny": 1300,
     "Cat": 1400,
     "Bat": 5000,
-    "Spider": 35000,
-    "Pink Bunny": 1300,
-    "German Shepherd": 2500,
-    "Pachycephalosaurus": 40000,
-    "Rainbow Stag Beetle": 25000,
-    "Tsuchinoko": 28000,
-    "Hyacinth Macaw": 12000,
-    "Rainbow Bear on Bike": 150000,
-    "Birb": 49999,
-    "Black Bunny": 1300,
-    "Raiju": 42000,
-    "Sushi Bear": 20000,
-    "Golem": 32000,
-    "Bacon Pig": 5000,
-    "Rainbow Zebra": 33000,
     "Green Bean": 23825,
+    "Pink Bunny": 1300,
+    "Ghost Bear": 30000,
     "Rainbow Corrupted Kitsune": 49999,
+    "Rainbow Stag Beetle": 25000,
+    "Rainbow Parasaurolophus": 40000,
+    "Hyacinth Macaw": 12000,
+    "Rainbow Zebra": 33000,
+    "Rainbow Show Pony": 88000,
+    "Mandrake": 10000,
+    "Griffin": 65000,
+    "Ladybug": 1200,
+    "Golem": 32000,
+    "Cape Buffalo": 50000,
+    "Pixie": 500,
+    "Glimmering Sprite": 25000,
+    "Chipmunk": 15000,
     "Jandel Monkey": 12000,
     "Wind-Up Rat": 26000,
     "Robin": 1500,
     "Cerberus": 199998,
     "Lioness": 100000,
-    "Rainbow New Year's Bird": 2026,
-    "Rainbow Parasaurolophus": 40000,
+    "Luminous Sprite": 25000,
+    "New Year's Chimp": 40000,
     "Ash Raven": 1500,
-    "Ghostly Mummy": 88000,
-    "Star Wolf": 55000,
+    "Starfish": 1500,
+    "Rainbow New Year's Bird": 2026,
     "Chimera": 123123,
     "Nutcracker": 44000,
     "Sugar Glider": 16000,
@@ -13325,63 +13736,63 @@
     "Angora Goat": 60000,
     "Diamond Dragonfly": 100000,
     "Celebration Puppy": 2026,
-    "Mandrake": 10000,
+    "Caterpillar": 25000,
     "Jackalope": 22000,
     "Ostrich": 20000,
-    "Griffin": 65000,
+    "Hedgehog": 30000,
     "Trapdoor Spider": 2000,
-    "Ladybug": 1200,
-    "Wasp": 28000,
+    "Diamond Panther": 100000,
+    "Elephant": 111000,
     "Maneki-neko": 1777,
-    "Pixie": 500,
-    "Glimmering Sprite": 25000,
+    "Rainbow Nurse Bee": 25000,
+    "GIANT Robin": 1500,
     "New Year's Dragon": 300000,
-    "New Year's Chimp": 40000,
+    "GIANT Grizzly Bear": 55000,
     "Calico": 2500,
-    "Luminous Sprite": 25000,
+    "Golden Goose": 48000,
     "Firefly": 25000,
-    "Firework Sprite": 20260,
+    "Space Squirrel": 25000,
     "Rainbow Elk": 2500,
-    "Starfish": 1500,
-    "Champion Beetle": 25000,
+    "Tree Frog": 16000,
+    "Parasaurolophus": 40000,
     "Black Cat": 40000,
-    "Caterpillar": 25000,
+    "Arctic Fox": 35000,
     "Hex Serpent": 66666,
     "Monkey": 7400,
-    "Festive Santa Bear": 67000,
+    "Firework Sprite": 20260,
     "Squirrel": 15000,
-    "Bunny": 1100,
+    "Hummingbird": 8000,
     "GIANT Mantis Shrimp": 40000,
-    "Elephant": 111000,
-    "Corrupted Kodama": 22000,
-    "GIANT Robin": 1500,
-    "GIANT Grizzly Bear": 55000,
-    "Parasaurolophus": 40000,
-    "Space Squirrel": 25000,
-    "Tree Frog": 16000,
+    "Rainbow Mandrake": 10000,
+    "Turtle Dove": 10000,
+    "Festive Santa Bear": 67000,
+    "Owl": 50000,
+    "Blood Kiwi": 45000,
+    "Mizuchi": 70000,
+    "GIANT Silver Dragonfly": 50000,
     "Rainbow Blue Jay": 1500,
-    "Arctic Fox": 35000,
-    "Pumpkin Rat": 6000,
+    "Flamingo": 14000,
+    "Rainbow Snow Bunny": 1500,
     "Grizzly Bear": 55000,
     "Echo Frog": 50000,
     "French Hen": 5000,
     "Bee": 25000,
-    "Fortune Squirrel": 30000,
+    "Idol Chipmunk": 30000,
     "Sea Turtle": 22200,
     "Rainbow Hazehound": 66666,
-    "Hummingbird": 8000,
-    "Rainbow Mandrake": 10000,
+    "Rainbow Farmer Chipmunk": 15000,
+    "Seal": 17000,
     "Water Buffalo": 50000,
     "Raptor": 40000,
     "Oxpecker": 1500,
     "Rainbow Shroomie": 20000,
     "GIANT Snowman Soldier": 23000,
     "Headless Horseman": 77777,
-    "Turtle Dove": 10000,
+    "Hamster": 15000,
     "Rainbow Hydra": 333333,
-    "Goblin Miner": 38000,
+    "Hazehound": 66666,
     "Chicken Zombie": 35000,
-    "Owl": 50000,
+    "Rainbow Bearded Dragon": 45000,
     "Rainbow Oxpecker": 1500,
     "Easter Egg Chick": 3400,
     "Sapphire Macaw": 12000,
@@ -13389,139 +13800,139 @@
     "Pack Bee": 25000,
     "Football": 870,
     "Axolotl": 22000,
-    "Blood Kiwi": 45000,
+    "Rainbow Moss Wyvern": 300000,
     "Giant Ant": 18000,
-    "Mizuchi": 70000,
-    "Mistletoad": 50000,
+    "Festive Reindeer": 24000,
+    "Quetzal": 25000,
     "Bearded Dragon": 45000,
-    "GIANT Silver Dragonfly": 50000,
-    "Flamingo": 14000,
-    "Rainbow Snow Bunny": 1500,
-    "Idol Chipmunk": 30000,
-    "Rainbow Farmer Chipmunk": 15000,
+    "Festive Turtle Dove": 10000,
+    "Crow": 1500,
+    "Goblin": 38000,
+    "Rainbow Cardinal": 1500,
+    "Apple Gazelle": 25000,
     "Turtle": 10000,
     "Pig": 5000,
-    "Ghostly Headless Horseman": 77777,
+    "Tomb Marmot": 38000,
     "Wisp": 1000,
     "Elemental Bee": 25000,
-    "Hamster": 15000,
+    "Mummy": 88000,
     "Rainbow Firework Sprite": 20260,
     "Moth": 25000,
-    "Crab": 3000,
-    "Festive Moose": 55000,
-    "Rainbow Krampus": 111111,
     "Rainbow Christmas Gorilla": 55000,
+    "Rainbow French Hen": 5000,
+    "Rainbow Phoenix": 65000,
+    "Rainbow Iguanodon": 40000,
     "Pterodactyl": 40000,
     "Marmot": 38000,
     "Peacock": 19000,
     "Seedling": 25000,
     "Gilded Choc Jerboa": 10000,
-    "Crow": 1500,
-    "Goblin": 38000,
+    "Wolf": 55000,
+    "Zebra": 33000,
     "Junkbot": 10101,
-    "Rainbow Cardinal": 1500,
+    "Scarlet Macaw": 12000,
     "Brown Mouse": 15000,
-    "Apple Gazelle": 25000,
-    "Tomb Marmot": 38000,
-    "Mummy": 88000,
+    "Blood Owl": 50000,
+    "Magpie": 10000,
+    "Wendigo": 555555,
     "Summer Kiwi": 50000,
     "Ruby Squid": 60000,
     "Orange Tabby": 1500,
     "Tanchozuru": 40000,
-    "Magpie": 10000,
-    "Penguin": 12000,
-    "Rainbow Phoenix": 65000,
-    "Rainbow Iguanodon": 40000,
-    "Rainbow Fortune Squirrel": 30000,
-    "Wolf": 55000,
-    "Zebra": 33000,
-    "Unicycle Monkey": 35000,
-    "Phoenix": 65000,
-    "Rainbow Magpie": 10000,
-    "Ghostly Scarab": 2000,
-    "Rainbow Idol Chipmunk": 30000,
-    "Clam": 500,
-    "Brown Owl": 50000,
-    "Spaghetti Sloth": 18000,
-    "Geode Turtle": 22200,
-    "Festive Yeti": 300000,
+    "Petal Bee": 25000,
+    "Camel": 55000,
     "Tiger": 100000,
     "Woodpecker": 5000,
-    "Petal Bee": 25000,
-    "Festive Nutcracker": 44000,
+    "Rainbow Fortune Squirrel": 30000,
+    "Messenger Pigeon": 10000,
+    "Honey Bee": 25000,
+    "Unicycle Monkey": 35000,
+    "Phoenix": 65000,
+    "Rainbow Elephant": 111000,
+    "Ghostly Scarab": 2000,
+    "Rainbow Idol Chipmunk": 30000,
+    "Gecko": 1500,
+    "Brown Owl": 50000,
+    "Spaghetti Sloth": 18000,
+    "Red Giant Ant": 15000,
+    "Hyena": 25000,
+    "GIANT Leaf Insect": 11000,
+    "Leaf Insect": 11000,
+    "Hippo": 120000,
+    "Prince Wasp": 33000,
     "Dairy Cow": 9000,
     "Amethyst Beetle": 25000,
-    "Lich": 100000,
+    "Radioactive Stegosaurus": 40000,
     "Rainbow Star Wolf": 55000,
     "GIANT Snowman Builder": 23000,
-    "Topaz Snail": 12000,
+    "Lemon Lion": 50000,
     "Gold Finch": 49999,
     "Krampus": 111111,
     "Rainbow Dilophosaurus": 30000,
     "Smithing Dog": 1500,
-    "Lemon Lion": 50000,
-    "Radioactive Stegosaurus": 40000,
+    "Topaz Snail": 12000,
+    "Lich": 100000,
     "Kodama": 22000,
     "T-Rex": 60000,
     "Cocoa Cat": 40000,
     "Silver Piggy": 24000,
-    "Honey Bee": 25000,
+    "Emerald Snake": 28000,
     "Gilded Choc Easter Egg Chick": 3400,
-    "Rainbow Elephant": 111000,
-    "Gecko": 1500,
-    "Red Giant Ant": 15000,
+    "Geode Turtle": 22200,
+    "Clam": 500,
+    "Rainbow Magpie": 10000,
     "Gilded Choc Chocolate Bunny": 1100,
-    "Hyena": 25000,
-    "Hippo": 120000,
+    "Capybara": 30000,
+    "Festive Nutcracker": 44000,
     "Rainbow Gardener Bee": 25000,
     "Bald Eagle": 15000,
     "Rooster": 4000,
     "Rainbow Celebration Puppy": 2026,
     "Rainbow Clam": 500,
     "Christmas Spirit": 12321,
-    "Emerald Snake": 28000,
+    "Snowman Builder": 23000,
     "Sunny-Side Chicken": 3400,
     "GIANT Firefly": 25000,
     "Stegosaurus": 40000,
-    "Capybara": 30000,
+    "Penguin": 12000,
     "Rainbow Rhino": 66000,
-    "Messenger Pigeon": 10000,
-    "Camel": 55000,
-    "Snowman Builder": 23000,
-    "Flame Bee": 25000,
-    "Blood Owl": 50000,
-    "Scarlet Macaw": 12000,
-    "Specter": 44444,
     "Snow Bunny": 1500,
     "Farmer Chipmunk": 15000,
-    "Rainbow French Hen": 5000,
+    "Monitor Lizard": 45000,
+    "Flame Bee": 25000,
+    "Rainbow Krampus": 111111,
+    "Festive Moose": 55000,
+    "Specter": 44444,
+    "Reindeer": 24000,
+    "Yeti": 300000,
+    "Ghostly Headless Horseman": 77777,
     "Raccoon": 45000,
     "Ice Golem": 250000,
     "Rainbow Empress Bee": 250000,
-    "Reindeer": 24000,
-    "Yeti": 300000,
+    "Dark Spriggan": 45000,
+    "Festive Yeti": 300000,
     "Frost Squirrel": 25000,
-    "Festive Turtle Dove": 10000,
-    "Festive Reindeer": 24000,
+    "Champion Beetle": 25000,
+    "Rainbow Hotdog Daschund": 16000,
     "Spring Bee": 25000,
     "Blue Jay": 1500,
-    "Rainbow Bearded Dragon": 45000,
-    "Dark Spriggan": 45000,
+    "Fortune Squirrel": 30000,
+    "Pumpkin Rat": 6000,
     "Professor Bee": 25000,
     "Barn Owl": 50000,
     "Rainbow Ankylosaurus": 40000,
     "New Year's Bird": 2026,
     "Show Pony": 88000,
-    "Rainbow Hotdog Daschund": 16000,
+    "Mistletoad": 50000,
     "Pink Panda": 20000,
     "GIANT Badger": 15000,
     "Cooked Owl": 50000,
-    "Wendigo": 555555,
+    "Mallard": 15000,
     "Black Spotty Dragon": 300000,
     "Lion": 100000,
-    "Mallard": 15000,
-    "Golden Goose": 48000,
-    "Rainbow Nurse Bee": 25000,
+    "Corrupted Kodama": 22000,
+    "Bunny": 1100,
+    "Carpenter Bee": 25000,
     "Goblin Gardener": 38000,
     "Praying Mantis": 55000,
     "Kappa": 40000,
@@ -13529,44 +13940,44 @@
     "Rainbow Carnival Elephant": 133000,
     "Stag Beetle": 25000,
     "Scarab": 2000,
-    "Hedgehog": 30000,
+    "Rainbow Cerberus": 199998,
     "Badger": 15000,
-    "Chipmunk": 15000,
     "Wind Wyvern": 300000,
+    "Wasp": 28000,
     "Bagel Bunny": 1200,
-    "Diamond Panther": 100000,
-    "Cape Buffalo": 50000,
     "Golden Lab": 1200,
+    "Star Wolf": 55000,
+    "Ghostly Mummy": 88000,
     "Cockatrice": 66000,
     "Rainbow Lobster Thermidor": 50505,
     "Performer Seal": 32000,
     "Peach Wasp": 2500,
     "Rainbow Spinosaurus": 25000,
-    "Ghost Bear": 30000,
-    "Carnival Elephant": 133000,
-    "Ghostly Bat": 5000,
-    "Seal": 17000,
     "Spriggan": 45000,
+    "Carnival Elephant": 133000,
+    "Rainbow Bear on Bike": 150000,
+    "Ghostly Bat": 5000,
+    "Tsuchinoko": 28000,
     "Pine Beetle": 25000,
-    "Rainbow Performer Seal": 32000,
+    "Ghostly Tomb Marmot": 38000,
     "Mantis Shrimp": 40000,
     "Easter Bunny": 35000,
-    "Ghostly Tomb Marmot": 38000,
+    "Goblin Miner": 38000,
     "GIANT Barn Owl": 50000,
     "Ghostly Bone Dog": 15000,
+    "GIANT Quetzal": 25000,
     "Chicken": 3400,
+    "Chocolate Bunny": 1100,
     "Dragonfly": 100000,
-    "Hazehound": 66666,
-    "Rainbow Cerberus": 199998,
     "Cuckoo": 3500,
-    "Orangutan": 55000,
-    "Mimic Octopus": 25000,
-    "Rainbow Brown Owl": 50000,
     "Polar Bear": 20000,
+    "Orangutan": 55000,
+    "Rainbow Brown Owl": 50000,
+    "Ghostly Black Cat": 40000,
     "Rainbow Frost Dragon": 300000,
-    "Hootsie Roll": 50000,
-    "Stork": 40000,
-    "Candy Squirrel": 15000
+    "Candy Squirrel": 15000,
+    "Red Panda": 30000,
+    "Pancake Mole": 50000
   },
   "craftingRecipes": {
     "RecipiesSortedByMachineType": {
@@ -13628,29 +14039,6 @@
             }
           }
         },
-        "Glimmering Crate": {
-          "LayoutOrder": 50,
-          "Inputs": {
-            "1": {
-              "ItemType": "CosmeticCrate",
-              "ItemData": {
-                "AcceptAllTypes": false,
-                "ItemName": "Enchanted Crate"
-              }
-            }
-          },
-          "TimeToCraft": 300,
-          "Cost": { "CurrencyType": "FairyPoints", "Amount": 1000 },
-          "PurchaseID": 3394269769,
-          "MachineTypes": { "1": "FairyWorldCraftingWorkBench" },
-          "RobuxPrice": 179,
-          "Outputs": {
-            "1": {
-              "ItemType": "CosmeticCrate",
-              "ItemData": { "ItemName": "Glimmering Crate", "Quantity": 1 }
-            }
-          }
-        },
         "Enchanted Seed Pack": {
           "LayoutOrder": 20,
           "Inputs": {
@@ -13672,6 +14060,29 @@
             "1": {
               "ItemType": "Seed Pack",
               "ItemData": { "ItemName": "Enchanted Seed Pack", "Quantity": 1 }
+            }
+          }
+        },
+        "Glimmering Crate": {
+          "LayoutOrder": 50,
+          "Inputs": {
+            "1": {
+              "ItemType": "CosmeticCrate",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Enchanted Crate"
+              }
+            }
+          },
+          "TimeToCraft": 300,
+          "Cost": { "CurrencyType": "FairyPoints", "Amount": 1000 },
+          "PurchaseID": 3394269769,
+          "MachineTypes": { "1": "FairyWorldCraftingWorkBench" },
+          "RobuxPrice": 179,
+          "Outputs": {
+            "1": {
+              "ItemType": "CosmeticCrate",
+              "ItemData": { "ItemName": "Glimmering Crate", "Quantity": 1 }
             }
           }
         },
@@ -13977,17 +14388,18 @@
               }
             }
           },
-          "TimeToCraft": 14400,
           "Cost": { "CurrencyType": "Honey", "Amount": 250 },
           "PurchaseID": 3306484257,
-          "MachineTypes": { "1": "GearEventWorkbench" },
           "RobuxPrice": 799,
+          "TimeToCraft": 14400,
           "Outputs": {
             "1": {
               "ItemType": "Pet",
               "ItemData": { "ItemName": "Pack Bee", "Quantity": 1 }
             }
-          }
+          },
+          "MachineTypes": { "1": "GearEventWorkbench" },
+          "DisplayInCrafting": false
         },
         "Reclaimer": {
           "LayoutOrder": 8,
@@ -14305,17 +14717,62 @@
               "ItemData": { "AcceptAllTypes": false, "ItemName": "Bee Egg" }
             }
           },
-          "TimeToCraft": 7200,
           "Cost": { "CurrencyType": "Honey", "Amount": 25 },
           "PurchaseID": 3306484244,
-          "MachineTypes": { "1": "GearEventWorkbench" },
           "RobuxPrice": 149,
+          "TimeToCraft": 7200,
           "Outputs": {
             "1": {
               "ItemType": "PetEgg",
               "ItemData": { "ItemName": "Anti Bee Egg", "Quantity": 1 }
             }
-          }
+          },
+          "MachineTypes": { "1": "GearEventWorkbench" },
+          "DisplayInCrafting": false
+        },
+        "Flower Froster Sprinkler": {
+          "LayoutOrder": 50,
+          "Inputs": {
+            "1": {
+              "ItemType": "Holdable",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Orange Tulip"
+              }
+            },
+            "4": {
+              "ItemType": "Sprinkler",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Basic Sprinkler"
+              }
+            },
+            "3": {
+              "ItemType": "Sprinkler",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Advanced Sprinkler"
+              }
+            },
+            "2": {
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Daffodil" }
+            }
+          },
+          "Outputs": {
+            "1": {
+              "ItemType": "Gear",
+              "ItemData": {
+                "ItemName": "Flower Froster Sprinkler",
+                "Quantity": 1
+              }
+            }
+          },
+          "TimeToCraft": 3600,
+          "PurchaseID": 3306484243,
+          "MachineTypes": { "1": "GearEventWorkbench" },
+          "RobuxPrice": 229,
+          "DisplayInCrafting": false
         },
         "Pet Pouch": {
           "LayoutOrder": 118,
@@ -14473,49 +14930,41 @@
             }
           }
         },
-        "Flower Froster Sprinkler": {
-          "LayoutOrder": 50,
+        "Black Spotty Egg": {
+          "LayoutOrder": 180,
           "Inputs": {
             "1": {
-              "ItemType": "Holdable",
-              "ItemData": {
-                "AcceptAllTypes": false,
-                "ItemName": "Orange Tulip"
-              }
+              "ItemType": "PetEgg",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Rare Egg" }
             },
             "4": {
-              "ItemType": "Sprinkler",
+              "ItemType": "Seed",
               "ItemData": {
                 "AcceptAllTypes": false,
-                "ItemName": "Basic Sprinkler"
+                "ItemName": "Crimson Thorn"
               }
             },
             "3": {
-              "ItemType": "Sprinkler",
-              "ItemData": {
-                "AcceptAllTypes": false,
-                "ItemName": "Advanced Sprinkler"
-              }
+              "ItemType": "Seed",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Zebrazinkle" }
             },
             "2": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Daffodil" }
+              "ItemType": "Seed",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Octobloom" }
             }
           },
+          "Cost": { "CurrencyType": "Sheckles", "Amount": 1000000000000000 },
+          "PurchaseID": 3596451885,
+          "RobuxPrice": 829,
+          "TimeToCraft": 14400,
           "Outputs": {
             "1": {
-              "ItemType": "Gear",
-              "ItemData": {
-                "ItemName": "Flower Froster Sprinkler",
-                "Quantity": 1
-              }
+              "ItemType": "PetEgg",
+              "ItemData": { "ItemName": "Black Spotty Egg", "Quantity": 1 }
             }
           },
-          "TimeToCraft": 3600,
-          "PurchaseID": 3306484243,
           "MachineTypes": { "1": "GearEventWorkbench" },
-          "RobuxPrice": 229,
-          "DisplayInCrafting": false
+          "DisplayInCrafting": true
         },
         "Chimera Stone": {
           "LayoutOrder": 170,
@@ -14694,41 +15143,38 @@
           "MachineTypes": { "1": "SeedEventWorkbench" },
           "DisplayInCrafting": false
         },
-        "Lumira": {
-          "LayoutOrder": 160,
+        "Evo Apple II": {
+          "LayoutOrder": 15,
           "Inputs": {
             "1": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Pumpkin" }
+              "ItemType": "Seed",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
             },
             "4": {
-              "ItemType": "Seed Pack",
-              "ItemData": {
-                "AcceptAllTypes": false,
-                "ItemName": "Flower Seed Pack"
-              }
+              "ItemType": "Seed",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
             },
             "3": {
-              "ItemType": "Seed",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Dandelion" }
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
             },
             "2": {
               "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Pumpkin" }
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
             }
           },
-          "Cost": { "CurrencyType": "Honey", "Amount": 40 },
-          "PurchaseID": 3306485023,
-          "RobuxPrice": 529,
+          "Cost": { "CurrencyType": "Sheckles", "Amount": 30000000 },
+          "PurchaseID": 3420524026,
+          "RobuxPrice": 349,
           "TimeToCraft": 1200,
           "Outputs": {
             "1": {
               "ItemType": "Seed",
-              "ItemData": { "ItemName": "Lumira", "Quantity": 1 }
+              "ItemData": { "ItemName": "Evo Apple II", "Quantity": 1 }
             }
           },
           "MachineTypes": { "1": "SeedEventWorkbench" },
-          "DisplayInCrafting": false
+          "DisplayInCrafting": true
         },
         "Grand Volcania": {
           "LayoutOrder": 30,
@@ -14976,37 +15422,37 @@
           "MachineTypes": { "1": "SeedEventWorkbench" },
           "DisplayInCrafting": false
         },
-        "Veinpetal": {
-          "LayoutOrder": 15,
+        "Lumira": {
+          "LayoutOrder": 160,
           "Inputs": {
             "1": {
-              "ItemType": "Seed",
-              "ItemData": {
-                "AcceptAllTypes": false,
-                "ItemName": "Orange Tulip"
-              }
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Pumpkin" }
             },
             "4": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
+              "ItemType": "Seed Pack",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Flower Seed Pack"
+              }
             },
             "3": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+              "ItemType": "Seed",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Dandelion" }
             },
             "2": {
-              "ItemType": "Seed",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Daffodil" }
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Pumpkin" }
             }
           },
-          "Cost": { "CurrencyType": "Sheckles", "Amount": 650000 },
-          "PurchaseID": 3354091526,
-          "RobuxPrice": 459,
+          "Cost": { "CurrencyType": "Honey", "Amount": 40 },
+          "PurchaseID": 3306485023,
+          "RobuxPrice": 529,
           "TimeToCraft": 1200,
           "Outputs": {
             "1": {
               "ItemType": "Seed",
-              "ItemData": { "ItemName": "Veinpetal", "Quantity": 1 }
+              "ItemData": { "ItemName": "Lumira", "Quantity": 1 }
             }
           },
           "MachineTypes": { "1": "SeedEventWorkbench" },
@@ -15323,6 +15769,42 @@
           "MachineTypes": { "1": "SeedEventWorkbench" },
           "DisplayInCrafting": true
         },
+        "Veinpetal": {
+          "LayoutOrder": 15,
+          "Inputs": {
+            "1": {
+              "ItemType": "Seed",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Orange Tulip"
+              }
+            },
+            "4": {
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
+            },
+            "3": {
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+            },
+            "2": {
+              "ItemType": "Seed",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Daffodil" }
+            }
+          },
+          "Cost": { "CurrencyType": "Sheckles", "Amount": 650000 },
+          "PurchaseID": 3354091526,
+          "RobuxPrice": 459,
+          "TimeToCraft": 1200,
+          "Outputs": {
+            "1": {
+              "ItemType": "Seed",
+              "ItemData": { "ItemName": "Veinpetal", "Quantity": 1 }
+            }
+          },
+          "MachineTypes": { "1": "SeedEventWorkbench" },
+          "DisplayInCrafting": false
+        },
         "Crafters Seed Pack": {
           "LayoutOrder": 130,
           "Inputs": {
@@ -15346,39 +15828,6 @@
           },
           "MachineTypes": { "1": "SeedEventWorkbench" },
           "DisplayInCrafting": false
-        },
-        "Evo Apple II": {
-          "LayoutOrder": 15,
-          "Inputs": {
-            "1": {
-              "ItemType": "Seed",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
-            },
-            "4": {
-              "ItemType": "Seed",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
-            },
-            "3": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
-            },
-            "2": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
-            }
-          },
-          "Cost": { "CurrencyType": "Sheckles", "Amount": 30000000 },
-          "PurchaseID": 3420524026,
-          "RobuxPrice": 349,
-          "TimeToCraft": 1200,
-          "Outputs": {
-            "1": {
-              "ItemType": "Seed",
-              "ItemData": { "ItemName": "Evo Apple II", "Quantity": 1 }
-            }
-          },
-          "MachineTypes": { "1": "SeedEventWorkbench" },
-          "DisplayInCrafting": true
         },
         "Nectar Thorn": {
           "LayoutOrder": 190,
@@ -16077,38 +16526,35 @@
             }
           }
         },
-        "Skyroot Chest": {
-          "LayoutOrder": 100,
+        "Willowberry": {
+          "LayoutOrder": 160,
           "Inputs": {
             "1": {
               "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Flare Melon" }
             },
             "4": {
-              "ItemType": "PetEgg",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Sprout Egg" }
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
             },
             "3": {
-              "ItemType": "Seed Pack",
-              "ItemData": {
-                "AcceptAllTypes": false,
-                "ItemName": "Sprout Seed Pack"
-              }
+              "ItemType": "Holdable",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
             },
             "2": {
               "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Glowpod" }
             }
           },
           "TimeToCraft": 1800,
-          "Cost": { "CurrencyType": "Sheckles", "Amount": 7500000 },
-          "PurchaseID": 3379243998,
+          "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
+          "PurchaseID": 3379244616,
           "MachineTypes": { "1": "GiantBeanstalkEventWorkbench" },
-          "RobuxPrice": 199,
+          "RobuxPrice": 589,
           "Outputs": {
             "1": {
-              "ItemType": "Seed Pack",
-              "ItemData": { "ItemName": "Skyroot Chest", "Quantity": 1 }
+              "ItemType": "Seed",
+              "ItemData": { "ItemName": "Willowberry", "Quantity": 1 }
             }
           }
         },
@@ -16150,35 +16596,38 @@
             }
           }
         },
-        "Willowberry": {
-          "LayoutOrder": 160,
+        "Skyroot Chest": {
+          "LayoutOrder": 100,
           "Inputs": {
             "1": {
               "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Flare Melon" }
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
             },
             "4": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+              "ItemType": "PetEgg",
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Sprout Egg" }
             },
             "3": {
-              "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+              "ItemType": "Seed Pack",
+              "ItemData": {
+                "AcceptAllTypes": false,
+                "ItemName": "Sprout Seed Pack"
+              }
             },
             "2": {
               "ItemType": "Holdable",
-              "ItemData": { "AcceptAllTypes": false, "ItemName": "Glowpod" }
+              "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
             }
           },
           "TimeToCraft": 1800,
-          "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
-          "PurchaseID": 3379244616,
+          "Cost": { "CurrencyType": "Sheckles", "Amount": 7500000 },
+          "PurchaseID": 3379243998,
           "MachineTypes": { "1": "GiantBeanstalkEventWorkbench" },
-          "RobuxPrice": 589,
+          "RobuxPrice": 199,
           "Outputs": {
             "1": {
-              "ItemType": "Seed",
-              "ItemData": { "ItemName": "Willowberry", "Quantity": 1 }
+              "ItemType": "Seed Pack",
+              "ItemData": { "ItemName": "Skyroot Chest", "Quantity": 1 }
             }
           }
         }
@@ -16658,37 +17107,39 @@
           }
         }
       },
-      "Veinpetal": {
-        "LayoutOrder": 15,
+      "Tropical Mist Sprinkler": {
+        "LayoutOrder": 10,
         "Inputs": {
           "1": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Orange Tulip" }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Coconut" }
           },
           "4": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
+            "ItemType": "Sprinkler",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Godly Sprinkler"
+            }
           },
           "3": {
             "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mango" }
           },
           "2": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Daffodil" }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Dragon Fruit" }
           }
         },
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 650000 },
-        "PurchaseID": 3354091526,
-        "RobuxPrice": 459,
-        "TimeToCraft": 1200,
         "Outputs": {
           "1": {
-            "ItemType": "Seed",
-            "ItemData": { "ItemName": "Veinpetal", "Quantity": 1 }
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Tropical Mist Sprinkler", "Quantity": 1 }
           }
         },
-        "MachineTypes": { "1": "SeedEventWorkbench" },
+        "TimeToCraft": 3600,
+        "PurchaseID": 3306484251,
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "RobuxPrice": 229,
         "DisplayInCrafting": false
       },
       "Dinosaur Egg": {
@@ -17089,40 +17540,33 @@
           }
         }
       },
-      "Sweet Soaker Sprinkler": {
-        "LayoutOrder": 40,
+      "Shield Statue": {
+        "LayoutOrder": 400,
         "Inputs": {
           "1": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Watermelon" }
-          },
-          "4": {
-            "ItemType": "Sprinkler",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Master Sprinkler"
-            }
+            "ItemType": "Rare Coal",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Rare Coal" }
           },
           "3": {
             "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Watermelon" }
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Apple" }
           },
           "2": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Watermelon" }
+            "ItemType": "Favorite Tool",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Favorite Tool" }
           }
         },
+        "TimeToCraft": 900,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 10500000 },
+        "PurchaseID": 3455271420,
+        "MachineTypes": { "1": "SmithingEventCosmeticWorkbench" },
+        "RobuxPrice": 239,
         "Outputs": {
           "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Sweet Soaker Sprinkler", "Quantity": 1 }
+            "ItemType": "Cosmetic",
+            "ItemData": { "ItemName": "Shield Statue", "Quantity": 1 }
           }
-        },
-        "TimeToCraft": 3600,
-        "PurchaseID": 3306484252,
-        "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 229,
-        "DisplayInCrafting": false
+        }
       },
       "Yarrow": {
         "LayoutOrder": 300,
@@ -17537,6 +17981,37 @@
         "MachineTypes": { "1": "SeedEventWorkbench" },
         "DisplayInCrafting": false
       },
+      "Silver Ingot": {
+        "LayoutOrder": 130,
+        "Inputs": {
+          "1": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Sugar Apple" }
+          },
+          "3": {
+            "ItemType": "Sprinkler",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Basic Sprinkler"
+            }
+          },
+          "2": {
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Buttercup" }
+          }
+        },
+        "TimeToCraft": 60,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 150000 },
+        "PurchaseID": 3460380386,
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "RobuxPrice": 29,
+        "Outputs": {
+          "1": {
+            "ItemType": "Cosmetic",
+            "ItemData": { "ItemName": "Silver Ingot", "Quantity": 1 }
+          }
+        }
+      },
       "Olive@SeedEventWorkbench": {
         "LayoutOrder": 40,
         "Inputs": {
@@ -17575,34 +18050,35 @@
           }
         }
       },
-      "Silver Ingot": {
-        "LayoutOrder": 130,
+      "Silver Piggy": {
+        "LayoutOrder": 150,
         "Inputs": {
           "1": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Sugar Apple" }
+            "ItemType": "Pet",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Pig" }
+          },
+          "4": {
+            "ItemType": "PetBoost",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Medium Toy" }
           },
           "3": {
-            "ItemType": "Sprinkler",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Basic Sprinkler"
-            }
+            "ItemType": "Lightning Rod",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Lightning Rod" }
           },
           "2": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Buttercup" }
+            "ItemType": "Food",
+            "ItemData": { "ItemName": "Sushi", "Quantity": 1 }
           }
         },
-        "TimeToCraft": 60,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 150000 },
-        "PurchaseID": 3460380386,
+        "TimeToCraft": 1800,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 150000000 },
+        "PurchaseID": 3460381175,
         "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 29,
+        "RobuxPrice": 419,
         "Outputs": {
           "1": {
-            "ItemType": "Cosmetic",
-            "ItemData": { "ItemName": "Silver Ingot", "Quantity": 1 }
+            "ItemType": "Pet",
+            "ItemData": { "ItemName": "Silver Piggy", "Quantity": 1 }
           }
         }
       },
@@ -17700,38 +18176,6 @@
           }
         }
       },
-      "Silver Piggy": {
-        "LayoutOrder": 150,
-        "Inputs": {
-          "1": {
-            "ItemType": "Pet",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Pig" }
-          },
-          "4": {
-            "ItemType": "PetBoost",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Medium Toy" }
-          },
-          "3": {
-            "ItemType": "Lightning Rod",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Lightning Rod" }
-          },
-          "2": {
-            "ItemType": "Food",
-            "ItemData": { "ItemName": "Sushi", "Quantity": 1 }
-          }
-        },
-        "TimeToCraft": 1800,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 150000000 },
-        "PurchaseID": 3460381175,
-        "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 419,
-        "Outputs": {
-          "1": {
-            "ItemType": "Pet",
-            "ItemData": { "ItemName": "Silver Piggy", "Quantity": 1 }
-          }
-        }
-      },
       "Event Lantern": {
         "LayoutOrder": 10,
         "Inputs": {
@@ -17753,6 +18197,29 @@
           "1": {
             "ItemType": "Gear",
             "ItemData": { "ItemName": "Event Lantern", "Quantity": 30 }
+          }
+        }
+      },
+      "Glimmering Crate": {
+        "LayoutOrder": 50,
+        "Inputs": {
+          "1": {
+            "ItemType": "CosmeticCrate",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Enchanted Crate"
+            }
+          }
+        },
+        "TimeToCraft": 300,
+        "Cost": { "CurrencyType": "FairyPoints", "Amount": 1000 },
+        "PurchaseID": 3394269769,
+        "MachineTypes": { "1": "FairyWorldCraftingWorkBench" },
+        "RobuxPrice": 179,
+        "Outputs": {
+          "1": {
+            "ItemType": "CosmeticCrate",
+            "ItemData": { "ItemName": "Glimmering Crate", "Quantity": 1 }
           }
         }
       },
@@ -17791,29 +18258,38 @@
         "RobuxPrice": 229,
         "DisplayInCrafting": false
       },
-      "Enchanted Seed Pack": {
-        "LayoutOrder": 20,
+      "Chimera Stone": {
+        "LayoutOrder": 170,
         "Inputs": {
           "1": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mushroom" }
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mythical Egg" }
+          },
+          "4": {
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Gem Egg" }
+          },
+          "3": {
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Jungle Egg" }
           },
           "2": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mushroom" }
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Bug Egg" }
           }
         },
-        "TimeToCraft": 300,
-        "Cost": { "CurrencyType": "FairyPoints", "Amount": 1500 },
-        "PurchaseID": 3394271793,
-        "MachineTypes": { "1": "FairyWorldCraftingWorkBench" },
-        "RobuxPrice": 99,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 500000000 },
+        "PurchaseID": 3460382022,
+        "RobuxPrice": 199,
+        "TimeToCraft": 3600,
         "Outputs": {
           "1": {
-            "ItemType": "Seed Pack",
-            "ItemData": { "ItemName": "Enchanted Seed Pack", "Quantity": 1 }
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Chimera Stone", "Quantity": 1 }
           }
-        }
+        },
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "DisplayInCrafting": true
       },
       "Mutation Spray Chilled": {
         "LayoutOrder": 80,
@@ -17846,53 +18322,25 @@
         "MachineTypes": { "1": "GearEventWorkbench" },
         "DisplayInCrafting": false
       },
-      "Evo Apple I": {
-        "LayoutOrder": 10,
+      "Archaeologist Crate": {
+        "LayoutOrder": 115,
         "Inputs": {
           "1": {
-            "ItemType": "Holdable",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Evo Beetroot IV"
-            }
-          },
-          "3": {
-            "ItemType": "Holdable",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Evo Pumpkin IV"
-            }
-          },
-          "2": {
-            "ItemType": "Holdable",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Evo Blueberry IV"
-            }
-          },
-          "5": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Sugar Apple" }
-          },
-          "4": {
-            "ItemType": "Holdable",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Evo Mushroom IV"
-            }
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Dinosaur Egg" }
           }
         },
+        "TimeToCraft": 1800,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
+        "PurchaseID": 3329654888,
+        "MachineTypes": { "1": "DinoEventWorkbench" },
+        "RobuxPrice": 179,
         "Outputs": {
           "1": {
-            "ItemType": "Seed",
-            "ItemData": { "ItemName": "Evo Apple I", "Quantity": 1 }
+            "ItemType": "CosmeticCrate",
+            "ItemData": { "ItemName": "Archaeologist Crate", "Quantity": 2 }
           }
-        },
-        "TimeToCraft": 600,
-        "PurchaseID": 3420523696,
-        "MachineTypes": { "1": "SeedEventWorkbench" },
-        "RobuxPrice": 195,
-        "DisplayInCrafting": true
+        }
       },
       "Pack Bee": {
         "LayoutOrder": 120,
@@ -17913,17 +18361,18 @@
             }
           }
         },
-        "TimeToCraft": 14400,
         "Cost": { "CurrencyType": "Honey", "Amount": 250 },
         "PurchaseID": 3306484257,
-        "MachineTypes": { "1": "GearEventWorkbench" },
         "RobuxPrice": 799,
+        "TimeToCraft": 14400,
         "Outputs": {
           "1": {
             "ItemType": "Pet",
             "ItemData": { "ItemName": "Pack Bee", "Quantity": 1 }
           }
-        }
+        },
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "DisplayInCrafting": false
       },
       "Tools Rack": {
         "LayoutOrder": 180,
@@ -17953,34 +18402,34 @@
           }
         }
       },
-      "Chimera Stone": {
-        "LayoutOrder": 170,
+      "Black Spotty Egg": {
+        "LayoutOrder": 180,
         "Inputs": {
           "1": {
             "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mythical Egg" }
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Rare Egg" }
           },
           "4": {
-            "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Gem Egg" }
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Crimson Thorn" }
           },
           "3": {
-            "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Jungle Egg" }
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Zebrazinkle" }
           },
           "2": {
-            "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Bug Egg" }
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Octobloom" }
           }
         },
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 500000000 },
-        "PurchaseID": 3460382022,
-        "RobuxPrice": 199,
-        "TimeToCraft": 3600,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 1000000000000000 },
+        "PurchaseID": 3596451885,
+        "RobuxPrice": 829,
+        "TimeToCraft": 14400,
         "Outputs": {
           "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Chimera Stone", "Quantity": 1 }
+            "ItemType": "PetEgg",
+            "ItemData": { "ItemName": "Black Spotty Egg", "Quantity": 1 }
           }
         },
         "MachineTypes": { "1": "GearEventWorkbench" },
@@ -18248,39 +18697,6 @@
         "MachineTypes": { "1": "SeedEventWorkbench" },
         "DisplayInCrafting": true
       },
-      "Evo Apple II": {
-        "LayoutOrder": 15,
-        "Inputs": {
-          "1": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
-          },
-          "4": {
-            "ItemType": "Seed",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
-          },
-          "3": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
-          },
-          "2": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
-          }
-        },
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 30000000 },
-        "PurchaseID": 3420524026,
-        "RobuxPrice": 349,
-        "TimeToCraft": 1200,
-        "Outputs": {
-          "1": {
-            "ItemType": "Seed",
-            "ItemData": { "ItemName": "Evo Apple II", "Quantity": 1 }
-          }
-        },
-        "MachineTypes": { "1": "SeedEventWorkbench" },
-        "DisplayInCrafting": true
-      },
       "Lumira": {
         "LayoutOrder": 160,
         "Inputs": {
@@ -18317,6 +18733,37 @@
         "MachineTypes": { "1": "SeedEventWorkbench" },
         "DisplayInCrafting": false
       },
+      "Fairy Summoner": {
+        "LayoutOrder": 80,
+        "Inputs": {
+          "1": {
+            "ItemType": "Fairy Jar",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Jar" }
+          },
+          "3": {
+            "ItemType": "Fairy Power Extender",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Fairy Power Extender"
+            }
+          },
+          "2": {
+            "ItemType": "Fairy Net",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Net" }
+          }
+        },
+        "TimeToCraft": 3600,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 15000000 },
+        "PurchaseID": 3395556009,
+        "MachineTypes": { "1": "FairyGeniusEventWorkbench" },
+        "RobuxPrice": 399,
+        "Outputs": {
+          "1": {
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Fairy Summoner", "Quantity": 1 }
+          }
+        }
+      },
       "Olive": {
         "LayoutOrder": 100,
         "Inputs": {
@@ -18349,25 +18796,41 @@
           }
         }
       },
-      "Archaeologist Crate": {
-        "LayoutOrder": 115,
+      "Grand Volcania": {
+        "LayoutOrder": 30,
         "Inputs": {
           "1": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Ember Lily" }
+          },
+          "4": {
+            "ItemType": "Seed Pack",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Ancient Seed Pack"
+            }
+          },
+          "3": {
             "ItemType": "PetEgg",
             "ItemData": { "AcceptAllTypes": false, "ItemName": "Dinosaur Egg" }
+          },
+          "2": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Ember Lily" }
           }
         },
-        "TimeToCraft": 1800,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
-        "PurchaseID": 3329654888,
-        "MachineTypes": { "1": "DinoEventWorkbench" },
-        "RobuxPrice": 179,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 900000 },
+        "PurchaseID": 3329521774,
+        "RobuxPrice": 819,
+        "TimeToCraft": 2700,
         "Outputs": {
           "1": {
-            "ItemType": "CosmeticCrate",
-            "ItemData": { "ItemName": "Archaeologist Crate", "Quantity": 2 }
+            "ItemType": "Seed",
+            "ItemData": { "ItemName": "Grand Volcania", "Quantity": 1 }
           }
-        }
+        },
+        "MachineTypes": { "1": "SeedEventWorkbench" },
+        "DisplayInCrafting": false
       },
       "Horse Shoe Magnet": {
         "LayoutOrder": 500,
@@ -18404,23 +18867,34 @@
           }
         }
       },
-      "Anti Bee Egg": {
-        "LayoutOrder": 110,
+      "Luminous Wand": {
+        "LayoutOrder": 60,
         "Inputs": {
           "1": {
-            "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Bee Egg" }
+            "ItemType": "Fairy Jar",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Jar" }
+          },
+          "3": {
+            "ItemType": "Fairy Power Extender",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Fairy Power Extender"
+            }
+          },
+          "2": {
+            "ItemType": "Fairy Jar",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Jar" }
           }
         },
-        "TimeToCraft": 7200,
-        "Cost": { "CurrencyType": "Honey", "Amount": 25 },
-        "PurchaseID": 3306484244,
-        "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 149,
+        "TimeToCraft": 900,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 10000000 },
+        "PurchaseID": 3395556016,
+        "MachineTypes": { "1": "FairyGeniusEventWorkbench" },
+        "RobuxPrice": 219,
         "Outputs": {
           "1": {
-            "ItemType": "PetEgg",
-            "ItemData": { "ItemName": "Anti Bee Egg", "Quantity": 1 }
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Luminous Wand", "Quantity": 1 }
           }
         }
       },
@@ -18533,23 +19007,40 @@
           }
         }
       },
-      "Ancient Seed Pack": {
-        "LayoutOrder": 100,
+      "Tanning Mirror": {
+        "LayoutOrder": 6,
         "Inputs": {
           "1": {
-            "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Dinosaur Egg" }
+            "ItemType": "Sprinkler",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Basic Sprinkler"
+            }
+          },
+          "3": {
+            "ItemType": "Sprinkler",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Godly Sprinkler"
+            }
+          },
+          "2": {
+            "ItemType": "Sprinkler",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Advanced Sprinkler"
+            }
           }
         },
-        "TimeToCraft": 3600,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
-        "PurchaseID": 3324600388,
-        "MachineTypes": { "1": "DinoEventWorkbench" },
-        "RobuxPrice": 199,
+        "TimeToCraft": 2700,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 500000 },
+        "PurchaseID": 3311159836,
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "RobuxPrice": 219,
         "Outputs": {
           "1": {
-            "ItemType": "Seed Pack",
-            "ItemData": { "ItemName": "Ancient Seed Pack", "Quantity": 2 }
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Tanning Mirror", "Quantity": 1 }
           }
         }
       },
@@ -18642,42 +19133,38 @@
           }
         }
       },
-      "Tanning Mirror": {
-        "LayoutOrder": 6,
+      "Veinpetal": {
+        "LayoutOrder": 15,
         "Inputs": {
           "1": {
-            "ItemType": "Sprinkler",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Basic Sprinkler"
-            }
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Orange Tulip" }
+          },
+          "4": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
           },
           "3": {
-            "ItemType": "Sprinkler",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Godly Sprinkler"
-            }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
           },
           "2": {
-            "ItemType": "Sprinkler",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Advanced Sprinkler"
-            }
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Daffodil" }
           }
         },
-        "TimeToCraft": 2700,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 500000 },
-        "PurchaseID": 3311159836,
-        "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 219,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 650000 },
+        "PurchaseID": 3354091526,
+        "RobuxPrice": 459,
+        "TimeToCraft": 1200,
         "Outputs": {
           "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Tanning Mirror", "Quantity": 1 }
+            "ItemType": "Seed",
+            "ItemData": { "ItemName": "Veinpetal", "Quantity": 1 }
           }
-        }
+        },
+        "MachineTypes": { "1": "SeedEventWorkbench" },
+        "DisplayInCrafting": false
       },
       "Stalk Sprout Sprinkler": {
         "LayoutOrder": 60,
@@ -18714,41 +19201,25 @@
         "RobuxPrice": 229,
         "DisplayInCrafting": false
       },
-      "Grand Volcania": {
-        "LayoutOrder": 30,
+      "Ancient Seed Pack": {
+        "LayoutOrder": 100,
         "Inputs": {
           "1": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Ember Lily" }
-          },
-          "4": {
-            "ItemType": "Seed Pack",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Ancient Seed Pack"
-            }
-          },
-          "3": {
             "ItemType": "PetEgg",
             "ItemData": { "AcceptAllTypes": false, "ItemName": "Dinosaur Egg" }
-          },
-          "2": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Ember Lily" }
           }
         },
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 900000 },
-        "PurchaseID": 3329521774,
-        "RobuxPrice": 819,
-        "TimeToCraft": 2700,
+        "TimeToCraft": 3600,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
+        "PurchaseID": 3324600388,
+        "MachineTypes": { "1": "DinoEventWorkbench" },
+        "RobuxPrice": 199,
         "Outputs": {
           "1": {
-            "ItemType": "Seed",
-            "ItemData": { "ItemName": "Grand Volcania", "Quantity": 1 }
+            "ItemType": "Seed Pack",
+            "ItemData": { "ItemName": "Ancient Seed Pack", "Quantity": 2 }
           }
-        },
-        "MachineTypes": { "1": "SeedEventWorkbench" },
-        "DisplayInCrafting": false
+        }
       },
       "Anvil": {
         "LayoutOrder": 100,
@@ -18881,38 +19352,6 @@
         "MachineTypes": { "1": "SeedEventWorkbench" },
         "DisplayInCrafting": false
       },
-      "Willowberry": {
-        "LayoutOrder": 160,
-        "Inputs": {
-          "1": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Flare Melon" }
-          },
-          "4": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
-          },
-          "3": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
-          },
-          "2": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Glowpod" }
-          }
-        },
-        "TimeToCraft": 1800,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
-        "PurchaseID": 3379244616,
-        "MachineTypes": { "1": "GiantBeanstalkEventWorkbench" },
-        "RobuxPrice": 589,
-        "Outputs": {
-          "1": {
-            "ItemType": "Seed",
-            "ItemData": { "ItemName": "Willowberry", "Quantity": 1 }
-          }
-        }
-      },
       "Mutation Spray Pollinated": {
         "LayoutOrder": 80,
         "Inputs": {
@@ -18944,26 +19383,51 @@
         "MachineTypes": { "1": "GearEventWorkbench" },
         "DisplayInCrafting": false
       },
-      "Glimmering Crate": {
-        "LayoutOrder": 50,
+      "Reclaimer": {
+        "LayoutOrder": 8,
         "Inputs": {
           "1": {
-            "ItemType": "CosmeticCrate",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Enchanted Crate"
-            }
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Common Egg" }
+          },
+          "2": {
+            "ItemType": "Harvest Tool",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Harvest Tool" }
+          }
+        },
+        "TimeToCraft": 1500,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 500000 },
+        "PurchaseID": 3309686533,
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "RobuxPrice": 199,
+        "Outputs": {
+          "1": {
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Reclaimer", "Quantity": 3 }
+          }
+        }
+      },
+      "Enchanted Seed Pack": {
+        "LayoutOrder": 20,
+        "Inputs": {
+          "1": {
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mushroom" }
+          },
+          "2": {
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mushroom" }
           }
         },
         "TimeToCraft": 300,
-        "Cost": { "CurrencyType": "FairyPoints", "Amount": 1000 },
-        "PurchaseID": 3394269769,
+        "Cost": { "CurrencyType": "FairyPoints", "Amount": 1500 },
+        "PurchaseID": 3394271793,
         "MachineTypes": { "1": "FairyWorldCraftingWorkBench" },
-        "RobuxPrice": 179,
+        "RobuxPrice": 99,
         "Outputs": {
           "1": {
-            "ItemType": "CosmeticCrate",
-            "ItemData": { "ItemName": "Glimmering Crate", "Quantity": 1 }
+            "ItemType": "Seed Pack",
+            "ItemData": { "ItemName": "Enchanted Seed Pack", "Quantity": 1 }
           }
         }
       },
@@ -18994,27 +19458,35 @@
           }
         }
       },
-      "Reclaimer": {
-        "LayoutOrder": 8,
+      "Willowberry": {
+        "LayoutOrder": 160,
         "Inputs": {
           "1": {
-            "ItemType": "PetEgg",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Common Egg" }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Flare Melon" }
+          },
+          "4": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
+          },
+          "3": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Beanstalk" }
           },
           "2": {
-            "ItemType": "Harvest Tool",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Harvest Tool" }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Glowpod" }
           }
         },
-        "TimeToCraft": 1500,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 500000 },
-        "PurchaseID": 3309686533,
-        "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 199,
+        "TimeToCraft": 1800,
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 5500000 },
+        "PurchaseID": 3379244616,
+        "MachineTypes": { "1": "GiantBeanstalkEventWorkbench" },
+        "RobuxPrice": 589,
         "Outputs": {
           "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Reclaimer", "Quantity": 3 }
+            "ItemType": "Seed",
+            "ItemData": { "ItemName": "Willowberry", "Quantity": 1 }
           }
         }
       },
@@ -19189,41 +19661,6 @@
           }
         }
       },
-      "Tropical Mist Sprinkler": {
-        "LayoutOrder": 10,
-        "Inputs": {
-          "1": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Coconut" }
-          },
-          "4": {
-            "ItemType": "Sprinkler",
-            "ItemData": {
-              "AcceptAllTypes": false,
-              "ItemName": "Godly Sprinkler"
-            }
-          },
-          "3": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Mango" }
-          },
-          "2": {
-            "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Dragon Fruit" }
-          }
-        },
-        "Outputs": {
-          "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Tropical Mist Sprinkler", "Quantity": 1 }
-          }
-        },
-        "TimeToCraft": 3600,
-        "PurchaseID": 3306484251,
-        "MachineTypes": { "1": "GearEventWorkbench" },
-        "RobuxPrice": 229,
-        "DisplayInCrafting": false
-      },
       "Glimmering Radar": {
         "LayoutOrder": 20,
         "Inputs": {
@@ -19247,6 +19684,27 @@
             "ItemData": { "ItemName": "Glimmering Radar", "Quantity": 5 }
           }
         }
+      },
+      "Anti Bee Egg": {
+        "LayoutOrder": 110,
+        "Inputs": {
+          "1": {
+            "ItemType": "PetEgg",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Bee Egg" }
+          }
+        },
+        "Cost": { "CurrencyType": "Honey", "Amount": 25 },
+        "PurchaseID": 3306484244,
+        "RobuxPrice": 149,
+        "TimeToCraft": 7200,
+        "Outputs": {
+          "1": {
+            "ItemType": "PetEgg",
+            "ItemData": { "ItemName": "Anti Bee Egg", "Quantity": 1 }
+          }
+        },
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "DisplayInCrafting": false
       },
       "Smithing Dog": {
         "LayoutOrder": 200,
@@ -19276,64 +19734,73 @@
           }
         }
       },
-      "Luminous Wand": {
-        "LayoutOrder": 60,
+      "Sweet Soaker Sprinkler": {
+        "LayoutOrder": 40,
         "Inputs": {
           "1": {
-            "ItemType": "Fairy Jar",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Jar" }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Watermelon" }
           },
-          "3": {
-            "ItemType": "Fairy Power Extender",
+          "4": {
+            "ItemType": "Sprinkler",
             "ItemData": {
               "AcceptAllTypes": false,
-              "ItemName": "Fairy Power Extender"
+              "ItemName": "Master Sprinkler"
             }
-          },
-          "2": {
-            "ItemType": "Fairy Jar",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Jar" }
-          }
-        },
-        "TimeToCraft": 900,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 10000000 },
-        "PurchaseID": 3395556016,
-        "MachineTypes": { "1": "FairyGeniusEventWorkbench" },
-        "RobuxPrice": 219,
-        "Outputs": {
-          "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Luminous Wand", "Quantity": 1 }
-          }
-        }
-      },
-      "Shield Statue": {
-        "LayoutOrder": 400,
-        "Inputs": {
-          "1": {
-            "ItemType": "Rare Coal",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Rare Coal" }
           },
           "3": {
             "ItemType": "Holdable",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Apple" }
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Watermelon" }
           },
           "2": {
-            "ItemType": "Favorite Tool",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Favorite Tool" }
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Watermelon" }
           }
         },
-        "TimeToCraft": 900,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 10500000 },
-        "PurchaseID": 3455271420,
-        "MachineTypes": { "1": "SmithingEventCosmeticWorkbench" },
-        "RobuxPrice": 239,
         "Outputs": {
           "1": {
-            "ItemType": "Cosmetic",
-            "ItemData": { "ItemName": "Shield Statue", "Quantity": 1 }
+            "ItemType": "Gear",
+            "ItemData": { "ItemName": "Sweet Soaker Sprinkler", "Quantity": 1 }
           }
-        }
+        },
+        "TimeToCraft": 3600,
+        "PurchaseID": 3306484252,
+        "MachineTypes": { "1": "GearEventWorkbench" },
+        "RobuxPrice": 229,
+        "DisplayInCrafting": false
+      },
+      "Evo Apple II": {
+        "LayoutOrder": 15,
+        "Inputs": {
+          "1": {
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
+          },
+          "4": {
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Burning Bud" }
+          },
+          "3": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
+          },
+          "2": {
+            "ItemType": "Holdable",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Evo Apple I" }
+          }
+        },
+        "Cost": { "CurrencyType": "Sheckles", "Amount": 30000000 },
+        "PurchaseID": 3420524026,
+        "RobuxPrice": 349,
+        "TimeToCraft": 1200,
+        "Outputs": {
+          "1": {
+            "ItemType": "Seed",
+            "ItemData": { "ItemName": "Evo Apple II", "Quantity": 1 }
+          }
+        },
+        "MachineTypes": { "1": "SeedEventWorkbench" },
+        "DisplayInCrafting": true
       },
       "Mutation Spray Shocked": {
         "LayoutOrder": 90,
@@ -19429,36 +19896,53 @@
           }
         }
       },
-      "Fairy Summoner": {
-        "LayoutOrder": 80,
+      "Evo Apple I": {
+        "LayoutOrder": 10,
         "Inputs": {
           "1": {
-            "ItemType": "Fairy Jar",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Jar" }
-          },
-          "3": {
-            "ItemType": "Fairy Power Extender",
+            "ItemType": "Holdable",
             "ItemData": {
               "AcceptAllTypes": false,
-              "ItemName": "Fairy Power Extender"
+              "ItemName": "Evo Beetroot IV"
+            }
+          },
+          "3": {
+            "ItemType": "Holdable",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Evo Pumpkin IV"
             }
           },
           "2": {
-            "ItemType": "Fairy Net",
-            "ItemData": { "AcceptAllTypes": false, "ItemName": "Fairy Net" }
+            "ItemType": "Holdable",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Evo Blueberry IV"
+            }
+          },
+          "5": {
+            "ItemType": "Seed",
+            "ItemData": { "AcceptAllTypes": false, "ItemName": "Sugar Apple" }
+          },
+          "4": {
+            "ItemType": "Holdable",
+            "ItemData": {
+              "AcceptAllTypes": false,
+              "ItemName": "Evo Mushroom IV"
+            }
           }
         },
-        "TimeToCraft": 3600,
-        "Cost": { "CurrencyType": "Sheckles", "Amount": 15000000 },
-        "PurchaseID": 3395556009,
-        "MachineTypes": { "1": "FairyGeniusEventWorkbench" },
-        "RobuxPrice": 399,
         "Outputs": {
           "1": {
-            "ItemType": "Gear",
-            "ItemData": { "ItemName": "Fairy Summoner", "Quantity": 1 }
+            "ItemType": "Seed",
+            "ItemData": { "ItemName": "Evo Apple I", "Quantity": 1 }
           }
-        }
+        },
+        "TimeToCraft": 600,
+        "PurchaseID": 3420523696,
+        "MachineTypes": { "1": "SeedEventWorkbench" },
+        "RobuxPrice": 195,
+        "DisplayInCrafting": true
       },
       "Gem Egg": {
         "LayoutOrder": 100,
@@ -19539,6 +20023,7 @@
     "Capybara",
     "Cardinal",
     "Carnival Elephant",
+    "Carpenter Bee",
     "Cat",
     "Caterpillar",
     "Celebration Puppy",
@@ -19616,7 +20101,9 @@
     "GIANT Firefly",
     "GIANT Firemite",
     "GIANT Grizzly Bear",
+    "GIANT Leaf Insect",
     "GIANT Mantis Shrimp",
+    "GIANT Quetzal",
     "GIANT Robin",
     "GIANT Silver Dragonfly",
     "GIANT Snowman Builder",
@@ -19675,6 +20162,7 @@
     "Hedgehog",
     "Hex Serpent",
     "Hippo",
+    "Honey Badger",
     "Honey Bee",
     "Hootsie Roll",
     "Hotdog Daschund",
@@ -19693,12 +20181,14 @@
     "Jerboa",
     "Junkbot",
     "Kappa",
+    "King Bee",
     "Kitsune",
     "Kiwi",
     "Kodama",
     "Koi",
     "Krampus",
     "Ladybug",
+    "Leaf Insect",
     "Lemon Lion",
     "Lich",
     "Lion",
@@ -19720,9 +20210,11 @@
     "Mizuchi",
     "Mochi Mouse",
     "Mole",
+    "Monitor Lizard",
     "Monkey",
     "Moon Cat",
     "Moose",
+    "Moss Wyvern",
     "Moth",
     "Mummy",
     "New Year's Bird",
@@ -19760,10 +20252,12 @@
     "Pixie",
     "Polar Bear",
     "Praying Mantis",
+    "Prince Wasp",
     "Professor Bee",
     "Pterodactyl",
     "Pumpkin Rat",
     "Queen Bee",
+    "Quetzal",
     "Raccoon",
     "Radioactive Stegosaurus",
     "Raiju",
@@ -19813,6 +20307,8 @@
     "Rainbow Maneki-neko",
     "Rainbow Mistletoad",
     "Rainbow Mizuchi",
+    "Rainbow Monitor Lizard",
+    "Rainbow Moss Wyvern",
     "Rainbow New Year's Bird",
     "Rainbow New Year's Chimp",
     "Rainbow New Year's Dragon",
