@@ -41939,10 +41939,10 @@
       "displayName": "Skip Dungeon Timer",
       "displayDescription": "",
       "displayIcon": 89417535603012,
-      "PriceInRobux": 999,
+      "PriceInRobux": 199,
       "IsForSale": true,
       "Created": "2026-05-30T20:34:02.624Z",
-      "Updated": "2026-05-30T20:34:02.624Z",
+      "Updated": "2026-05-30T20:35:50.408Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41962,7 +41962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999,
+      "UserBasePriceInRobux": 199,
       "PriceDiscountDetails": []
     },
     {
@@ -41974,10 +41974,10 @@
       "displayName": "Skip Ignition Timer",
       "displayDescription": "",
       "displayIcon": 118859113973889,
-      "PriceInRobux": 999,
+      "PriceInRobux": 39,
       "IsForSale": true,
       "Created": "2026-05-30T20:34:20.614Z",
-      "Updated": "2026-05-30T20:34:20.614Z",
+      "Updated": "2026-05-30T20:35:57.912Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41997,7 +41997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999,
+      "UserBasePriceInRobux": 39,
       "PriceDiscountDetails": []
     },
     {
@@ -43752,6 +43752,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-30T20:35:40.551Z",
+  "lastFetched": "2026-05-30T20:37:47.856Z",
   "totalProducts": 1250
 }
