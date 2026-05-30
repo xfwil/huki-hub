@@ -27970,14 +27970,14 @@
       "DeveloperProductId": 75674465,
       "Name": "Heal All Bees",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 97734118435450,
       "displayName": "Heal All Bees",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 999,
+      "displayIcon": 97734118435450,
+      "PriceInRobux": 99,
       "IsForSale": true,
       "Created": "2026-05-30T05:22:08.574Z",
-      "Updated": "2026-05-30T05:22:08.574Z",
+      "Updated": "2026-05-30T08:42:01.371Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27988,7 +27988,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75674465,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 97734118435450,
       "DisplayName": "Heal All Bees",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -27997,7 +27997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999,
+      "UserBasePriceInRobux": 99,
       "PriceDiscountDetails": []
     },
     {
@@ -43682,6 +43682,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-05-30T05:22:35.693Z",
+  "lastFetched": "2026-05-30T08:43:02.076Z",
   "totalProducts": 1248
 }
