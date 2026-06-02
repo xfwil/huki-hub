@@ -27978,7 +27978,7 @@
       "IsForSale": true,
       "Created": "2026-05-30T05:22:08.574Z",
       "Updated": "2026-05-30T08:42:01.371Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -43752,6 +43752,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-01T08:02:05.819Z",
+  "lastFetched": "2026-06-02T17:11:53.640Z",
   "totalProducts": 1250
 }
