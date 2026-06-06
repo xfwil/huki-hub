@@ -13863,16 +13863,16 @@
     {
       "ProductId": 3602926608,
       "DeveloperProductId": 75952288,
-      "Name": "Common Summer Egg Campfire",
+      "Name": "Common Summer Egg [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Common Summer Egg Campfire",
+      "IconImageAssetId": 75155819506551,
+      "displayName": "Common Summer Egg [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 75155819506551,
+      "PriceInRobux": 29,
       "IsForSale": true,
       "Created": "2026-06-05T23:00:09.25Z",
-      "Updated": "2026-06-05T23:00:09.25Z",
+      "Updated": "2026-06-06T08:00:58.318Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13883,8 +13883,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75952288,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Common Summer Egg Campfire",
+      "DisplayIconImageAssetId": 75155819506551,
+      "DisplayName": "Common Summer Egg [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -13892,7 +13892,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 29,
       "PriceDiscountDetails": []
     },
     {
@@ -27688,16 +27688,16 @@
     {
       "ProductId": 3602926691,
       "DeveloperProductId": 75952295,
-      "Name": "Rare Summer Egg Campfire",
+      "Name": "Rare Summer Egg [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Rare Summer Egg Campfire",
+      "IconImageAssetId": 121621317048365,
+      "displayName": "Rare Summer Egg [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 121621317048365,
+      "PriceInRobux": 99,
       "IsForSale": true,
       "Created": "2026-06-05T23:00:59.213Z",
-      "Updated": "2026-06-05T23:00:59.213Z",
+      "Updated": "2026-06-06T08:01:31.145Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27708,8 +27708,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75952295,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Rare Summer Egg Campfire",
+      "DisplayIconImageAssetId": 121621317048365,
+      "DisplayName": "Rare Summer Egg [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -27717,7 +27717,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 99,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T07:59:59.990Z",
+  "lastFetched": "2026-06-06T08:02:06.300Z",
   "totalProducts": 1283
 }
