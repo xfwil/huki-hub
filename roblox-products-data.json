@@ -13968,16 +13968,16 @@
     {
       "ProductId": 3602957485,
       "DeveloperProductId": 75954437,
-      "Name": "Banana",
+      "Name": "Banana Seed [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Banana",
+      "IconImageAssetId": 112582349393151,
+      "displayName": "Banana Seed [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 9999,
+      "displayIcon": 112582349393151,
+      "PriceInRobux": 459,
       "IsForSale": true,
       "Created": "2026-06-06T03:07:31.41Z",
-      "Updated": "2026-06-06T03:07:31.41Z",
+      "Updated": "2026-06-06T07:46:25.672Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13988,8 +13988,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75954437,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Banana",
+      "DisplayIconImageAssetId": 112582349393151,
+      "DisplayName": "Banana Seed [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -13997,7 +13997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 459,
       "PriceDiscountDetails": []
     },
     {
@@ -27863,16 +27863,16 @@
     {
       "ProductId": 3602957512,
       "DeveloperProductId": 75954439,
-      "Name": "Kiwi",
+      "Name": "Kiwi Seed [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Kiwi",
+      "IconImageAssetId": 95874506005236,
+      "displayName": "Kiwi Seed [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 95874506005236,
+      "PriceInRobux": 529,
       "IsForSale": true,
       "Created": "2026-06-06T03:07:45.024Z",
-      "Updated": "2026-06-06T03:07:45.024Z",
+      "Updated": "2026-06-06T07:45:27.391Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27883,8 +27883,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75954439,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Kiwi",
+      "DisplayIconImageAssetId": 95874506005236,
+      "DisplayName": "Kiwi Seed [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -27892,7 +27892,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 529,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T07:45:23.193Z",
+  "lastFetched": "2026-06-06T07:47:29.569Z",
   "totalProducts": 1283
 }
