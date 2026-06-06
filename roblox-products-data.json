@@ -27653,16 +27653,16 @@
     {
       "ProductId": 3602917731,
       "DeveloperProductId": 75951386,
-      "Name": "Hearth Reed",
+      "Name": "Hearth Reed Seed",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Hearth Reed",
+      "IconImageAssetId": 107649695273482,
+      "displayName": "Hearth Reed Seed",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 9999,
+      "displayIcon": 107649695273482,
+      "PriceInRobux": 379,
       "IsForSale": true,
       "Created": "2026-06-05T21:41:36.384Z",
-      "Updated": "2026-06-05T21:41:36.384Z",
+      "Updated": "2026-06-06T08:24:31.481Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27673,8 +27673,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75951386,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Hearth Reed",
+      "DisplayIconImageAssetId": 107649695273482,
+      "DisplayName": "Hearth Reed Seed",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -27682,7 +27682,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 379,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T08:22:50.932Z",
+  "lastFetched": "2026-06-06T08:24:57.122Z",
   "totalProducts": 1283
 }
