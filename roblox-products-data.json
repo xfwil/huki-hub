@@ -13828,16 +13828,16 @@
     {
       "ProductId": 3602920382,
       "DeveloperProductId": 75951632,
-      "Name": "Energy Chew",
+      "Name": "Energy Chew [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Energy Chew",
+      "IconImageAssetId": 138209026992262,
+      "displayName": "Energy Chew [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 9999,
+      "displayIcon": 138209026992262,
+      "PriceInRobux": 249,
       "IsForSale": true,
       "Created": "2026-06-05T22:03:58.486Z",
-      "Updated": "2026-06-05T22:03:58.486Z",
+      "Updated": "2026-06-06T08:19:45.447Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13848,8 +13848,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75951632,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Energy Chew",
+      "DisplayIconImageAssetId": 138209026992262,
+      "DisplayName": "Energy Chew [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -13857,7 +13857,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 249,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T08:18:38.226Z",
+  "lastFetched": "2026-06-06T08:20:44.457Z",
   "totalProducts": 1283
 }
