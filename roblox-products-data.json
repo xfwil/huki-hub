@@ -27624,10 +27624,10 @@
       "displayName": "Firepit Flower Seed",
       "displayDescription": "",
       "displayIcon": 124650656729423,
-      "PriceInRobux": 9999,
+      "PriceInRobux": 169,
       "IsForSale": true,
       "Created": "2026-06-05T21:40:41.506Z",
-      "Updated": "2026-06-06T08:22:32.825Z",
+      "Updated": "2026-06-06T08:25:25.943Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27647,7 +27647,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 169,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T08:24:57.122Z",
+  "lastFetched": "2026-06-06T08:27:03.308Z",
   "totalProducts": 1283
 }
