@@ -27723,16 +27723,16 @@
     {
       "ProductId": 3602926787,
       "DeveloperProductId": 75952308,
-      "Name": "Paradise Egg Campfire",
+      "Name": "Paradise Egg [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Paradise Egg Campfire",
+      "IconImageAssetId": 91785278544366,
+      "displayName": "Paradise Egg [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 91785278544366,
+      "PriceInRobux": 139,
       "IsForSale": true,
       "Created": "2026-06-05T23:01:47.03Z",
-      "Updated": "2026-06-05T23:01:47.03Z",
+      "Updated": "2026-06-06T07:59:37.499Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27743,8 +27743,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75952308,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Paradise Egg Campfire",
+      "DisplayIconImageAssetId": 91785278544366,
+      "DisplayName": "Paradise Egg [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -27752,7 +27752,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 139,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T07:57:53.602Z",
+  "lastFetched": "2026-06-06T07:59:59.990Z",
   "totalProducts": 1283
 }
