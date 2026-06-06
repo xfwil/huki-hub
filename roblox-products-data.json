@@ -27793,16 +27793,16 @@
     {
       "ProductId": 3602926962,
       "DeveloperProductId": 75952334,
-      "Name": "Gold Level up Lollipop Campfire",
+      "Name": "Gold Level up Lollipop [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Gold Level up Lollipop Campfire",
+      "IconImageAssetId": 74509825828196,
+      "displayName": "Gold Level up Lollipop [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 74509825828196,
+      "PriceInRobux": 599,
       "IsForSale": true,
       "Created": "2026-06-05T23:03:24.153Z",
-      "Updated": "2026-06-05T23:03:24.153Z",
+      "Updated": "2026-06-06T08:17:58.134Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27813,8 +27813,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75952334,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Gold Level up Lollipop Campfire",
+      "DisplayIconImageAssetId": 74509825828196,
+      "DisplayName": "Gold Level up Lollipop [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -27822,7 +27822,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 599,
       "PriceDiscountDetails": []
     },
     {
@@ -41933,16 +41933,16 @@
     {
       "ProductId": 3602927017,
       "DeveloperProductId": 75952339,
-      "Name": "Silver Level up Lollipop Campfire",
+      "Name": "Silver Level up Lollipop [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Silver Level up Lollipop Campfire",
+      "IconImageAssetId": 94799900671954,
+      "displayName": "Silver Level up Lollipop [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 99999,
+      "displayIcon": 94799900671954,
+      "PriceInRobux": 299,
       "IsForSale": true,
       "Created": "2026-06-05T23:04:05.637Z",
-      "Updated": "2026-06-05T23:04:05.637Z",
+      "Updated": "2026-06-06T08:18:13.192Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41953,8 +41953,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75952339,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Silver Level up Lollipop Campfire",
+      "DisplayIconImageAssetId": 94799900671954,
+      "DisplayName": "Silver Level up Lollipop [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -41962,7 +41962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 299,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T08:08:21.384Z",
+  "lastFetched": "2026-06-06T08:18:38.226Z",
   "totalProducts": 1283
 }
