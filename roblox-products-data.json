@@ -13764,10 +13764,10 @@
       "displayName": "Campfire Crate",
       "displayDescription": "",
       "displayIcon": null,
-      "PriceInRobux": 9999,
+      "PriceInRobux": 179,
       "IsForSale": true,
       "Created": "2026-06-05T21:41:00.033Z",
-      "Updated": "2026-06-05T21:41:00.033Z",
+      "Updated": "2026-06-06T08:02:41.873Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13787,7 +13787,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 179,
       "PriceDiscountDetails": []
     },
     {
@@ -13795,14 +13795,14 @@
       "DeveloperProductId": 75951394,
       "Name": "Campfire Egg",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 115816673514786,
       "displayName": "Campfire Egg",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 9999,
+      "displayIcon": 115816673514786,
+      "PriceInRobux": 149,
       "IsForSale": true,
       "Created": "2026-06-05T21:41:54.369Z",
-      "Updated": "2026-06-05T21:41:54.369Z",
+      "Updated": "2026-06-06T08:02:15.348Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -13813,7 +13813,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75951394,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 115816673514786,
       "DisplayName": "Campfire Egg",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -13822,7 +13822,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 149,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T08:02:06.300Z",
+  "lastFetched": "2026-06-06T08:04:12.502Z",
   "totalProducts": 1283
 }
