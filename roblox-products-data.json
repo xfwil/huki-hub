@@ -27898,16 +27898,16 @@
     {
       "ProductId": 3602958511,
       "DeveloperProductId": 75954480,
-      "Name": "Prickly Pear",
+      "Name": "Prickly Pear Seed [Campfire]",
       "Description": "",
-      "IconImageAssetId": 0,
-      "displayName": "Prickly Pear",
+      "IconImageAssetId": 125987023717580,
+      "displayName": "Prickly Pear Seed [Campfire]",
       "displayDescription": "",
-      "displayIcon": null,
-      "PriceInRobux": 9999,
+      "displayIcon": 125987023717580,
+      "PriceInRobux": 599,
       "IsForSale": true,
       "Created": "2026-06-06T03:15:51.687Z",
-      "Updated": "2026-06-06T03:15:51.687Z",
+      "Updated": "2026-06-06T07:44:32.499Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27918,8 +27918,8 @@
         "CreatorTargetId": 0
       },
       "TargetId": 75954480,
-      "DisplayIconImageAssetId": 0,
-      "DisplayName": "Prickly Pear",
+      "DisplayIconImageAssetId": 125987023717580,
+      "DisplayName": "Prickly Pear Seed [Campfire]",
       "DisplayDescription": "",
       "IsPublicDomain": false,
       "IsLimited": false,
@@ -27927,7 +27927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999,
+      "UserBasePriceInRobux": 599,
       "PriceDiscountDetails": []
     },
     {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-06T07:43:16.478Z",
+  "lastFetched": "2026-06-06T07:45:23.193Z",
   "totalProducts": 1283
 }
