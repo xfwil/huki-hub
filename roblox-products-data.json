@@ -27593,7 +27593,7 @@
       "IsForSale": true,
       "Created": "2026-06-05T00:32:59.368Z",
       "Updated": "2026-06-06T07:54:20.558Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -44883,7 +44883,7 @@
       "IsForSale": true,
       "Created": "2026-06-05T00:33:16.575Z",
       "Updated": "2026-06-06T07:55:08.226Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -44907,6 +44907,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-07T23:36:43.210Z",
+  "lastFetched": "2026-06-08T00:54:46.572Z",
   "totalProducts": 1283
 }
