@@ -13873,7 +13873,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:40:00.229Z",
       "Updated": "2026-06-10T19:40:00.229Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -13908,7 +13908,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:40:14.312Z",
       "Updated": "2026-06-10T19:40:14.312Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -13943,7 +13943,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:40:28.183Z",
       "Updated": "2026-06-10T19:40:28.183Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -13978,7 +13978,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:40:41.114Z",
       "Updated": "2026-06-10T19:40:41.114Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -30766,41 +30766,6 @@
       "PriceDiscountDetails": []
     },
     {
-      "ProductId": 3312007405,
-      "DeveloperProductId": 68360252,
-      "Name": "[GIFT] Cauliflower Seed",
-      "Description": "",
-      "IconImageAssetId": 109461804501954,
-      "displayName": "[GIFT] Cauliflower Seed",
-      "displayDescription": "",
-      "displayIcon": 109461804501954,
-      "PriceInRobux": 135,
-      "IsForSale": true,
-      "Created": "2025-06-19T21:09:03.302Z",
-      "Updated": "2025-06-19T21:09:05.686Z",
-      "IsNew": false,
-      "UniverseId": 7436755782,
-      "ProductType": "Developer Product",
-      "Creator": {
-        "Id": 0,
-        "Name": null,
-        "CreatorType": null,
-        "CreatorTargetId": 0
-      },
-      "TargetId": 68360252,
-      "DisplayIconImageAssetId": 109461804501954,
-      "DisplayName": "[GIFT] Cauliflower Seed",
-      "DisplayDescription": "",
-      "IsPublicDomain": false,
-      "IsLimited": false,
-      "MinimumMembershipLevel": 0,
-      "IsLimitedUnique": false,
-      "AssetId": 0,
-      "AssetTypeId": 0,
-      "UserBasePriceInRobux": 135,
-      "PriceDiscountDetails": []
-    },
-    {
       "ProductId": 3312010696,
       "DeveloperProductId": 68360312,
       "Name": "[GIFT] Banana Seed",
@@ -41733,7 +41698,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:40:53.323Z",
       "Updated": "2026-06-10T19:40:53.323Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41768,7 +41733,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:41:05.069Z",
       "Updated": "2026-06-10T19:41:05.069Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41803,7 +41768,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:41:18.946Z",
       "Updated": "2026-06-10T19:41:18.946Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41838,7 +41803,7 @@
       "IsForSale": true,
       "Created": "2026-06-10T19:41:31.983Z",
       "Updated": "2026-06-10T19:41:31.983Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41873,7 +41838,7 @@
       "IsForSale": true,
       "Created": "2026-06-11T18:53:26.593Z",
       "Updated": "2026-06-11T18:53:26.593Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41908,7 +41873,7 @@
       "IsForSale": true,
       "Created": "2026-06-11T18:54:37.345Z",
       "Updated": "2026-06-11T18:54:37.345Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41943,7 +41908,7 @@
       "IsForSale": true,
       "Created": "2026-06-12T04:09:24.336Z",
       "Updated": "2026-06-12T04:09:24.336Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41978,7 +41943,7 @@
       "IsForSale": true,
       "Created": "2026-06-12T04:09:45.187Z",
       "Updated": "2026-06-12T04:09:45.187Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41998,6 +41963,41 @@
       "AssetId": 0,
       "AssetTypeId": 0,
       "UserBasePriceInRobux": 799,
+      "PriceDiscountDetails": []
+    },
+    {
+      "ProductId": 3604894503,
+      "DeveloperProductId": 76131747,
+      "Name": "Skip Ritual [Common-Uncommon]",
+      "Description": "",
+      "IconImageAssetId": 126412131237802,
+      "displayName": "Skip Ritual [Common-Uncommon]",
+      "displayDescription": "",
+      "displayIcon": 126412131237802,
+      "PriceInRobux": 999999999,
+      "IsForSale": true,
+      "Created": "2026-06-15T23:29:22.439Z",
+      "Updated": "2026-06-15T23:29:22.439Z",
+      "IsNew": true,
+      "UniverseId": 7436755782,
+      "ProductType": "Developer Product",
+      "Creator": {
+        "Id": 0,
+        "Name": null,
+        "CreatorType": null,
+        "CreatorTargetId": 0
+      },
+      "TargetId": 76131747,
+      "DisplayIconImageAssetId": 126412131237802,
+      "DisplayName": "Skip Ritual [Common-Uncommon]",
+      "DisplayDescription": "",
+      "IsPublicDomain": false,
+      "IsLimited": false,
+      "MinimumMembershipLevel": 0,
+      "IsLimitedUnique": false,
+      "AssetId": 0,
+      "AssetTypeId": 0,
+      "UserBasePriceInRobux": 999999999,
       "PriceDiscountDetails": []
     },
     {
@@ -43258,6 +43258,41 @@
       "AssetId": 0,
       "AssetTypeId": 0,
       "UserBasePriceInRobux": 475,
+      "PriceDiscountDetails": []
+    },
+    {
+      "ProductId": 3312007405,
+      "DeveloperProductId": 68360252,
+      "Name": "[GIFT] Cauliflower Seed",
+      "Description": "",
+      "IconImageAssetId": 109461804501954,
+      "displayName": "[GIFT] Cauliflower Seed",
+      "displayDescription": "",
+      "displayIcon": 109461804501954,
+      "PriceInRobux": 135,
+      "IsForSale": true,
+      "Created": "2025-06-19T21:09:03.302Z",
+      "Updated": "2025-06-19T21:09:05.686Z",
+      "IsNew": false,
+      "UniverseId": 7436755782,
+      "ProductType": "Developer Product",
+      "Creator": {
+        "Id": 0,
+        "Name": null,
+        "CreatorType": null,
+        "CreatorTargetId": 0
+      },
+      "TargetId": 68360252,
+      "DisplayIconImageAssetId": 109461804501954,
+      "DisplayName": "[GIFT] Cauliflower Seed",
+      "DisplayDescription": "",
+      "IsPublicDomain": false,
+      "IsLimited": false,
+      "MinimumMembershipLevel": 0,
+      "IsLimitedUnique": false,
+      "AssetId": 0,
+      "AssetTypeId": 0,
+      "UserBasePriceInRobux": 135,
       "PriceDiscountDetails": []
     },
     {
@@ -45327,6 +45362,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-13T07:42:36.820Z",
-  "totalProducts": 1295
+  "lastFetched": "2026-06-15T23:29:40.848Z",
+  "totalProducts": 1296
 }
