@@ -18,7 +18,6 @@
     "Gold",
     "Grape",
     "Green Bean",
-    "Green Bean",
     "Horned Melon",
     "Mango",
     "Moon Bloom",
@@ -173,15 +172,15 @@
     "Unicorn"
   ],
   "mutationPriceMultipliers": {
-    "Electric": 70,
-    "Rainbow": 40,
-    "Bloodlit": 80,
-    "Starstruck": 25,
-    "Chained": 4,
+    "Electric": 25,
+    "Rainbow": 30,
+    "Bloodlit": 60,
+    "Starstruck": 50,
+    "Chained": 8,
     "Gold": 10,
     "Solarflare": 5,
     "Pizza": 5,
-    "Frozen": 40
+    "Frozen": 14
   },
   "sellValueData": {
     "Green Bean": 10,
