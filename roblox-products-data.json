@@ -27974,10 +27974,10 @@
       "displayName": "Flame Bear",
       "displayDescription": "",
       "displayIcon": 136607592509292,
-      "PriceInRobux": 9999999,
+      "PriceInRobux": 529,
       "IsForSale": true,
       "Created": "2026-06-16T21:54:20.344Z",
-      "Updated": "2026-06-20T02:33:29.63Z",
+      "Updated": "2026-06-20T02:37:24.894Z",
       "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -27997,7 +27997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 9999999,
+      "UserBasePriceInRobux": 529,
       "PriceDiscountDetails": []
     },
     {
@@ -41904,10 +41904,10 @@
       "displayName": "Shadow Spine Seed",
       "displayDescription": "",
       "displayIcon": 109497533782300,
-      "PriceInRobux": 99999,
+      "PriceInRobux": 799,
       "IsForSale": true,
       "Created": "2026-06-18T03:05:08.724Z",
-      "Updated": "2026-06-20T02:34:18.805Z",
+      "Updated": "2026-06-20T02:37:57.783Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41927,7 +41927,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 99999,
+      "UserBasePriceInRobux": 799,
       "PriceDiscountDetails": []
     },
     {
@@ -41939,10 +41939,10 @@
       "displayName": "Shadow Cat",
       "displayDescription": "",
       "displayIcon": 131610677562218,
-      "PriceInRobux": 999999,
+      "PriceInRobux": 679,
       "IsForSale": true,
       "Created": "2026-06-18T03:05:32.34Z",
-      "Updated": "2026-06-20T02:34:42.798Z",
+      "Updated": "2026-06-20T02:38:18.91Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41962,7 +41962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999,
+      "UserBasePriceInRobux": 679,
       "PriceDiscountDetails": []
     },
     {
@@ -41974,10 +41974,10 @@
       "displayName": "Smoke Stalk Seed",
       "displayDescription": "",
       "displayIcon": 139271314373245,
-      "PriceInRobux": 999999,
+      "PriceInRobux": 439,
       "IsForSale": true,
       "Created": "2026-06-18T03:06:12.986Z",
-      "Updated": "2026-06-20T02:33:46.493Z",
+      "Updated": "2026-06-20T02:37:42.699Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41997,7 +41997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999,
+      "UserBasePriceInRobux": 439,
       "PriceDiscountDetails": []
     },
     {
@@ -45572,6 +45572,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-20T02:35:00.458Z",
+  "lastFetched": "2026-06-20T02:39:09.063Z",
   "totalProducts": 1302
 }
