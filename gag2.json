@@ -19,6 +19,7 @@
     "Grape",
     "Green Bean",
     "Horned Melon",
+    "Hypnobloom",
     "Mango",
     "Moon Bloom",
     "Mushroom",
@@ -32,6 +33,7 @@
     "Sunflower",
     "Tomato",
     "Tulip",
+    "Venom Spitter",
     "Venus Fly Trap"
   ],
   "gears": [
@@ -40,14 +42,21 @@
     "Common Watering Can",
     "Flashbang",
     "Gnome",
+    "Grappling Hook",
     "Invisibility Mushroom",
     "Jump Mushroom",
     "Lantern",
+    "Legendary Pet Teleporter",
     "Legendary Sprinkler",
+    "Megaphone",
+    "Mythic Pet Teleporter",
+    "Player Magnet",
     "Rare Sprinkler",
     "Shrink Mushroom",
     "Sign",
     "Speed Mushroom",
+    "Strawberry Sniper",
+    "Super Pet Teleporter",
     "Super Sprinkler",
     "Super Watering Can",
     "Supersize Mushroom",
@@ -158,6 +167,7 @@
     "Uncommon Seed Pack"
   ],
   "pets": [
+    "Bear",
     "Bee",
     "BlackDragon",
     "Bunny",
@@ -179,16 +189,19 @@
     "Chained": 8,
     "Gold": 10,
     "Solarflare": 5,
+    "Aurora": 1.5,
     "Pizza": 5,
     "Frozen": 14
   },
   "sellValueData": {
+    "Hypnobloom": 2000,
     "Green Bean": 10,
     "Dragon's Breath": 3400,
     "Coconut": 60,
     "Tulip": 60,
     "Tomato": 9,
     "Apple": 12,
+    "Venom Spitter": 4000,
     "Pomegranate": 900,
     "Cherry": 350,
     "Blueberry": 5,
@@ -197,7 +210,7 @@
     "Strawberry": 3,
     "Poison Apple": 900,
     "Pineapple": 30,
-    "Poison Ivy": 1700,
+    "Mushroom": 13000,
     "Romanesco": 1500,
     "Pumpkin": 350,
     "Venus Fly Trap": 3000,
@@ -208,19 +221,20 @@
     "Sunflower": 1750,
     "Lotus": 6500,
     "Dragon Fruit": 150,
-    "Bamboo": 800,
+    "Pinetree": 100,
     "Beanstalk": 2000,
-    "Mushroom": 13000,
+    "Bamboo": 800,
     "Carrot": 5,
     "Mango": 90,
     "Cactus": 40,
-    "Pinetree": 100,
     "Moon Bloom": 9000,
     "Horned Melon": 200,
+    "Poison Ivy": 1700,
     "Corn": 34,
     "Ghost Pepper": 2500
   },
   "fruitBaseWeights": {
+    "Hypnobloom": 9,
     "Green Bean": 0.5,
     "Grape": 2,
     "Coconut": 1.5,
@@ -228,6 +242,7 @@
     "Tomato": 0.9,
     "Moon Bloom OLD": 1.5,
     "Apple": 1.5,
+    "Venom Spitter": 9,
     "PartFruit": 500,
     "Pomegranate": 1.5,
     "Cherry": 1.5,
@@ -261,8 +276,11 @@
     "Baby Cactus": 1.5,
     "Ghost Pepper": 7.5
   },
-  "sizeExponentOverrides": { "_defaultExponent": 2.65 },
+  "sizeExponentOverrides": {
+    "_defaultExponent": 2.65
+  },
   "mutations": [
+    "Aurora",
     "Bloodlit",
     "Chained",
     "Electric",
@@ -281,11 +299,30 @@
     "Super Sprinkler"
   ],
   "petsByRarity": {
-    "Legendary": ["Bee", "Robin"],
-    "Common": ["Bunny", "Frog"],
-    "Mythic": ["GoldenDragonfly", "Monkey", "Unicorn"],
-    "Super": ["BlackDragon", "IceSerpent", "Raccoon"],
-    "Uncommon": ["Owl"],
-    "Rare": ["Deer"]
+    "Legendary": [
+      "Bee",
+      "Robin"
+    ],
+    "Common": [
+      "Bunny",
+      "Frog"
+    ],
+    "Mythic": [
+      "Bear",
+      "GoldenDragonfly",
+      "Monkey",
+      "Unicorn"
+    ],
+    "Super": [
+      "BlackDragon",
+      "IceSerpent",
+      "Raccoon"
+    ],
+    "Uncommon": [
+      "Owl"
+    ],
+    "Rare": [
+      "Deer"
+    ]
   }
 }
