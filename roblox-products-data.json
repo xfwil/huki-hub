@@ -27978,7 +27978,7 @@
       "IsForSale": true,
       "Created": "2026-06-16T21:54:20.344Z",
       "Updated": "2026-06-16T21:54:20.344Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41799,11 +41799,11 @@
       "displayName": "Skip Ritual [Common-Uncommon]",
       "displayDescription": "",
       "displayIcon": 126412131237802,
-      "PriceInRobux": 999999999,
+      "PriceInRobux": 29,
       "IsForSale": true,
       "Created": "2026-06-15T23:29:22.439Z",
-      "Updated": "2026-06-15T23:29:22.439Z",
-      "IsNew": true,
+      "Updated": "2026-06-20T02:31:53.815Z",
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41822,7 +41822,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999999,
+      "UserBasePriceInRobux": 29,
       "PriceDiscountDetails": []
     },
     {
@@ -41834,11 +41834,11 @@
       "displayName": "Skip Ritual [Rare-Mythical]",
       "displayDescription": "",
       "displayIcon": 96191787166076,
-      "PriceInRobux": 999999999,
+      "PriceInRobux": 149,
       "IsForSale": true,
       "Created": "2026-06-15T23:29:52.942Z",
-      "Updated": "2026-06-15T23:29:52.942Z",
-      "IsNew": true,
+      "Updated": "2026-06-20T02:32:22.52Z",
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41857,7 +41857,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999999,
+      "UserBasePriceInRobux": 149,
       "PriceDiscountDetails": []
     },
     {
@@ -41869,11 +41869,11 @@
       "displayName": "Skip Ritual [Divine-Prismatic]",
       "displayDescription": "",
       "displayIcon": 131915896253595,
-      "PriceInRobux": 999999999,
+      "PriceInRobux": 299,
       "IsForSale": true,
       "Created": "2026-06-15T23:30:29.631Z",
-      "Updated": "2026-06-15T23:30:37.009Z",
-      "IsNew": true,
+      "Updated": "2026-06-20T02:32:48.563Z",
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41892,7 +41892,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999999,
+      "UserBasePriceInRobux": 299,
       "PriceDiscountDetails": []
     },
     {
@@ -45572,6 +45572,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-18T03:08:11.518Z",
+  "lastFetched": "2026-06-20T02:32:54.415Z",
   "totalProducts": 1302
 }
