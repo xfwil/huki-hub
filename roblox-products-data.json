@@ -41908,7 +41908,7 @@
       "IsForSale": true,
       "Created": "2026-06-18T03:05:08.724Z",
       "Updated": "2026-06-20T02:37:57.783Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41943,7 +41943,7 @@
       "IsForSale": true,
       "Created": "2026-06-18T03:05:32.34Z",
       "Updated": "2026-06-20T02:38:18.91Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -41978,7 +41978,7 @@
       "IsForSale": true,
       "Created": "2026-06-18T03:06:12.986Z",
       "Updated": "2026-06-20T02:37:42.699Z",
-      "IsNew": true,
+      "IsNew": false,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
       "Creator": {
@@ -45572,6 +45572,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-20T02:39:09.063Z",
+  "lastFetched": "2026-06-22T04:46:33.957Z",
   "totalProducts": 1302
 }
