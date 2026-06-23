@@ -41935,14 +41935,14 @@
       "DeveloperProductId": 76256102,
       "Name": "Summer Fire Reroll",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 121564095131701,
       "displayName": "Summer Fire Reroll",
       "displayDescription": "",
-      "displayIcon": null,
+      "displayIcon": 121564095131701,
       "PriceInRobux": 999999999,
       "IsForSale": true,
       "Created": "2026-06-23T00:15:28.744Z",
-      "Updated": "2026-06-23T00:15:28.744Z",
+      "Updated": "2026-06-23T00:22:00.432Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41953,7 +41953,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 76256102,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 121564095131701,
       "DisplayName": "Summer Fire Reroll",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -45642,6 +45642,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-23T00:16:49.750Z",
+  "lastFetched": "2026-06-23T00:23:01.592Z",
   "totalProducts": 1304
 }
