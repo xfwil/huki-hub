@@ -41970,14 +41970,14 @@
       "DeveloperProductId": 76256109,
       "Name": "Summer Fire Skip Quests",
       "Description": "",
-      "IconImageAssetId": 0,
+      "IconImageAssetId": 75919141881716,
       "displayName": "Summer Fire Skip Quests",
       "displayDescription": "",
-      "displayIcon": null,
+      "displayIcon": 75919141881716,
       "PriceInRobux": 999999999,
       "IsForSale": true,
       "Created": "2026-06-23T00:16:03.125Z",
-      "Updated": "2026-06-23T00:16:03.125Z",
+      "Updated": "2026-06-23T00:23:43.057Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41988,7 +41988,7 @@
         "CreatorTargetId": 0
       },
       "TargetId": 76256109,
-      "DisplayIconImageAssetId": 0,
+      "DisplayIconImageAssetId": 75919141881716,
       "DisplayName": "Summer Fire Skip Quests",
       "DisplayDescription": "",
       "IsPublicDomain": false,
@@ -45642,6 +45642,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-23T00:23:01.592Z",
+  "lastFetched": "2026-06-23T00:25:08.084Z",
   "totalProducts": 1304
 }
