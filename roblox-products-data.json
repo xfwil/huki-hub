@@ -41939,10 +41939,10 @@
       "displayName": "Summer Fire Reroll",
       "displayDescription": "",
       "displayIcon": 121564095131701,
-      "PriceInRobux": 999999999,
+      "PriceInRobux": 20000,
       "IsForSale": true,
       "Created": "2026-06-23T00:15:28.744Z",
-      "Updated": "2026-06-23T00:22:00.432Z",
+      "Updated": "2026-06-23T00:28:53.513Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41962,7 +41962,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999999,
+      "UserBasePriceInRobux": 20000,
       "PriceDiscountDetails": []
     },
     {
@@ -41974,10 +41974,10 @@
       "displayName": "Summer Fire Skip Quests",
       "displayDescription": "",
       "displayIcon": 75919141881716,
-      "PriceInRobux": 999999999,
+      "PriceInRobux": 20000,
       "IsForSale": true,
       "Created": "2026-06-23T00:16:03.125Z",
-      "Updated": "2026-06-23T00:23:43.057Z",
+      "Updated": "2026-06-23T00:29:02.777Z",
       "IsNew": true,
       "UniverseId": 7436755782,
       "ProductType": "Developer Product",
@@ -41997,7 +41997,7 @@
       "IsLimitedUnique": false,
       "AssetId": 0,
       "AssetTypeId": 0,
-      "UserBasePriceInRobux": 999999999,
+      "UserBasePriceInRobux": 20000,
       "PriceDiscountDetails": []
     },
     {
@@ -45642,6 +45642,6 @@
     }
   ],
   "totalPages": 4,
-  "lastFetched": "2026-06-23T00:25:08.084Z",
+  "lastFetched": "2026-06-23T00:29:17.777Z",
   "totalProducts": 1304
 }
