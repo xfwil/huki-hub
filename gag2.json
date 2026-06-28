@@ -6,6 +6,7 @@
     "Bamboo",
     "Banana",
     "Blueberry",
+    "Briar Rose",
     "Cactus",
     "Carrot",
     "Cherry",
@@ -19,8 +20,9 @@
     "Grape",
     "Green Bean",
     "Horned Melon",
-    "Hypnobloom",
+    "Hypno Bloom",
     "Mango",
+    "Mega",
     "Moon Bloom",
     "Mushroom",
     "Pineapple",
@@ -42,13 +44,13 @@
     "Common Watering Can",
     "Flashbang",
     "Gnome",
-    "Grappling Hook",
     "Invisibility Mushroom",
     "Jump Mushroom",
-    "Lantern",
+    "Legendary Pet Lure",
     "Legendary Pet Teleporter",
     "Legendary Sprinkler",
     "Megaphone",
+    "Mythic Pet Lure",
     "Mythic Pet Teleporter",
     "Player Magnet",
     "Rare Sprinkler",
@@ -56,6 +58,7 @@
     "Sign",
     "Speed Mushroom",
     "Strawberry Sniper",
+    "Super Pet Lure",
     "Super Pet Teleporter",
     "Super Sprinkler",
     "Super Watering Can",
@@ -68,6 +71,7 @@
   "props": [
     "Beach Towel",
     "Big Bridge",
+    "Big Picture Frame",
     "Big Sign",
     "Big Teleport Pad",
     "Bonfire",
@@ -97,6 +101,7 @@
     "Ladder",
     "Line Pattern Wall",
     "Log Bench",
+    "Mega Picture Frame",
     "Moss Light",
     "Mythic Spring",
     "Normal Bench",
@@ -115,6 +120,7 @@
     "Small Arch",
     "Small Bridge",
     "Small Hanging Rope Light",
+    "Small Picture Frame",
     "Small Rock",
     "Star Lights",
     "Strong Wall",
@@ -147,6 +153,7 @@
     "Light Crate",
     "Mythic Guild Crate",
     "Owner Door Crate",
+    "Picture Frame Crate",
     "Rare Guild Crate",
     "Roleplay Crate",
     "Seesaw Crate",
@@ -179,6 +186,7 @@
     "Owl",
     "Raccoon",
     "Robin",
+    "Turtle",
     "Unicorn"
   ],
   "mutationPriceMultipliers": {
@@ -187,6 +195,7 @@
     "Bloodlit": 60,
     "Starstruck": 50,
     "Chained": 8,
+    "Ignited": 60,
     "Gold": 10,
     "Solarflare": 5,
     "Aurora": 1.5,
@@ -194,47 +203,41 @@
     "Frozen": 14
   },
   "sellValueData": {
-    "Hypnobloom": 2000,
     "Green Bean": 10,
     "Dragon's Breath": 3400,
     "Coconut": 60,
     "Tulip": 60,
     "Tomato": 9,
     "Apple": 12,
-    "Venom Spitter": 4000,
+    "Venom Spitter": 3800,
     "Pomegranate": 900,
     "Cherry": 350,
     "Blueberry": 5,
     "Glow Mushroom": 700,
-    "Thorn Rose": 140,
     "Strawberry": 3,
     "Poison Apple": 900,
     "Pineapple": 30,
-    "Mushroom": 13000,
-    "Romanesco": 1500,
-    "Pumpkin": 350,
+    "Poison Ivy": 1700,
+    "Hypno Bloom": 9500,
+    "Briar Rose": 6500,
     "Venus Fly Trap": 3000,
-    "Baby Cactus": 70,
-    "Banana": 35,
-    "Grape": 45,
     "Acorn": 200,
-    "Sunflower": 1750,
-    "Lotus": 6500,
+    "Horned Melon": 200,
+    "Grape": 45,
     "Dragon Fruit": 150,
-    "Pinetree": 100,
-    "Beanstalk": 2000,
     "Bamboo": 800,
+    "Mushroom": 13000,
+    "Sunflower": 1750,
     "Carrot": 5,
     "Mango": 90,
     "Cactus": 40,
     "Moon Bloom": 9000,
-    "Horned Melon": 200,
-    "Poison Ivy": 1700,
+    "Baby Cactus": 70,
     "Corn": 34,
+    "Banana": 35,
     "Ghost Pepper": 2500
   },
   "fruitBaseWeights": {
-    "Hypnobloom": 9,
     "Green Bean": 0.5,
     "Grape": 2,
     "Coconut": 1.5,
@@ -255,11 +258,13 @@
     "Poison Ivy": 2.1,
     "Romanesco": 1.5,
     "Pumpkin": 5,
+    "Briar Rose": 9,
     "Mushroom": 5,
-    "Lotus": 1.5,
     "Bamboo": 4,
+    "Lotus": 1.5,
     "Pinetree": 1.5,
     "Buttercup": 5,
+    "Hypno Bloom": 9,
     "Acorn": 1.5,
     "Moon Bloom": 9,
     "Dragon's Breath": 7.5,
@@ -276,9 +281,7 @@
     "Baby Cactus": 1.5,
     "Ghost Pepper": 7.5
   },
-  "sizeExponentOverrides": {
-    "_defaultExponent": 2.65
-  },
+  "sizeExponentOverrides": { "_defaultExponent": 2.65 },
   "mutations": [
     "Aurora",
     "Bloodlit",
@@ -286,6 +289,7 @@
     "Electric",
     "Frozen",
     "Gold",
+    "Ignited",
     "Pizza",
     "Rainbow",
     "Solarflare",
@@ -299,30 +303,11 @@
     "Super Sprinkler"
   ],
   "petsByRarity": {
-    "Legendary": [
-      "Bee",
-      "Robin"
-    ],
-    "Common": [
-      "Bunny",
-      "Frog"
-    ],
-    "Mythic": [
-      "Bear",
-      "GoldenDragonfly",
-      "Monkey",
-      "Unicorn"
-    ],
-    "Super": [
-      "BlackDragon",
-      "IceSerpent",
-      "Raccoon"
-    ],
-    "Uncommon": [
-      "Owl"
-    ],
-    "Rare": [
-      "Deer"
-    ]
+    "Super": ["BlackDragon", "IceSerpent", "Raccoon"],
+    "Common": ["Bunny", "Frog"],
+    "Mythic": ["Bear", "GoldenDragonfly", "Monkey", "Unicorn"],
+    "Legendary": ["Bee", "Robin"],
+    "Uncommon": ["Owl"],
+    "Rare": ["Deer", "Turtle"]
   }
 }
