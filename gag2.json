@@ -306,6 +306,37 @@
     "Turtle",
     "Unicorn"
   ],
+  "cratesByRarity": {
+    "Legendary": [
+      "Bear Trap Crate",
+      "Boombox Crate",
+      "Fence Crate",
+      "Legendary Guild Crate",
+      "Owner Door Crate"
+    ],
+    "Common": ["Common Guild Crate", "Ladder Crate"],
+    "Mythic": [
+      "Mythic Guild Crate",
+      "Super Guild Crate",
+      "Teleporter Pad Crate"
+    ],
+    "Epic": [
+      "Bridge Crate",
+      "Conveyor Crate",
+      "Epic Guild Crate",
+      "Fourth Of July Crate",
+      "Seesaw Crate",
+      "Spring Crate"
+    ],
+    "Uncommon": ["Bench Crate", "Light Crate", "Uncommon Guild Crate"],
+    "Rare": [
+      "Arch Crate",
+      "Picture Frame Crate",
+      "Rare Guild Crate",
+      "Roleplay Crate",
+      "Sign Crate"
+    ]
+  },
   "sizeExponentOverrides": { "_defaultExponent": 2.65 },
   "mutations": [
     "Aurora",
@@ -697,6 +728,25 @@
     "Super": ["Black Dragon", "Ice Serpent", "Raccoon"],
     "Uncommon": ["Owl"],
     "Rare": ["Deer", "Turtle"]
+  },
+  "cratePrices": {
+    "Roleplay Crate": 300000,
+    "Fence Crate": 7000000,
+    "Conveyor Crate": 700000,
+    "Boombox Crate": 2000000,
+    "Bear Trap Crate": 500000,
+    "Ladder Crate": 30000,
+    "Light Crate": 90000,
+    "Bench Crate": 60000,
+    "Arch Crate": 200000,
+    "Sign Crate": 150000,
+    "Teleporter Pad Crate": 20000000,
+    "Fourth Of July Crate": 500000,
+    "Seesaw Crate": 1500000,
+    "Spring Crate": 900000,
+    "Picture Frame Crate": 350000,
+    "Owner Door Crate": 1500000,
+    "Bridge Crate": 700000
   },
   "crates": [
     "Arch Crate",
