@@ -542,32 +542,33 @@
     "Uncommon Sprinkler",
     "Wheelbarrow"
   ],
-  "crates": [
-    "Arch Crate",
-    "Bear Trap Crate",
-    "Bench Crate",
-    "Boombox Crate",
-    "Bridge Crate",
-    "Common Guild Crate",
-    "Conveyor Crate",
-    "Epic Guild Crate",
-    "Fence Crate",
-    "Fourth Of July Crate",
-    "Ladder Crate",
-    "Legendary Guild Crate",
-    "Light Crate",
-    "Mythic Guild Crate",
-    "Owner Door Crate",
-    "Picture Frame Crate",
-    "Rare Guild Crate",
-    "Roleplay Crate",
-    "Seesaw Crate",
-    "Sign Crate",
-    "Spring Crate",
-    "Super Guild Crate",
-    "Teleporter Pad Crate",
-    "Uncommon Guild Crate"
-  ],
+  "gearsByRarity": {
+    "Legendary": [
+      "Invisibility Mushroom",
+      "Legendary Pet Teleporter",
+      "Legendary Sprinkler",
+      "Teleporter",
+      "Wheelbarrow"
+    ],
+    "Epic": [
+      "Basic Pot",
+      "Flashbang",
+      "Gnome",
+      "Shrink Mushroom",
+      "Supersize Mushroom"
+    ],
+    "Common": ["Common Sprinkler", "Common Watering Can", "Sign"],
+    "Mythic": ["Mythic Pet Teleporter", "Player Magnet", "Strawberry Sniper"],
+    "Super": ["Super Pet Teleporter", "Super Sprinkler", "Super Watering Can"],
+    "Uncommon": ["Uncommon Sprinkler"],
+    "Rare": [
+      "Jump Mushroom",
+      "Megaphone",
+      "Rare Sprinkler",
+      "Speed Mushroom",
+      "Trowel"
+    ]
+  },
   "seedPacks": [
     "Common Seed Pack",
     "Ghost Pepper Pack",
@@ -697,5 +698,31 @@
     "Uncommon": ["Owl"],
     "Rare": ["Deer", "Turtle"]
   },
+  "crates": [
+    "Arch Crate",
+    "Bear Trap Crate",
+    "Bench Crate",
+    "Boombox Crate",
+    "Bridge Crate",
+    "Common Guild Crate",
+    "Conveyor Crate",
+    "Epic Guild Crate",
+    "Fence Crate",
+    "Fourth Of July Crate",
+    "Ladder Crate",
+    "Legendary Guild Crate",
+    "Light Crate",
+    "Mythic Guild Crate",
+    "Owner Door Crate",
+    "Picture Frame Crate",
+    "Rare Guild Crate",
+    "Roleplay Crate",
+    "Seesaw Crate",
+    "Sign Crate",
+    "Spring Crate",
+    "Super Guild Crate",
+    "Teleporter Pad Crate",
+    "Uncommon Guild Crate"
+  ],
   "mutationSeeds": ["Gold", "Mega", "Rainbow"]
 }
